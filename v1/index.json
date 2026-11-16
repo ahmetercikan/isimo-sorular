@@ -42,6 +42,13 @@
  },
  "history": [
   {
+   "at": "2026-11-16T17:01:20.939Z",
+   "id": "leylailemecnun",
+   "added": 0,
+   "ok": false,
+   "error": "Claude Code hata: You've hit your 5-hour limit · resets 5:30pm (UTC)"
+  },
+  {
    "at": "2026-11-16T17:01:15.789Z",
    "id": "bluey",
    "added": 0,
@@ -189,10 +196,10 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T17:01:16.945Z",
+ "updated": "2026-11-16T17:01:22.085Z",
  "last": {
-  "at": "2026-11-16T17:01:15.789Z",
-  "id": "bluey",
+  "at": "2026-11-16T17:01:20.939Z",
+  "id": "leylailemecnun",
   "added": 0,
   "ok": false,
   "error": "Claude Code hata: You've hit your 5-hour limit · resets 5:30pm (UTC)"
