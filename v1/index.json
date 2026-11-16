@@ -1,14 +1,32 @@
 {
- "nextKey": 100040,
+ "nextKey": 100100,
  "counts": {
   "titanik": 10,
-  "harrypotter": 30
+  "harrypotter": 30,
+  "yuzuklerinefendisi": 30,
+  "alacakaranlik": 30
  },
  "lastAt": {
   "titanik": "2026-11-16",
-  "harrypotter": "2026-11-16"
+  "harrypotter": "2026-11-16",
+  "yuzuklerinefendisi": "2026-11-16",
+  "alacakaranlik": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T15:12:49.009Z",
+   "id": "alacakaranlik",
+   "added": 30,
+   "rejected": 2,
+   "ok": true
+  },
+  {
+   "at": "2026-11-16T15:07:02.782Z",
+   "id": "yuzuklerinefendisi",
+   "added": 30,
+   "rejected": 6,
+   "ok": true
+  },
   {
    "at": "2026-11-16T15:00:11.424Z",
    "id": "harrypotter",
@@ -24,12 +42,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T15:06:58.198Z",
+ "updated": "2026-11-16T15:18:52.946Z",
  "last": {
-  "at": "2026-11-16T15:00:11.424Z",
-  "id": "harrypotter",
+  "at": "2026-11-16T15:12:49.009Z",
+  "id": "alacakaranlik",
   "added": 30,
-  "rejected": 4,
+  "rejected": 2,
   "ok": true
  }
 }

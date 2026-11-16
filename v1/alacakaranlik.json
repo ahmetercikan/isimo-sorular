@@ -1,0 +1,456 @@
+{
+ "id": "alacakaranlik",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Alacakaranlık serisinin ilk filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2008",
+    "2006",
+    "2009",
+    "2010"
+   ],
+   "tf": false,
+   "oops": "Vampir olsan bile takvimi karıştırmamalıydın!",
+   "src": "https://en.wikipedia.org/wiki/Twilight_(2008_film)",
+   "k": 100070,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Serinin son filmi Şafak Vakti Kısım 2 hangi yıl vizyona girdi?",
+   "a": [
+    "2012",
+    "2011",
+    "2013",
+    "2014"
+   ],
+   "tf": false,
+   "oops": "Edward ölümsüz ama sen yıl hesabında takıldın.",
+   "src": "https://horror.fandom.com/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2",
+   "k": 100071,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Bella, Forks'ta havanın genellikle nasıl olduğunu söyler?",
+   "a": [
+    "Yağmurlu ve bulutlu",
+    "Kavurucu sıcak",
+    "Karlı ve dondurucu",
+    "Güneşli ve açık"
+   ],
+   "tf": false,
+   "oops": "Forks'ta şemsiyeni evde unutmuşsun gibi!",
+   "src": "https://movies.fandom.com/wiki/Twilight_(2008)/Transcript",
+   "k": 100072,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Edward geceleri Bella'nın odasına hangi yoldan girer?",
+   "a": [
+    "Pencereden",
+    "Ön kapıdan",
+    "Bacadan",
+    "Garaj kapısından"
+   ],
+   "tf": false,
+   "oops": "Edward kapıyı çalacak kadar nazik değil, pencereyi tercih ediyor.",
+   "src": "https://www.imdb.com/title/tt1099212/quotes/?item=qt0512861",
+   "k": 100073,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Edward'ın aklını okuyamadığı tek kişi kimdir?",
+   "a": [
+    "Bella",
+    "Alice",
+    "Jacob",
+    "Charlie"
+   ],
+   "tf": false,
+   "oops": "Edward bu cevabı okuyamadı ama sen de bilemedin!",
+   "src": "https://www.imdb.com/title/tt1099212/plotsummary/",
+   "k": 100074,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Bella ile Edward ilk kez hangi derste yan yana oturur?",
+   "a": [
+    "Biyoloji",
+    "Edebiyat",
+    "Tarih",
+    "Beden eğitimi"
+   ],
+   "tf": false,
+   "oops": "Bu soruda kimya tutmadı, biyoloji tuttu!",
+   "src": "https://twilightsaga.fandom.com/wiki/Mr._Molina",
+   "k": 100075,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Jacob'ın babası Billy hangi aracı kullanarak hareket eder?",
+   "a": [
+    "Tekerlekli sandalye",
+    "Bastonla yürür",
+    "Bisiklet",
+    "Koltuk değneği"
+   ],
+   "tf": false,
+   "oops": "Billy'nin tekerlekleri senden daha hızlı doğruya gitti.",
+   "src": "https://www.imdb.com/title/tt1099212/plotsummary/",
+   "k": 100076,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Bella'nın kamyonetinin rengi nedir?",
+   "a": [
+    "Kırmızı",
+    "Mavi",
+    "Yeşil",
+    "Siyah"
+   ],
+   "tf": false,
+   "oops": "Kırmızıyı göremeyen sadece boğalar sanıyordum.",
+   "src": "https://movies.fandom.com/wiki/Twilight_(2008)/Transcript",
+   "k": 100077,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Alacakaranlık'ta vampirler nasıl kesin olarak öldürülür?",
+   "a": [
+    "Parçalanıp yakılarak",
+    "Kalbine kazık saplanarak",
+    "Gümüş kurşunla",
+    "Sarımsakla"
+   ],
+   "tf": false,
+   "oops": "Sarımsak sadece makarnaya yarar, vampire değil!",
+   "src": "https://www.cbr.com/how-twilight-breaks-traditional-vampire-rules/",
+   "k": 100078,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Rosalie Hale'i hangi oyuncu canlandırır?",
+   "a": [
+    "Nikki Reed",
+    "Ashley Greene",
+    "Anna Kendrick",
+    "Dakota Fanning"
+   ],
+   "tf": false,
+   "oops": "Rosalie bu cevaba saçını savurup gülerdi.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100079,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Emmett Cullen'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Kellan Lutz",
+    "Jackson Rathbone",
+    "Peter Facinelli",
+    "Cam Gigandet"
+   ],
+   "tf": false,
+   "oops": "Emmett'e bu cevabı gösterirsen bilek güreşine davet eder.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100080,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Alice Cullen'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Ashley Greene",
+    "Nikki Reed",
+    "Rachelle Lefevre",
+    "Anna Kendrick"
+   ],
+   "tf": false,
+   "oops": "Alice bunu önceden görmüştü, sen göremedin.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100081,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Doktor Carlisle Cullen'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Peter Facinelli",
+    "Billy Burke",
+    "Michael Sheen",
+    "Cam Gigandet"
+   ],
+   "tf": false,
+   "oops": "Doktor bu cevap için reçete yazdı.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100082,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Bella'nın babası Charlie'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Billy Burke",
+    "Gil Birmingham",
+    "Peter Facinelli",
+    "Chaske Spencer"
+   ],
+   "tf": false,
+   "oops": "Şef bu cevabı için ceza kesti.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100083,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Bella'nın okul arkadaşı Jessica'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Anna Kendrick",
+    "Ashley Greene",
+    "Nikki Reed",
+    "Julia Jones"
+   ],
+   "tf": false,
+   "oops": "Jessica bunu kantinde dedikodu yapardı.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100084,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde iz sürücü vampir James'i hangi oyuncu canlandırır?",
+   "a": [
+    "Cam Gigandet",
+    "Edi Gathegi",
+    "Xavier Samuel",
+    "Kellan Lutz"
+   ],
+   "tf": false,
+   "oops": "James'in izini sürdün ama yanlış yöne gittin.",
+   "src": "https://www.themoviedb.org/movie/8966-twilight/cast?language=en-US",
+   "k": 100085,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şafak Vakti Kısım 2'de çocuk Renesmee'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Mackenzie Foy",
+    "Dakota Fanning",
+    "Jodelle Ferland",
+    "Julia Jones"
+   ],
+   "tf": false,
+   "oops": "Renesmee hızlı büyüdü, sen cevapta hâlâ bebeksin.",
+   "src": "https://en.wikipedia.org/wiki/Mackenzie_Foy",
+   "k": 100086,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Bella, Jessica ve Angela balo elbisesi almak için hangi kasabaya gider?",
+   "a": [
+    "Port Angeles",
+    "Seattle",
+    "Olympia",
+    "Portland"
+   ],
+   "tf": false,
+   "oops": "Alışveriş rotan Edward'ın kurtarma rotası kadar sapmış.",
+   "src": "https://twilightsaga.fandom.com/wiki/Twilight_(film)",
+   "k": 100087,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Edward, Bella'ya geceleri onu ne yaparken izlediğini itiraf eder?",
+   "a": [
+    "Uyurken",
+    "Ders çalışırken",
+    "Yemek yaparken",
+    "Araba kullanırken"
+   ],
+   "tf": false,
+   "oops": "Edward seni uyurken izleyip bunu fark ederdi.",
+   "src": "https://www.imdb.com/title/tt1099212/quotes/?item=qt0512861",
+   "k": 100088,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmin sonundaki balo sahnesinde Bella'nın bacağında ne vardır?",
+   "a": [
+    "Alçı",
+    "Sargı",
+    "Bere izi",
+    "Dikiş"
+   ],
+   "tf": false,
+   "oops": "Bella'nın bacağı kırıktı, senin cevabın da öyle.",
+   "src": "https://twilightsaga.fandom.com/wiki/Mimi's_School_of_Dance_attack",
+   "k": 100089,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde James'in ısırdığı Bella'yı kurtarmak için Edward ne yapar?",
+   "a": [
+    "Zehri emip çıkarır",
+    "Carlisle'ı çağırır",
+    "Onu hastaneye taşır",
+    "Ona kan verir"
+   ],
+   "tf": false,
+   "oops": "Zehir çıktı ama bilgin hâlâ vücudunda kalmış.",
+   "src": "https://en.wikipedia.org/wiki/Twilight_(2008_film)",
+   "k": 100090,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Biyoloji dersinde Edward ile Bella hangi bitkinin kök ucunu mikroskopta inceler?",
+   "a": [
+    "Soğan",
+    "Havuç",
+    "Patates",
+    "Fasulye"
+   ],
+   "tf": false,
+   "oops": "Cevabı soğan doğrar gibi gözlerini yaşarttı.",
+   "src": "https://twilightsaga.fandom.com/wiki/Mr._Molina",
+   "k": 100091,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Esme Cullen'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Elizabeth Reaser",
+    "Sarah Clarke",
+    "MyAnna Buring",
+    "Maggie Grace"
+   ],
+   "tf": false,
+   "oops": "Esme bunu yine de sevgiyle karşılardı.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100092,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Jacob'ın babası Billy Black'i hangi oyuncu canlandırır?",
+   "a": [
+    "Gil Birmingham",
+    "Billy Burke",
+    "Chaske Spencer",
+    "Edi Gathegi"
+   ],
+   "tf": false,
+   "oops": "Bu soru tekerlekli sandalyeyle bile geçilirdi.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100093,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gezgin vampir Laurent'i hangi oyuncu canlandırır?",
+   "a": [
+    "Edi Gathegi",
+    "Cam Gigandet",
+    "Xavier Samuel",
+    "Lee Pace"
+   ],
+   "tf": false,
+   "oops": "Laurent gibi sen de yanlış sürüye katıldın.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100094,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kurt sürüsünün lideri Sam Uley'i hangi oyuncu canlandırır?",
+   "a": [
+    "Chaske Spencer",
+    "Gil Birmingham",
+    "BooBoo Stewart",
+    "Taylor Lautner"
+   ],
+   "tf": false,
+   "oops": "Sam'in sürüsü bunu duysa ulurdu.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100095,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Tutulma'da Riley Biers'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Xavier Samuel",
+    "Cam Gigandet",
+    "Jackson Rathbone",
+    "Kellan Lutz"
+   ],
+   "tf": false,
+   "oops": "Riley bile senden daha iyi tahmin ederdi.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100096,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Tutulma'da yeni doğmuş vampir Bree Tanner'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Jodelle Ferland",
+    "Dakota Fanning",
+    "Mackenzie Foy",
+    "Julia Jones"
+   ],
+   "tf": false,
+   "oops": "Bree gibi sen de teslim oldun ama yanlış yere.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100097,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde ve Yeni Ay'da Victoria'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Rachelle Lefevre",
+    "Bryce Dallas Howard",
+    "Nikki Reed",
+    "Maggie Grace"
+   ],
+   "tf": false,
+   "oops": "Victoria'nın saçı kadar kırmızı bir hata!",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100098,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Yeni Ay'da Volturi'nin muhafızı Alec'i hangi oyuncu canlandırır?",
+   "a": [
+    "Cameron Bright",
+    "Charlie Bewley",
+    "Daniel Cudmore",
+    "Jamie Campbell Bower"
+   ],
+   "tf": false,
+   "oops": "Alec'in gücü seni uyuşturmuş gibi.",
+   "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
+   "k": 100099,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

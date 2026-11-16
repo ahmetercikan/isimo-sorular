@@ -1,0 +1,456 @@
+{
+ "id": "yuzuklerinefendisi",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Legolas'ın en ünlü silahı hangisidir?",
+   "a": [
+    "Yay",
+    "Balta",
+    "Mızrak",
+    "Sapan"
+   ],
+   "tf": false,
+   "oops": "Legolas ıskalamaz ama sen ıskaladın!",
+   "src": "https://middle-earth-film-saga.fandom.com/wiki/Bow_(weapon)",
+   "k": 100040,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Gollum'un en sevdiği yiyecek nedir?",
+   "a": [
+    "Çiğ balık",
+    "Kızarmış tavuk",
+    "Taze ekmek",
+    "Şekerli bal"
+   ],
+   "tf": false,
+   "oops": "Gollum bu cevaba çiğ çiğ itiraz ederdi.",
+   "src": "https://myprecious.omeka.net/items/show/1",
+   "k": 100041,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Pippin'i hangi oyuncu canlandırır?",
+   "a": [
+    "Billy Boyd",
+    "Dominic Monaghan",
+    "Sean Astin",
+    "Elijah Wood"
+   ],
+   "tf": false,
+   "oops": "Pippin'i hobbitler arasında karıştırmışsın, anlaşılır!",
+   "src": "https://en.wikipedia.org/wiki/Pippin_Took",
+   "k": 100042,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kralın Dönüşü hangi yıl vizyona girdi?",
+   "a": [
+    "2003",
+    "2001",
+    "2002",
+    "2004"
+   ],
+   "tf": false,
+   "oops": "Yüzük bile bu kadar uzun yolculuk yapmadı!",
+   "src": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+   "k": 100043,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Beklenmedik Yolculuk hangi yıl vizyona girdi?",
+   "a": [
+    "2012",
+    "2010",
+    "2011",
+    "2013"
+   ],
+   "tf": false,
+   "oops": "Yolculuğa biraz erken ya da geç çıkmışsın.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+   "k": 100044,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Frodo, Yüzük'ü yolculuk boyunca nasıl taşır?",
+   "a": [
+    "Boynunda zincirle",
+    "Parmağında",
+    "Cebinde",
+    "Kemerine bağlı kesede"
+   ],
+   "tf": false,
+   "oops": "Yüzük bu cevabı duysa gülmekten zincirini koparırdı.",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Main/RingOnANecklace",
+   "k": 100045,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Elfleri insanlardan görünüşte en çok ne ayırır?",
+   "a": [
+    "Sivri kulaklar",
+    "Uzun sakal",
+    "Kısa boy",
+    "Tüylü ayaklar"
+   ],
+   "tf": false,
+   "oops": "Dinlemeyi biraz daha öğrenmen lazım, kulak ver!",
+   "src": "https://screenrant.com/lord-of-the-rings-elves-pointed-ears-controversy-explained/",
+   "k": 100046,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Sauron hangi diyarda hüküm sürer?",
+   "a": [
+    "Mordor",
+    "Rohan",
+    "Lothlórien",
+    "Shire"
+   ],
+   "tf": false,
+   "oops": "Sauron seni Mordor'a davet etti, rotayı düzeltelim.",
+   "src": "https://middle-earth-film-saga.fandom.com/wiki/Sauron",
+   "k": 100047,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Tek Yüzük hangi madenden yapılmıştır?",
+   "a": [
+    "Altın",
+    "Gümüş",
+    "Bakır",
+    "Demir"
+   ],
+   "tf": false,
+   "oops": "Parlayan her şey altın değildir, bu cevap da öyle.",
+   "src": "https://www.jenshansen.com/collections/the-one-ring-replica",
+   "k": 100048,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Saruman'ın Isengard'daki kulesinin adı nedir?",
+   "a": [
+    "Orthanc",
+    "Barad-dûr",
+    "Minas Morgul",
+    "Cirith Ungol"
+   ],
+   "tf": false,
+   "oops": "Kule seni içeri almadı, yanlış kapıya vurdun.",
+   "src": "https://lotr.fandom.com/wiki/Orthanc",
+   "k": 100049,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sauron'un ateşten gözünü taşıyan kulenin adı nedir?",
+   "a": [
+    "Barad-dûr",
+    "Orthanc",
+    "Minas Tirith",
+    "Isengard"
+   ],
+   "tf": false,
+   "oops": "Göz seni gördü ve cevabı beğenmedi.",
+   "src": "https://en.wikipedia.org/wiki/The_Two_Towers",
+   "k": 100050,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Gandalf, Bilbo'yu cücelerin bölüğüne hangi görevle katar?",
+   "a": [
+    "Hırsız",
+    "Aşçı",
+    "Haritacı",
+    "Okçu"
+   ],
+   "tf": false,
+   "oops": "Bilbo bile bu cevabı çalmaya cesaret edemezdi.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+   "k": 100051,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Uruk-hai komutanı Lurtz'u kim öldürür?",
+   "a": [
+    "Aragorn",
+    "Legolas",
+    "Gimli",
+    "Boromir"
+   ],
+   "tf": false,
+   "oops": "Lurtz bu cevaba bile fazla iyi davranıyor.",
+   "src": "https://villains.fandom.com/wiki/Lurtz",
+   "k": 100052,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Beş Ordunun Savaşı'nda ork komutanı Bolg'u kim öldürür?",
+   "a": [
+    "Legolas",
+    "Thorin",
+    "Bard",
+    "Gandalf"
+   ],
+   "tf": false,
+   "oops": "Okun hedefi şaşmadı, senin cevabın şaştı.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+   "k": 100053,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Beş Ordunun Savaşı'nda solgun ork Azog'u kim öldürür?",
+   "a": [
+    "Thorin",
+    "Bard",
+    "Dáin",
+    "Kíli"
+   ],
+   "tf": false,
+   "oops": "Azog bu cevaba bile buz gibi baktı.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+   "k": 100054,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Fíli ve Kíli, Thorin'in neleridir?",
+   "a": [
+    "Yeğenleri",
+    "Oğulları",
+    "Kardeşleri",
+    "Kuzenleri"
+   ],
+   "tf": false,
+   "oops": "Aile ağacında yanlış dala tırmandın.",
+   "src": "https://lotr.fandom.com/wiki/F%C3%ADli_and_K%C3%ADli",
+   "k": 100055,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kahverengi Radagast'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Sylvester McCoy",
+    "Stephen Fry",
+    "Barry Humphries",
+    "Ken Stott"
+   ],
+   "tf": false,
+   "oops": "Radagast'ın kuşları bile bunu bilirdi.",
+   "src": "https://tolkiengateway.net/wiki/The_Hobbit_(film_series)",
+   "k": 100056,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Elf kralı Thranduil'i hangi oyuncu canlandırır?",
+   "a": [
+    "Lee Pace",
+    "Luke Evans",
+    "Aidan Turner",
+    "Orlando Bloom"
+   ],
+   "tf": false,
+   "oops": "Kral bu cevaba tek kaşını kaldırdı.",
+   "src": "https://tolkiengateway.net/wiki/The_Hobbit_(film_series)",
+   "k": 100057,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Elf muhafız Tauriel'i hangi oyuncu canlandırır?",
+   "a": [
+    "Evangeline Lilly",
+    "Cate Blanchett",
+    "Liv Tyler",
+    "Miranda Otto"
+   ],
+   "tf": false,
+   "oops": "Tauriel okunu bu cevaba yöneltti.",
+   "src": "https://tolkiengateway.net/wiki/The_Hobbit_(film_series)",
+   "k": 100058,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kâhya Denethor'u hangi oyuncu canlandırır?",
+   "a": [
+    "John Noble",
+    "Bernard Hill",
+    "Brad Dourif",
+    "David Wenham"
+   ],
+   "tf": false,
+   "oops": "Denethor bu cevap için bile yemeğini bölmezdi.",
+   "src": "https://en.wikipedia.org/wiki/John_Noble",
+   "k": 100059,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Cüceler, Yalnız Dağ'da Smaug'u tuzağa düşürmek için neyi kullanır?",
+   "a": [
+    "Erimiş altını",
+    "Zehirli dumanı",
+    "Buzlu suyu",
+    "Dev bir ağı"
+   ],
+   "tf": false,
+   "oops": "Altın değerinde bir cevap değildi.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+   "k": 100060,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Merry'nin soyadı nedir?",
+   "a": [
+    "Brandybuck",
+    "Took",
+    "Gamgee",
+    "Proudfoot"
+   ],
+   "tf": false,
+   "oops": "Bu soyadı hobbit ailelerinde kayboldu.",
+   "src": "https://en.wikipedia.org/wiki/Merry_Brandybuck",
+   "k": 100061,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Cüce Balin'i hangi oyuncu canlandırır?",
+   "a": [
+    "Ken Stott",
+    "Graham McTavish",
+    "James Nesbitt",
+    "Richard Armitage"
+   ],
+   "tf": false,
+   "oops": "Balin'in beyaz sakalı bile bu cevaba şaştı.",
+   "src": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/cast?language=en-US",
+   "k": 100062,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Büyük Goblin'i hangi oyuncu canlandırır?",
+   "a": [
+    "Barry Humphries",
+    "Stephen Fry",
+    "Sylvester McCoy",
+    "Christopher Lee"
+   ],
+   "tf": false,
+   "oops": "Goblin Kralı seni mağarasına davet etti.",
+   "src": "https://tolkiengateway.net/wiki/The_Hobbit_(film_series)",
+   "k": 100063,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Prologdaki Isildur'u hangi oyuncu canlandırır?",
+   "a": [
+    "Harry Sinclair",
+    "Peter McKenzie",
+    "Sala Baker",
+    "Karl Urban"
+   ],
+   "tf": false,
+   "oops": "Isildur bu cevabı Narsil ile kesti.",
+   "src": "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+   "k": 100064,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Thorin'in trol mağarasında bulduğu kılıcın adı nedir?",
+   "a": [
+    "Orcrist",
+    "Glamdring",
+    "Sting",
+    "Andúril"
+   ],
+   "tf": false,
+   "oops": "Kılıç yanlış cevap yüzünden kınına döndü.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+   "k": 100065,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Cüce Fíli'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Dean O'Gorman",
+    "Aidan Turner",
+    "Adam Brown",
+    "Mark Hadlow"
+   ],
+   "tf": false,
+   "oops": "Fíli bu cevaba yeğen gibi sarılmadı.",
+   "src": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/cast?language=en-US",
+   "k": 100066,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Frodo'yu Rüzgârbaşı'nda yaralayan silah hangisidir?",
+   "a": [
+    "Morgul hançeri",
+    "Zehirli ok",
+    "Ork mızrağı",
+    "Troll gürzü"
+   ],
+   "tf": false,
+   "oops": "Yara derin ama bu cevap daha derin yanlış.",
+   "src": "https://tolkiengateway.net/wiki/A_Knife_in_the_Dark_(scene)",
+   "k": 100067,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Cüce Bofur'u hangi oyuncu canlandırır?",
+   "a": [
+    "James Nesbitt",
+    "Ken Stott",
+    "Graham McTavish",
+    "Peter Hambleton"
+   ],
+   "tf": false,
+   "oops": "Bofur şapkasını çıkarıp seni selamladı.",
+   "src": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/cast?language=en-US",
+   "k": 100068,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Cüce Dwalin'i hangi oyuncu canlandırır?",
+   "a": [
+    "Graham McTavish",
+    "James Nesbitt",
+    "John Callen",
+    "William Kircher"
+   ],
+   "tf": false,
+   "oops": "Dwalin baltasını bu cevaba doğrulttu.",
+   "src": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/cast?language=en-US",
+   "k": 100069,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
