@@ -4,6 +4,9 @@
 # ~/.ssh/isimo_sorular (bu depoya yazma izinli deploy anahtarı), docker.
 set -u
 cd "$(dirname "$0")/.."
+# Aynı anda tek iş (toplu büyütme sürerken günlük iş bekler, en çok 3 saat).
+exec 9>"$HOME/.isimo-sorular.lock"
+flock -w 10800 9 || { echo "$(date -u +%FT%TZ) kilit alınamadı" >>"$HOME/isimo-sorular.log"; exit 1; }
 export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/isimo_sorular -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
 LOG="$HOME/isimo-sorular.log"
 {
