@@ -1,0 +1,456 @@
+{
+ "id": "aslankral",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Aslan Kral'ın (1994) arkasındaki film stüdyosu hangisidir?",
+   "a": [
+    "Walt Disney",
+    "DreamWorks",
+    "Warner Bros.",
+    "Universal"
+   ],
+   "tf": false,
+   "oops": "Yanlış stüdyo! Bu kez Hakuna Matata yok, sadece Disney var.",
+   "src": "https://en.wikipedia.org/wiki/The_Lion_King",
+   "k": 100283,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Güneş doğarken hayvanların Gurur Kayası'na yürüdüğü açılış sahnesinde hangi şarkı çalar?",
+   "a": [
+    "Circle of Life",
+    "Hakuna Matata",
+    "I Just Can't Wait to Be King",
+    "Be Prepared"
+   ],
+   "tf": false,
+   "oops": "Açılışı kaçırdın! Hayat dairesi yeniden dönsün.",
+   "src": "https://en.wikipedia.org/wiki/Circle_of_Life",
+   "k": 100284,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Scar yenilince Gurur Toprakları'nda ne olur?",
+   "a": [
+    "Yağmur yağar",
+    "Kum fırtınası çıkar",
+    "Kar yağar",
+    "Deprem olur"
+   ],
+   "tf": false,
+   "oops": "Cevap ıslak çıktı. Biraz yağmur iyi gelir!",
+   "src": "https://lionking.fandom.com/wiki/Simba's_coronation",
+   "k": 100285,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Mufasa: Aslan Kral, Aslan Kral hikâyesinin neresini anlatır?",
+   "a": [
+    "Mufasa'nın geçmişini",
+    "Simba'nın torunlarının geleceğini",
+    "Scar'ın ölümünden sonrasını",
+    "Timon'un gençliğini"
+   ],
+   "tf": false,
+   "oops": "Zamanda yanlış yöne gittin. Biraz geriye dön!",
+   "src": "https://en.wikipedia.org/wiki/Mufasa:_The_Lion_King",
+   "k": 100286,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Aslan Kral hangi türde bir filmdir?",
+   "a": [
+    "Müzikal",
+    "Bilim kurgu",
+    "Polisiye",
+    "Western"
+   ],
+   "tf": false,
+   "oops": "Bu soruda şarkı söylemek serbestti, cevap yine de şarkısız çıktı!",
+   "src": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+   "k": 100287,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "1994 yapımı Aslan Kral nasıl hazırlanmıştır?",
+   "a": [
+    "Çoğunlukla elle çizilerek",
+    "Gerçek hayvanlarla çekilerek",
+    "Kuklalarla",
+    "Kil animasyonuyla"
+   ],
+   "tf": false,
+   "oops": "Kalemler hazır, cevap yanlış. Tekrar çiz!",
+   "src": "https://www.theringer.com/2019/07/19/movies/the-lion-king-original-animation-1994",
+   "k": 100288,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Scar ne tür bir hayvandır?",
+   "a": [
+    "Aslan",
+    "Leopar",
+    "Sırtlan",
+    "Çita"
+   ],
+   "tf": false,
+   "oops": "Scar'ın yelesine bir bak, ailede hep aslan var!",
+   "src": "https://en.wikipedia.org/wiki/The_Lion_King",
+   "k": 100289,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "\"Hakuna Matata\" sözü hangi dilden gelir?",
+   "a": [
+    "Svahili",
+    "Zulu",
+    "Arapça",
+    "Hintçe"
+   ],
+   "tf": false,
+   "oops": "Bu sefer cevap Afrika'nın doğusundan geliyordu.",
+   "src": "https://en.wikipedia.org/wiki/Hakuna_Matata_(song)",
+   "k": 100290,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Scar'ın sırtlanlarla birlikte kötü planını anlattığı şarkının adı nedir?",
+   "a": [
+    "Be Prepared",
+    "Hakuna Matata",
+    "Circle of Life",
+    "Can You Feel the Love Tonight"
+   ],
+   "tf": false,
+   "oops": "Hazırlıksız yakalandın. Be Prepared demiştik!",
+   "src": "https://en.wikipedia.org/wiki/Be_Prepared_(song)",
+   "k": 100291,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "2019 yapımı Aslan Kral'da yetişkin Simba'yı orijinalinde kim seslendirdi?",
+   "a": [
+    "Donald Glover",
+    "John Boyega",
+    "Michael B. Jordan",
+    "Daveed Diggs"
+   ],
+   "tf": false,
+   "oops": "Simba'nın sesi başkasıymış, Gurur Kayası'nda bir tur daha!",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100292,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "2019 yapımı Aslan Kral'da Pumbaa'yı orijinalinde kim seslendirdi?",
+   "a": [
+    "Seth Rogen",
+    "Jonah Hill",
+    "Kevin Hart",
+    "Jack Black"
+   ],
+   "tf": false,
+   "oops": "Pumbaa bile bu cevaba domuz demezdi!",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100293,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "2019 yapımı Aslan Kral'da Timon'u orijinalinde kim seslendirdi?",
+   "a": [
+    "Billy Eichner",
+    "Jim Parsons",
+    "Jason Sudeikis",
+    "Kevin James"
+   ],
+   "tf": false,
+   "oops": "Timon küçük ama senin cevabın daha da küçük kaldı.",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100294,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "1994 yapımı Aslan Kral'da Scar'ı orijinalinde kim seslendirdi?",
+   "a": [
+    "Jeremy Irons",
+    "Ian McKellen",
+    "Alan Rickman",
+    "Christopher Lee"
+   ],
+   "tf": false,
+   "oops": "Scar bu cevaba sinsice gülümsedi.",
+   "src": "https://www.behindthevoiceactors.com/movies/The-Lion-King/voice-cast/",
+   "k": 100295,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "1994 yapımı Aslan Kral'da yetişkin Simba'yı orijinalinde kim seslendirdi?",
+   "a": [
+    "Matthew Broderick",
+    "Ethan Hawke",
+    "Keanu Reeves",
+    "Brendan Fraser"
+   ],
+   "tf": false,
+   "oops": "Kral olmak için biraz daha çalışmalısın!",
+   "src": "https://www.behindthevoiceactors.com/movies/The-Lion-King/voice-cast/",
+   "k": 100296,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mufasa: Aslan Kral'da genç aslan Kiara'yı kim seslendirir?",
+   "a": [
+    "Blue Ivy Carter",
+    "Zendaya",
+    "Willow Smith",
+    "Halle Bailey"
+   ],
+   "tf": false,
+   "oops": "Kiara'nın sesi ailede kalmış, bir daha düşün!",
+   "src": "https://variety.com/2024/film/news/mufasa-the-lion-king-trailer-disney-prequel-blue-ivy-carter-1235806041/",
+   "k": 100297,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Jon Favreau, 2019 Aslan Kral'dan önce hangi Disney filmini yönetmişti?",
+   "a": [
+    "Orman Çocuğu",
+    "Aladdin",
+    "Külkedisi",
+    "Dumbo"
+   ],
+   "tf": false,
+   "oops": "Favreau daha önce ormana girmişti, sen girmemişsin!",
+   "src": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)",
+   "k": 100298,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Fil mezarlığı macerasından sonra Mufasa, Simba'ya cesaret hakkında ne söyler?",
+   "a": [
+    "Cesur olmak bela aramak demek değildir",
+    "Cesur olan hiç korkmaz",
+    "Aslanlar hiçbir şeyden korkmaz",
+    "Cesaret yalnızca savaşta gerekir"
+   ],
+   "tf": false,
+   "oops": "Mufasa bu cevaba kaşını kaldırırdı.",
+   "src": "https://en.wikiquote.org/wiki/The_Lion_King",
+   "k": 100299,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "2019 yapımı Aslan Kral'da Zazu'yu orijinalinde kim seslendirdi?",
+   "a": [
+    "John Oliver",
+    "Jimmy Fallon",
+    "Trevor Noah",
+    "Stephen Colbert"
+   ],
+   "tf": false,
+   "oops": "Zazu bile bunu raporuna yazmazdı.",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100300,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Simba, son dövüşte Scar'ı alt edince ona ne emreder?",
+   "a": [
+    "Kaçıp bir daha dönmemesini",
+    "Tahtı hemen bırakmasını",
+    "Sırtlanlara teslim olmasını",
+    "Mufasa'dan özür dilemesini"
+   ],
+   "tf": false,
+   "oops": "Simba da senin cevabını duyunca kaçmak istedi.",
+   "src": "https://en.wikiquote.org/wiki/The_Lion_King",
+   "k": 100301,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mufasa: Aslan Kral'da beyaz aslanların lideri Kiros'u orijinalinde kim seslendirir?",
+   "a": [
+    "Mads Mikkelsen",
+    "Javier Bardem",
+    "Ralph Fiennes",
+    "Idris Elba"
+   ],
+   "tf": false,
+   "oops": "Kiros bu cevaba buz gibi baktı.",
+   "src": "https://en.wikipedia.org/wiki/Mufasa:_The_Lion_King",
+   "k": 100302,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "1994 yapımı Aslan Kral'da sırtlan Shenzi'yi orijinalinde kim seslendirdi?",
+   "a": [
+    "Whoopi Goldberg",
+    "Queen Latifah",
+    "Tina Turner",
+    "Rosie O'Donnell"
+   ],
+   "tf": false,
+   "oops": "Sırtlanlar bu cevaba kahkaha attı.",
+   "src": "https://www.behindthevoiceactors.com/movies/The-Lion-King/voice-cast/",
+   "k": 100303,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "2019 yapımı Aslan Kral'da sırtlan Shenzi'yi orijinalinde kim seslendirdi?",
+   "a": [
+    "Florence Kasumba",
+    "Lupita Nyong'o",
+    "Danai Gurira",
+    "Uzo Aduba"
+   ],
+   "tf": false,
+   "oops": "Sırtlan liderine haksızlık ettin!",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100304,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Mufasa: Aslan Kral'da yetişkin Sarabi'yi orijinalinde kim seslendirir?",
+   "a": [
+    "Tiffany Boone",
+    "Zazie Beetz",
+    "Gugu Mbatha-Raw",
+    "Letitia Wright"
+   ],
+   "tf": false,
+   "oops": "Sarabi bu cevaba burun kıvırdı.",
+   "src": "https://en.wikipedia.org/wiki/Mufasa:_The_Lion_King",
+   "k": 100305,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Mufasa: Aslan Kral'da Zazu'yu orijinalinde kim seslendirir?",
+   "a": [
+    "Preston Nyman",
+    "Rowan Atkinson",
+    "John Oliver",
+    "Josh Gad"
+   ],
+   "tf": false,
+   "oops": "Zazu raporunu yeniden yazacak!",
+   "src": "https://en.wikipedia.org/wiki/Mufasa:_The_Lion_King",
+   "k": 100306,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Barry Jenkins'in yönettiği hangi film En İyi Film Oscar'ını kazandı?",
+   "a": [
+    "Moonlight",
+    "Parazit",
+    "Nomadland",
+    "Oppenheimer"
+   ],
+   "tf": false,
+   "oops": "Doğru ödül, yanlış yönetmen!",
+   "src": "https://deadline.com/2020/09/the-lion-king-sequel-barry-jenkins-moonlight-director-disney-1234586787/",
+   "k": 100307,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Mufasa, fil mezarlığı olayının ardından Simba'ya o gün ne hissettiğini söyler?",
+   "a": [
+    "Korktuğunu",
+    "Sıkıldığını",
+    "Utandığını",
+    "Çok güldüğünü"
+   ],
+   "tf": false,
+   "oops": "Mufasa'nın bile korktuğu oldu, senin cevabın gibi.",
+   "src": "https://en.wikiquote.org/wiki/The_Lion_King",
+   "k": 100308,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Mufasa: Aslan Kral'da Mufasa ile Taka'nın kardeşlik duygusunu anlatan şarkı hangisidir?",
+   "a": [
+    "I Always Wanted a Brother",
+    "Hakuna Matata",
+    "Circle of Life",
+    "Be Prepared"
+   ],
+   "tf": false,
+   "oops": "Kardeşlik şarkısı bulunamadı, tekrar dene!",
+   "src": "https://disney.fandom.com/wiki/I_Always_Wanted_a_Brother",
+   "k": 100309,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "2019 yapımı Aslan Kral'da küçük Simba'yı orijinalinde kim seslendirdi?",
+   "a": [
+    "JD McCrary",
+    "Jacob Tremblay",
+    "Walker Scobell",
+    "Noah Schnapp"
+   ],
+   "tf": false,
+   "oops": "Küçük Simba'nın sesi yine kayıp!",
+   "src": "https://www.rottentomatoes.com/m/the_lion_king_2019/cast-and-crew",
+   "k": 100310,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "1994 filmde hayvan sürüsünün izdihamı sahnesi hangi yöntemle hazırlandı?",
+   "a": [
+    "Bilgisayar animasyonuyla",
+    "Gerçek hayvan görüntüleriyle",
+    "Kil figürlerle",
+    "Maket çekimiyle"
+   ],
+   "tf": false,
+   "oops": "İzdiham seni de ezip geçti!",
+   "src": "https://en.wikipedia.org/wiki/The_Lion_King",
+   "k": 100311,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "1994 yapımı Aslan Kral'da sırtlan Banzai'yi orijinalinde kim seslendirdi?",
+   "a": [
+    "Cheech Marin",
+    "Tommy Chong",
+    "Jack Black",
+    "Danny Trejo"
+   ],
+   "tf": false,
+   "oops": "Banzai sana sırıtarak baktı.",
+   "src": "https://www.behindthevoiceactors.com/movies/The-Lion-King/voice-cast/",
+   "k": 100312,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
