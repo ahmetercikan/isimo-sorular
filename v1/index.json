@@ -1,12 +1,21 @@
 {
- "nextKey": 100010,
+ "nextKey": 100040,
  "counts": {
-  "titanik": 10
+  "titanik": 10,
+  "harrypotter": 30
  },
  "lastAt": {
-  "titanik": "2026-11-16"
+  "titanik": "2026-11-16",
+  "harrypotter": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T15:00:11.424Z",
+   "id": "harrypotter",
+   "added": 30,
+   "rejected": 4,
+   "ok": true
+  },
   {
    "at": "2026-11-16T14:53:56.471Z",
    "id": "titanik",
@@ -15,12 +24,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T14:56:27.073Z",
+ "updated": "2026-11-16T15:06:58.198Z",
  "last": {
-  "at": "2026-11-16T14:53:56.471Z",
-  "id": "titanik",
-  "added": 10,
-  "rejected": 2,
+  "at": "2026-11-16T15:00:11.424Z",
+  "id": "harrypotter",
+  "added": 30,
+  "rejected": 4,
   "ok": true
  }
 }

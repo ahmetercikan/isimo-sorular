@@ -1,0 +1,456 @@
+{
+ "id": "harrypotter",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Hermione Granger hangi Hogwarts binasındadır?",
+   "a": [
+    "Gryffindor",
+    "Ravenclaw",
+    "Hufflepuff",
+    "Slytherin"
+   ],
+   "tf": false,
+   "oops": "Kitap kurdu diye Ravenclaw sandın ama Seçmen Şapka başka düşünmüş.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+   "k": 100010,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Harry'nin babasının adı nedir?",
+   "a": [
+    "James Potter",
+    "Sirius Black",
+    "Arthur Weasley",
+    "Remus Lupin"
+   ],
+   "tf": false,
+   "oops": "Aile fotoğrafına bir daha bakmak lazım.",
+   "src": "https://en.wikipedia.org/wiki/Adrian_Rawlins",
+   "k": 100011,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Öldürme laneti hangi sözlerle yapılır?",
+   "a": [
+    "Avada Kedavra",
+    "Crucio",
+    "Imperio",
+    "Stupefy"
+   ],
+   "tf": false,
+   "oops": "Yanlış lanet! Neyse ki sadece bir quiz.",
+   "src": "https://harrypotter.fandom.com/wiki/Unforgivable_Curses",
+   "k": 100012,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Snape ilk filmde hangi dersi verir?",
+   "a": [
+    "İksir",
+    "Biçim Değiştirme",
+    "Otbilim",
+    "Kehanet"
+   ],
+   "tf": false,
+   "oops": "Zindan sınıfının kokusunu hatırlasaydın bilirdin.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+   "k": 100013,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Melez Prens'te Dumbledore'a ölümcül laneti kim yöneltir?",
+   "a": [
+    "Severus Snape",
+    "Draco Malfoy",
+    "Bellatrix Lestrange",
+    "Fenrir Greyback"
+   ],
+   "tf": false,
+   "oops": "Bu cevapla Snape'in kaşları daha da çatılır.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)",
+   "k": 100014,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Harry, Hogwarts mektubunu kaç yaşında alır?",
+   "a": [
+    "11",
+    "10",
+    "12",
+    "13"
+   ],
+   "tf": false,
+   "oops": "Baykuşlar yanlış yaşa mektup götürmez!",
+   "src": "https://www.imdb.com/title/tt0241527/plotsummary/",
+   "k": 100015,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "İlk Harry Potter filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2001",
+    "2000",
+    "2002",
+    "2003"
+   ],
+   "tf": false,
+   "oops": "Zaman Döndürücü lazım, yıl tutmadı.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+   "k": 100016,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hogwarts'ta posta taşımak için en çok hangi hayvanlar kullanılır?",
+   "a": [
+    "Baykuşlar",
+    "Kargalar",
+    "Güvercinler",
+    "Kartallar"
+   ],
+   "tf": false,
+   "oops": "Postacı güvercin olsaydı Hedwig işsiz kalırdı.",
+   "src": "https://www.americanhumane.org/production/harry-potter-and-the-sorcerers-stone/",
+   "k": 100017,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Weasley ailesinin çocuklarının çoğunun ortak özelliği olan saç rengi nedir?",
+   "a": [
+    "Kızıl",
+    "Sarı",
+    "Siyah",
+    "Kumral"
+   ],
+   "tf": false,
+   "oops": "Weasley'leri kalabalıkta hep saçlarından tanırız.",
+   "src": "https://screenrant.com/harry-potter-weasley-family-book-accurate-fanart/",
+   "k": 100018,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hogwarts'ta uçuş dersini hangi öğretmen verir?",
+   "a": [
+    "Madam Hooch",
+    "Profesör McGonagall",
+    "Profesör Sprout",
+    "Profesör Flitwick"
+   ],
+   "tf": false,
+   "oops": "Düdüğü çalan hoca başkasıydı.",
+   "src": "https://www.looper.com/1154811/madam-hooch-played-a-huge-role-in-the-harry-potter-books-but-only-appeared-in-one-film/",
+   "k": 100019,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hermione'nin kedisinin adı nedir?",
+   "a": [
+    "Crookshanks",
+    "Bayan Norris",
+    "Pamuk",
+    "Tüylü"
+   ],
+   "tf": false,
+   "oops": "Kedi seni tırmalamadan bir sonraki soruya geç.",
+   "src": "https://www.americanhumane.org/production/harry-potter-and-the-prisoner-of-azkaban/",
+   "k": 100020,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk iki Harry Potter filmini hangi yönetmen çekti?",
+   "a": [
+    "Chris Columbus",
+    "Mike Newell",
+    "Alfonso Cuarón",
+    "David Yates"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu başkasına aitti.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)",
+   "k": 100021,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Dursley'lerin yaşadığı sokağın adı nedir?",
+   "a": [
+    "Privet Drive",
+    "Baker Street",
+    "Grimmauld Meydanı",
+    "Spinner's End"
+   ],
+   "tf": false,
+   "oops": "Yanlış adrese posta gitti!",
+   "src": "https://harrypotter.fandom.com/wiki/4_Privet_Drive",
+   "k": 100022,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Neville'in kayıp kurbağasının adı nedir?",
+   "a": [
+    "Trevor",
+    "Gilbert",
+    "Bernard",
+    "Oscar"
+   ],
+   "tf": false,
+   "oops": "Kurbağa seni duysa ribbit diye ağlardı.",
+   "src": "https://harrypotter.fandom.com/wiki/Trevor",
+   "k": 100023,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Quidditch maçında Harry'nin kolundaki kemikleri yanlışlıkla yok eden öğretmen kimdir?",
+   "a": [
+    "Gilderoy Lockhart",
+    "Severus Snape",
+    "Remus Lupin",
+    "Horace Slughorn"
+   ],
+   "tf": false,
+   "oops": "Bu cevap da Lockhart'ın büyüsü kadar işe yaramadı.",
+   "src": "https://www.imdb.com/title/tt0295297/quotes/?item=qt0439472",
+   "k": 100024,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sırlar Odası'nın sonunda Lockhart neyini kaybeder?",
+   "a": [
+    "Hafızasını",
+    "Sesini",
+    "Asasını",
+    "Şapkasını"
+   ],
+   "tf": false,
+   "oops": "Sen de Lockhart gibi unuttun galiba.",
+   "src": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)",
+   "k": 100025,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sırlar Odası'nı yaptıran Hogwarts kurucusu kimdir?",
+   "a": [
+    "Salazar Slytherin",
+    "Godric Gryffindor",
+    "Rowena Ravenclaw",
+    "Helga Hufflepuff"
+   ],
+   "tf": false,
+   "oops": "Bu cevapta çataldili bile yardım etmez.",
+   "src": "https://www.imdb.com/title/tt0295297/characters/nm0001749/",
+   "k": 100026,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mezarlıkta Voldemort'un emriyle Cedric'e ölümcül laneti kim yöneltir?",
+   "a": [
+    "Peter Pettigrew",
+    "Lucius Malfoy",
+    "Barty Crouch Jr.",
+    "Bellatrix Lestrange"
+   ],
+   "tf": false,
+   "oops": "Sıçan kılığındaki hain sahneyi senden çaldı.",
+   "src": "https://www.filmsite.org/series-harrypotter4.html",
+   "k": 100027,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Beauxbatons'ın iri yapılı müdiresi kimdir?",
+   "a": [
+    "Madame Maxime",
+    "Madam Pomfrey",
+    "Madam Hooch",
+    "Madam Rosmerta"
+   ],
+   "tf": false,
+   "oops": "Madame Maxime kapıdan zor sığar, cevabı da kaçırdın.",
+   "src": "https://en.wikipedia.org/wiki/Frances_de_la_Tour",
+   "k": 100028,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Deli-Göz Moody'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Brendan Gleeson",
+    "Timothy Spall",
+    "John Hurt",
+    "Jason Isaacs"
+   ],
+   "tf": false,
+   "oops": "Sihirli göz bile bu cevabı beğenmedi.",
+   "src": "https://iftn.ie/?act1=record&aid=73&hl=actress&only=1&rid=593&sr=1&tpl=archnews",
+   "k": 100029,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Zümrüdüanka Yoldaşlığı'nda Ölüm Yiyenlerin Bakanlık'ta ele geçirmeye çalıştığı şey nedir?",
+   "a": [
+    "Kehanet küresi",
+    "Diriliş Taşı",
+    "Mürver Asa",
+    "Felsefe Taşı"
+   ],
+   "tf": false,
+   "oops": "Küre cevabı kırıldı, tıpkı kehanet gibi.",
+   "src": "https://www.imdb.com/title/tt0373889/plotsummary/",
+   "k": 100030,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Azkaban Tutsağı'nda Harry'nin yağmurda Ruh Emiciler yüzünden düştüğü Quidditch maçında rakip bina hangisidir?",
+   "a": [
+    "Hufflepuff",
+    "Slytherin",
+    "Ravenclaw",
+    "Gryffindor"
+   ],
+   "tf": false,
+   "oops": "Yağmurdan gözün kör olmuş gibi.",
+   "src": "https://harrypotter.fandom.com/wiki/Gryffindor_vs_Hufflepuff_Quidditch_match_(1993)",
+   "k": 100031,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Melez Prens'in başında Ginny hangi öğrenciyle çıkmaktadır?",
+   "a": [
+    "Dean Thomas",
+    "Michael Corner",
+    "Seamus Finnigan",
+    "Cormac McLaggen"
+   ],
+   "tf": false,
+   "oops": "Ginny'nin aşk hayatı Harry'nin ders notlarından karışık.",
+   "src": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)",
+   "k": 100032,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ölüm Yadigârları Bölüm 1'de Malfoy Malikânesi'ndeki toplantıda Voldemort hangi Muggle Etüdleri profesörünü öldürür?",
+   "a": [
+    "Charity Burbage",
+    "Pomona Sprout",
+    "Sybill Trelawney",
+    "Septima Vector"
+   ],
+   "tf": false,
+   "oops": "Bu masadaki sahneyi hatırlamak zor, biliyoruz.",
+   "src": "https://en.wikipedia.org/wiki/Carolyn_Pickles",
+   "k": 100033,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Zümrüdüanka Yoldaşlığı ile Melez Prens'in müziğini kim besteledi?",
+   "a": [
+    "Nicholas Hooper",
+    "Alexandre Desplat",
+    "Patrick Doyle",
+    "John Williams"
+   ],
+   "tf": false,
+   "oops": "Besteci değişimini kaçırmışsın.",
+   "src": "https://en.wikipedia.org/wiki/Music_of_the_Harry_Potter_films",
+   "k": 100034,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde Hogwarts sahneleri için kullanılan Oxford'daki kolej hangisidir?",
+   "a": [
+    "Christ Church",
+    "Magdalen College",
+    "Balliol College",
+    "Trinity College"
+   ],
+   "tf": false,
+   "oops": "Oxford'da kaybolmuşsun, rehber lazım.",
+   "src": "https://www.wheregoesrose.com/harry-potter-oxford/",
+   "k": 100035,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Sihir Bakanı Cornelius Fudge'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Robert Hardy",
+    "Michael Gambon",
+    "John Hurt",
+    "Richard Griffiths"
+   ],
+   "tf": false,
+   "oops": "Fudge'ın şapkası bile bunu bilirdi.",
+   "src": "https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban/cast",
+   "k": 100036,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Petunia Dursley'i hangi oyuncu canlandırır?",
+   "a": [
+    "Fiona Shaw",
+    "Julie Walters",
+    "Imelda Staunton",
+    "Emma Thompson"
+   ],
+   "tf": false,
+   "oops": "Petunia teyze bu cevaba burun kıvırırdı.",
+   "src": "https://simple.wikipedia.org/wiki/List_of_Harry_Potter_cast_members",
+   "k": 100037,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Hogwarts bekçisi Argus Filch'i hangi oyuncu canlandırır?",
+   "a": [
+    "David Bradley",
+    "Timothy Spall",
+    "Mark Williams",
+    "Warwick Davis"
+   ],
+   "tf": false,
+   "oops": "Filch seni kayıt defterine yazdı.",
+   "src": "https://simple.wikipedia.org/wiki/List_of_Harry_Potter_cast_members",
+   "k": 100038,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Aberforth Dumbledore'u hangi oyuncu canlandırır?",
+   "a": [
+    "Ciarán Hinds",
+    "Brendan Gleeson",
+    "Jim Broadbent",
+    "David Thewlis"
+   ],
+   "tf": false,
+   "oops": "Domuz Kafası'nda bu cevaba keçi bile meler.",
+   "src": "https://harrypotter.fandom.com/wiki/Ciar%C3%A1n_Hinds",
+   "k": 100039,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
