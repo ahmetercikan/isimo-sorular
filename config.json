@@ -1,0 +1,11 @@
+{
+ "perDay": 10,
+ "writerModel": "claude-sonnet-5-5",
+ "verifierModel": "claude-opus-5-5",
+ "targets": [
+  "harrypotter", "yuzuklerinefendisi", "alacakaranlik", "yildizsavaslari", "yenilmezler", "matrix", "karayipkorsanlari", "titanik",
+  "hababam", "gora", "eskiya",
+  "aslankral", "karlarulkesi", "oyuncakhikayesi", "tersyuz", "shrek", "nemo", "buzdevri", "sonic", "bluey",
+  "leylailemecnun", "ezel"
+ ]
+}
