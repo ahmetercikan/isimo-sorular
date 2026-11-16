@@ -1,0 +1,454 @@
+{
+ "id": "karlarulkesi",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Elsa'nın saçı hangi renktir?",
+   "a": [
+    "Platin sarısı",
+    "Kızıl",
+    "Siyah",
+    "Kumral"
+   ],
+   "tf": false,
+   "oops": "Elsa'nın saçı kar gibi parlıyor, sen de biraz parla!",
+   "src": "https://en.wikipedia.org/wiki/List_of_Frozen_characters",
+   "k": 100313,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Karlar Ülkesi filmlerini hangi stüdyo yapmıştır?",
+   "a": [
+    "Walt Disney",
+    "DreamWorks",
+    "Illumination",
+    "Sony Animation"
+   ],
+   "tf": false,
+   "oops": "Fare kulaklı bir imza vardı, görmedin mi?",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100314,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Elsa, ilk filmde taç giyerek hangi unvanı alır?",
+   "a": [
+    "Kraliçe",
+    "Prenses",
+    "Düşes",
+    "Kontes"
+   ],
+   "tf": false,
+   "oops": "Elsa'nın tacı süs değildi, tahtın kendisiydi!",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100315,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Olaf'ın kolları neyden yapılmıştır?",
+   "a": [
+    "Dal",
+    "Havuç",
+    "Buz",
+    "Kömür"
+   ],
+   "tf": false,
+   "oops": "Olaf'ın kolları ağaçtan, senin cevabın havadan!",
+   "src": "https://en.wikipedia.org/wiki/List_of_Frozen_characters",
+   "k": 100316,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Elsa kışı bitirince Arendelle'e hangi mevsim geri döner?",
+   "a": [
+    "Yaz",
+    "Sonbahar",
+    "İlkbahar",
+    "Kış"
+   ],
+   "tf": false,
+   "oops": "Olaf bu cevabı duysa kar bulutunun altına saklanırdı.",
+   "src": "https://frozen.fandom.com/wiki/Elsa's_winter",
+   "k": 100317,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Elsa, Aldırma şarkısında kendine yaptığı buz elbise hangi renktir?",
+   "a": [
+    "Açık mavi",
+    "Kırmızı",
+    "Mor",
+    "Siyah"
+   ],
+   "tf": false,
+   "oops": "Elsa'nın elbisesi buz gibi, senin cevabın ise biraz sıcak!",
+   "src": "https://frozen.fandom.com/wiki/Let_It_Go",
+   "k": 100318,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "İlk filmin finalinde Anna ile Kristoff ne yapar?",
+   "a": [
+    "Öpüşürler",
+    "Dans ederler",
+    "Kavga ederler",
+    "Nişanlanırlar"
+   ],
+   "tf": false,
+   "oops": "Kristoff bu cevabı duyunca kızağıyla kaçardı.",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100319,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Troller, kaya gibi görünüp ne yaparak hareket eder?",
+   "a": [
+    "Yuvarlanarak",
+    "Zıplayarak",
+    "Sürünerek",
+    "Uçarak"
+   ],
+   "tf": false,
+   "oops": "Troller bu cevaba yuvarlanıp gülerdi.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Frozen_characters",
+   "k": 100320,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Elsa, 'Show Yourself' şarkısının sonunda nasıl bir elbiseye bürünür?",
+   "a": [
+    "Beyaz",
+    "Mor",
+    "Kırmızı",
+    "Yeşil"
+   ],
+   "tf": false,
+   "oops": "Elsa'nın bu elbisesi kar gibi, senin cevabın ise bulanık!",
+   "src": "https://frozen.fandom.com/wiki/Show_Yourself",
+   "k": 100321,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Anna, Gezgin Oaken'ın dükkânından ne almak ister?",
+   "a": [
+    "Kışlık giysi",
+    "Yiyecek",
+    "Harita",
+    "Silah"
+   ],
+   "tf": false,
+   "oops": "Anna'nın elbisesi kış için fazla inceydi, tıpkı cevabın gibi.",
+   "src": "https://frozen.fandom.com/wiki/Anna",
+   "k": 100322,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Anna ile Hans'ın düetinde aşk neye benzetilir?",
+   "a": [
+    "Açık bir kapıya",
+    "Bir köprüye",
+    "Bir anahtara",
+    "Bir kar tanesine"
+   ],
+   "tf": false,
+   "oops": "Bu kapıyı yanlış çaldın, tekrar dene!",
+   "src": "https://frozen.fandom.com/wiki/Frozen",
+   "k": 100323,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Elsa, Aldırma şarkısında saçını nasıl değiştirir?",
+   "a": [
+    "Topuzunu çözüp yana örgü yapar",
+    "Kısacık keser",
+    "Tepesinde toplar",
+    "Beyaza boyar"
+   ],
+   "tf": false,
+   "oops": "Elsa'nın saçı özgür kaldı, sen de biraz serbest kal.",
+   "src": "https://frozen.fandom.com/wiki/Let_It_Go",
+   "k": 100324,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Aldırma şarkısının sonunda Elsa buz sarayının kapısını ne yapar?",
+   "a": [
+    "Çarparak kapatır",
+    "Açık bırakır",
+    "Buzla sıvar",
+    "Anahtarla kilitler"
+   ],
+   "tf": false,
+   "oops": "Elsa kapıyı o kadar sert kapattı ki cevabın da çarpıldı!",
+   "src": "https://frozen.fandom.com/wiki/Let_It_Go",
+   "k": 100325,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Küçük Elsa ile Anna, gece kar yağdırarak hangi salonda oynar?",
+   "a": [
+    "Balo salonunda",
+    "Mutfakta",
+    "Kütüphanede",
+    "Bahçede"
+   ],
+   "tf": false,
+   "oops": "Kar yağdıran Elsa'ydı, ama cevabı sen kaçırdın!",
+   "src": "https://movies.fandom.com/wiki/Frozen_(2013)/Transcript",
+   "k": 100326,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Doğru mu, yanlış mı? Elsa'nın taç giyme töreni yaz mevsiminde yapılır.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Oaken'ın yaz indirimini unuttun galiba!",
+   "src": "https://frozen.fandom.com/wiki/Elsa's_winter",
+   "k": 100327,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Karlar Ülkesi 2'de Elsa'nın evcilleştirdiği su ruhunun adı nedir?",
+   "a": [
+    "Nokk",
+    "Bruni",
+    "Gale",
+    "Sitron"
+   ],
+   "tf": false,
+   "oops": "Bu ismi suya yazdın, dalgalar sildi!",
+   "src": "https://disney.fandom.com/wiki/Frozen_2",
+   "k": 100328,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ahtohallan nasıl bir yerdir?",
+   "a": [
+    "Buzdan bir buzul dünyası",
+    "Kum dolu bir çöl",
+    "Yeraltı mağarası",
+    "Yüksek bir kule"
+   ],
+   "tf": false,
+   "oops": "Ahtohallan'da çöl yok, sadece buz var!",
+   "src": "https://disney.fandom.com/wiki/Frozen_2",
+   "k": 100329,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Büyülü Orman dışarıdan nasıl kapatılmıştır?",
+   "a": [
+    "Sis duvarıyla",
+    "Taş duvarla",
+    "Buz duvarıyla",
+    "Dikenli çitle"
+   ],
+   "tf": false,
+   "oops": "Bu cevap da sis gibi, hiçbir şey görünmüyor.",
+   "src": "https://disney.fandom.com/wiki/Enchanted_Forest_(Frozen)",
+   "k": 100330,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Elsa'nın kışı Arendelle limanındaki gemilere ne yapar?",
+   "a": [
+    "Buza hapseder",
+    "Batırır",
+    "Karaya sürükler",
+    "Yakar"
+   ],
+   "tf": false,
+   "oops": "Gemiler buza saplandı, sen de cevaba saplandın.",
+   "src": "https://frozen.fandom.com/wiki/Elsa's_winter",
+   "k": 100331,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde Kristoff'u orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Jonathan Groff",
+    "Josh Gad",
+    "Santino Fontana",
+    "Alan Tudyk"
+   ],
+   "tf": false,
+   "oops": "Kristoff'un sesi bir başkasına ait, kulak ver!",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100332,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmin senaryosunu kim yazmıştır?",
+   "a": [
+    "Jennifer Lee",
+    "John Lasseter",
+    "Pete Docter",
+    "Brad Bird"
+   ],
+   "tf": false,
+   "oops": "Senaryoyu okumadan filme girmişsin!",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100333,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Prens Hans'ı kim seslendirir?",
+   "a": [
+    "Santino Fontana",
+    "Jonathan Groff",
+    "Josh Gad",
+    "Alan Tudyk"
+   ],
+   "tf": false,
+   "oops": "Hans'ın sesi güvenilir geliyordu ama cevabın değil.",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100334,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Weselton Dükü'nü kim seslendirir?",
+   "a": [
+    "Alan Tudyk",
+    "Santino Fontana",
+    "Chris Williams",
+    "Ciarán Hinds"
+   ],
+   "tf": false,
+   "oops": "Dük'ün sesi küçük ama cevabın daha da küçük çıktı.",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100335,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde Gezgin Oaken'ı orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Chris Williams",
+    "Alan Tudyk",
+    "Jonathan Groff",
+    "Santino Fontana"
+   ],
+   "tf": false,
+   "oops": "Yoo-hoo! Bu cevap indirimde bile değil.",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100336,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Karlar Ülkesi 2'de Kraliçe Iduna'yı orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Evan Rachel Wood",
+    "Anne Hathaway",
+    "Amy Adams",
+    "Rachel Matthews"
+   ],
+   "tf": false,
+   "oops": "Iduna'nın ninnisi güzeldi, cevabın biraz uyumsuz.",
+   "src": "https://www.themoviedb.org/movie/330457-frozen-ii/cast",
+   "k": 100337,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Karlar Ülkesi 2'de Teğmen Mattias'ı orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Sterling K. Brown",
+    "Jason Ritter",
+    "Alfred Molina",
+    "Jonathan Groff"
+   ],
+   "tf": false,
+   "oops": "Mattias ormanda mahsur kaldı, sen de cevapta!",
+   "src": "https://www.themoviedb.org/movie/330457-frozen-ii/cast",
+   "k": 100338,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Karlar Ülkesi 2'de Kral Agnarr'ı orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Alfred Molina",
+    "Sterling K. Brown",
+    "Ciarán Hinds",
+    "Alan Tudyk"
+   ],
+   "tf": false,
+   "oops": "Kral bu cevaba tahtından kalkıp itiraz ederdi.",
+   "src": "https://www.themoviedb.org/movie/330457-frozen-ii/cast",
+   "k": 100339,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Elsa'yı çağıran gizemli sesin vokalini hangi şarkıcı seslendirir?",
+   "a": [
+    "Aurora",
+    "Sia",
+    "Lorde",
+    "Adele"
+   ],
+   "tf": false,
+   "oops": "Bu ses Kuzey'den geliyordu, cevabın ise belirsiz.",
+   "src": "https://www.themoviedb.org/movie/330457-frozen-ii/cast",
+   "k": 100340,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Troller'in lideri Grand Pabbie'yi orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Ciarán Hinds",
+    "Liam Neeson",
+    "Brian Cox",
+    "Jim Broadbent"
+   ],
+   "tf": false,
+   "oops": "Grand Pabbie'nin bilgeliği bu cevapta yok!",
+   "src": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+   "k": 100341,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Karlar Ülkesi 2'de Ryder'ı orijinal seslendirmede kim seslendirir?",
+   "a": [
+    "Jason Ritter",
+    "Jonathan Groff",
+    "Sterling K. Brown",
+    "Josh Gad"
+   ],
+   "tf": false,
+   "oops": "Ryder ren geyiklerine seslenir, sen cevaba seslen!",
+   "src": "https://www.themoviedb.org/movie/330457-frozen-ii/cast",
+   "k": 100342,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
