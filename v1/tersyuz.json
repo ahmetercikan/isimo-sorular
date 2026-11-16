@@ -1,0 +1,452 @@
+{
+ "id": "tersyuz",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Üzüntü'nün yüzünde hangi aksesuar bulunur?",
+   "a": [
+    "Gözlük",
+    "Şapka",
+    "Kulaklık",
+    "Papyon"
+   ],
+   "tf": false,
+   "oops": "Üzüntü bile bu soruya bakıp gözlüğünü düzeltti.",
+   "src": "https://costumewall.com/dress-like-sadness/",
+   "k": 100373,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Bing Bong ne renktir?",
+   "a": [
+    "Pembe",
+    "Mavi",
+    "Sarı",
+    "Yeşil"
+   ],
+   "tf": false,
+   "oops": "Bing Bong pamuk şeker gibi pembe, bu kadar tatlı bir ipucu da olmaz.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100374,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Ters Yüz hangi animasyon stüdyosunun yapımıdır?",
+   "a": [
+    "Pixar",
+    "DreamWorks",
+    "Illumination",
+    "Blue Sky"
+   ],
+   "tf": false,
+   "oops": "Pixar'ın lambası bile bu cevaba göz kırptı.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100375,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Neşe'nin Riley için en büyük amacı nedir?",
+   "a": [
+    "Riley'yi mutlu etmek",
+    "Riley'yi erken uyutmak",
+    "Riley'yi okulda birinci yapmak",
+    "Riley'yi sessiz tutmak"
+   ],
+   "tf": false,
+   "oops": "Neşe'nin ışığı biraz söndü, ama hemen toparlar.",
+   "src": "https://insideout.fandom.com/wiki/Inside_Out/Transcript",
+   "k": 100376,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu, yanlış mı? Ters Yüz 2, ilk Ters Yüz filminin devamıdır.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "İki numara boşuna yazılmamış!",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out_2",
+   "k": 100377,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu, yanlış mı? Gıpta, ilk Ters Yüz filminde Riley'nin kafasındaki duygulardan biridir.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Gıpta daha ikinci filme kadar kapıda bekliyordu.",
+   "src": "https://collider.com/inside-out-2-new-emotions-explained/",
+   "k": 100378,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Korku'nun boynunda ne vardır?",
+   "a": [
+    "Papyon",
+    "Atkı",
+    "Kravat",
+    "Madalyon"
+   ],
+   "tf": false,
+   "oops": "Korku bu soruda papyonunu düzeltirken ürperdi.",
+   "src": "https://www.sweetyhigh.com/read/inside-out-character-guide",
+   "k": 100379,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Öfke hangi giysi parçasıyla görünür?",
+   "a": [
+    "Kravat",
+    "Atkı",
+    "Şapka",
+    "Eldiven"
+   ],
+   "tf": false,
+   "oops": "Öfke kravatını gevşetti, sinirlenmeye hazırlanıyor.",
+   "src": "https://www.sweetyhigh.com/read/inside-out-character-guide",
+   "k": 100380,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Riley'nin babasının kafasındaki duyguların hepsinin yüzünde ne vardır?",
+   "a": [
+    "Bıyık",
+    "Gözlük",
+    "Sakal",
+    "Şapka"
+   ],
+   "tf": false,
+   "oops": "Babanın kafasındaki duygular bile bu cevaba bıyık altından güldü.",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/InsideOut",
+   "k": 100381,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Riley'nin Minnesota'daki en yakın arkadaşının adı nedir?",
+   "a": [
+    "Meg",
+    "Bree",
+    "Grace",
+    "Val"
+   ],
+   "tf": false,
+   "oops": "Meg'e görüntülü arama açıp özür dilemek lazım.",
+   "src": "https://insideout.fandom.com/wiki/Meg",
+   "k": 100382,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ters Yüz 2'deki yeni duygulardan Gıpta ne renktir?",
+   "a": [
+    "Turkuaz",
+    "Turuncu",
+    "Pembe",
+    "Mor"
+   ],
+   "tf": false,
+   "oops": "Gıpta, başkasının cevabına özendi ama yine de yanlış çıktı.",
+   "src": "https://www.disneyguy.org/single-post/inside-out-2-fun-facts-and-easter-eggs",
+   "k": 100383,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Tiksinti, Riley'yi neden korumakla görevlidir?",
+   "a": [
+    "Zehirlenmekten",
+    "Kazalardan",
+    "Ağlamaktan",
+    "Unutmaktan"
+   ],
+   "tf": false,
+   "oops": "Tiksinti bu cevabı görünce yüzünü buruşturdu.",
+   "src": "https://www.dailyscript.com/scripts/inside-out-screenplay.pdf",
+   "k": 100384,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Öfke, Riley için hangi şeyin yerinde olmasına çok önem verir?",
+   "a": [
+    "Adaletin",
+    "Rekabetin",
+    "Paranın",
+    "Hokeyin"
+   ],
+   "tf": false,
+   "oops": "Bu cevap haksızlık, Öfke'nin kafasından alevler çıktı.",
+   "src": "https://www.dailyscript.com/scripts/inside-out-screenplay.pdf",
+   "k": 100385,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ters Yüz'de Riley'nin ebeveynleri Riley'den nasıl söz eder?",
+   "a": [
+    "Mutlu kızımız",
+    "Hokey yıldızımız",
+    "Küçük kaşifimiz",
+    "Sessiz kızımız"
+   ],
+   "tf": false,
+   "oops": "Neşe seni hemen mutlu bir cevaba yönlendirsin.",
+   "src": "https://www.slate.com/articles/arts/culturebox/2015/06/how_pixar_s_inside_out_finds_the_good_in_the_bad.html",
+   "k": 100386,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Üzüntü'yü hangi oyuncu seslendirir?",
+   "a": [
+    "Phyllis Smith",
+    "Kristen Wiig",
+    "Maya Rudolph",
+    "Tina Fey"
+   ],
+   "tf": false,
+   "oops": "Üzüntü bu cevaba biraz ağladı, haklı da.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100387,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmin orijinalinde Korku'yu hangi oyuncu seslendirdi?",
+   "a": [
+    "Bill Hader",
+    "Jonah Hill",
+    "Seth Rogen",
+    "Will Forte"
+   ],
+   "tf": false,
+   "oops": "Korku bu cevabı duyunca saklandı.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100388,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Öfke'yi hangi oyuncu seslendirir?",
+   "a": [
+    "Lewis Black",
+    "Steve Carell",
+    "Danny DeVito",
+    "Jack Black"
+   ],
+   "tf": false,
+   "oops": "Öfke'nin kafasından duman çıktı!",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100389,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmin orijinalinde Tiksinti'yi hangi oyuncu seslendirdi?",
+   "a": [
+    "Mindy Kaling",
+    "Tina Fey",
+    "Sandra Oh",
+    "Awkwafina"
+   ],
+   "tf": false,
+   "oops": "Tiksinti bu cevaba yüzünü buruşturdu.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100390,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk Ters Yüz filminin müziğini hangi besteci yaptı?",
+   "a": [
+    "Michael Giacchino",
+    "Randy Newman",
+    "Thomas Newman",
+    "Hans Zimmer"
+   ],
+   "tf": false,
+   "oops": "Müzik kulağın bu soruda biraz paslanmış.",
+   "src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_(2015_film)",
+   "k": 100391,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz vizyona girerken öncesinde hangi Pixar kısa filmi gösterildi?",
+   "a": [
+    "Lava",
+    "Piper",
+    "Lou",
+    "Bao"
+   ],
+   "tf": false,
+   "oops": "Bu soru yanardağ gibi patladı.",
+   "src": "https://en.wikipedia.org/wiki/Lava_(2014_film)",
+   "k": 100392,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinalinde Riley'nin babasını hangi oyuncu seslendirdi?",
+   "a": [
+    "Kyle MacLachlan",
+    "Ed Harris",
+    "Kevin Bacon",
+    "Jeff Daniels"
+   ],
+   "tf": false,
+   "oops": "Babanın bıyığı bile bu cevaba kıvrıldı.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100393,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz, animasyon film dalı dışında hangi dalda Oscar adayı oldu?",
+   "a": [
+    "En İyi Orijinal Senaryo",
+    "En İyi Yönetmen",
+    "En İyi Kurgu",
+    "En İyi Görsel Efekt"
+   ],
+   "tf": false,
+   "oops": "Senaryoyu yeniden okuman lazım.",
+   "src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_(2015_film)",
+   "k": 100394,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Pete Docter, Ters Yüz fikrini hangi aile bireyinin büyümesinden esinlenerek geliştirdi?",
+   "a": [
+    "Kızının",
+    "Oğlunun",
+    "Annesinin",
+    "Kız kardeşinin"
+   ],
+   "tf": false,
+   "oops": "Bu soruda Docter'ın kızı bile hayal kırıklığına uğrar.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100395,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk Ters Yüz filminin yardımcı yönetmeni kimdir?",
+   "a": [
+    "Ronnie del Carmen",
+    "Lee Unkrich",
+    "Brad Bird",
+    "Andrew Stanton"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu bu cevapta biraz kaydı.",
+   "src": "https://www.rappler.com/entertainment/119349-ronnie-del-carmen-inside-out-oscars-2016-nominee/",
+   "k": 100396,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz 2'nin orijinalinde Bıkkınlık'ı hangi oyuncu seslendirdi?",
+   "a": [
+    "Adèle Exarchopoulos",
+    "Léa Seydoux",
+    "Marion Cotillard",
+    "Eva Green"
+   ],
+   "tf": false,
+   "oops": "Bıkkınlık cevabı verirken bile esnedi.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out_2",
+   "k": 100397,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz 2'nin orijinalinde Gıpta'yı hangi oyuncu seslendirdi?",
+   "a": [
+    "Ayo Edebiri",
+    "Zendaya",
+    "Quinta Brunson",
+    "Awkwafina"
+   ],
+   "tf": false,
+   "oops": "Gıpta, doğru cevabı bilenlere biraz özendi.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out_2",
+   "k": 100398,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz 2'nin orijinalinde Nostalji'yi hangi oyuncu seslendirdi?",
+   "a": [
+    "June Squibb",
+    "Betty White",
+    "Judi Dench",
+    "Jane Fonda"
+   ],
+   "tf": false,
+   "oops": "Nostalji bu cevap için 'eski günler' diye iç çekti.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out_2",
+   "k": 100399,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Bing Bong'u hangi oyuncu seslendirdi?",
+   "a": [
+    "Richard Kind",
+    "Billy Crystal",
+    "Steve Buscemi",
+    "Jon Lovitz"
+   ],
+   "tf": false,
+   "oops": "Bing Bong bu cevaba bir iki şeker döktü.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out",
+   "k": 100400,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Aşağıdaki animasyonlardan hangisini Ters Yüz'ün yönetmeni Pete Docter yönetmiştir?",
+   "a": [
+    "Yukarı Bak",
+    "Ratatuy",
+    "Arabalar",
+    "Cesur"
+   ],
+   "tf": false,
+   "oops": "Bu soruda balonlar bile yukarı uçmadı.",
+   "src": "https://variety.com/2015/film/festivals/inside-out-pete-docter-animation-pixar-1201516389/",
+   "k": 100401,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ters Yüz 2'nin orijinalinde Utanç'ı hangi oyuncu seslendirdi?",
+   "a": [
+    "Paul Walter Hauser",
+    "Jonah Hill",
+    "Danny McBride",
+    "Jack Black"
+   ],
+   "tf": false,
+   "oops": "Utanç bu cevabı verince kapüşonunun içine girdi.",
+   "src": "https://en.wikipedia.org/wiki/Inside_Out_2",
+   "k": 100402,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
