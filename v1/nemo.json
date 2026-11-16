@@ -1,0 +1,452 @@
+{
+ "id": "nemo",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Kayıp Balık Nemo'da diş hekiminin yeğeni Darla'ya Nemo hangi vesileyle verilecektir?",
+   "a": [
+    "Doğum günü hediyesi olarak",
+    "Karne hediyesi olarak",
+    "Yılbaşı hediyesi olarak",
+    "Mezuniyet hediyesi olarak"
+   ],
+   "tf": false,
+   "oops": "Darla'nın pastasını yememek için bile doğru bilmeliydin!",
+   "src": "https://villains-antagonists.fandom.com/wiki/Darla_Sherman",
+   "k": 100433,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Dori'yi orijinal seste hangi ünlü sunucu seslendirir?",
+   "a": [
+    "Ellen DeGeneres",
+    "Tina Fey",
+    "Oprah Winfrey",
+    "Whoopi Goldberg"
+   ],
+   "tf": false,
+   "oops": "Bu cevap aklından uçup gitmiş, Dori gibi!",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100434,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Marlin, Nemo'yu ararken yolda tanıştığı hangi balıkla yol arkadaşı olur?",
+   "a": [
+    "Dori",
+    "Gill",
+    "Bloat",
+    "Peach"
+   ],
+   "tf": false,
+   "oops": "Yüzmeye devam et, bir dahaki soruda yakalarsın!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Nemo",
+   "k": 100435,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kayıp Balık Nemo'nun devam filmi hangisidir?",
+   "a": [
+    "Kayıp Balık Dori",
+    "Kayıp Balık Marlin",
+    "Kayıp Balık Hank",
+    "Nemo'nun Dönüşü"
+   ],
+   "tf": false,
+   "oops": "Devam filmini kaçırdın, bu sefer kayıp olan sensin!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100436,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Marlin'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Albert Brooks",
+    "Billy Crystal",
+    "Tom Hanks",
+    "Tim Allen"
+   ],
+   "tf": false,
+   "oops": "Marlin bile bunu bilirdi, hem de endişelenerek!",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100437,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kayıp Balık Dori hangi yıl vizyona girdi?",
+   "a": [
+    "2016",
+    "2010",
+    "2013",
+    "2019"
+   ],
+   "tf": false,
+   "oops": "Yanlış cevap, ama üzülme, Dori de yılları karıştırırdı.",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100438,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Akvaryum çetesinin lideri Gill'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Willem Dafoe",
+    "Robin Williams",
+    "Jeff Goldblum",
+    "Morgan Freeman"
+   ],
+   "tf": false,
+   "oops": "Gill'in yüzgeci kadar yarım kaldı bu cevap.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100439,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kayıp Balık Nemo'nun orijinal adı nedir?",
+   "a": [
+    "Finding Nemo",
+    "Finding Marlin",
+    "Lost Nemo",
+    "Nemo's Journey"
+   ],
+   "tf": false,
+   "oops": "İngilizce adı bile kayıp mı oldu?",
+   "src": "https://en.wikipedia.org/wiki/Finding_Nemo",
+   "k": 100440,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kayıp Balık Dori'nin orijinal adı nedir?",
+   "a": [
+    "Finding Dory",
+    "Finding Hank",
+    "Dory's Return",
+    "Lost Dory"
+   ],
+   "tf": false,
+   "oops": "Bu adı unutmuş olabilirsin ama Dori seni anlar.",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100441,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kayıp Balık Dori'de ahtapot Hank'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Ed O'Neill",
+    "Danny DeVito",
+    "John Goodman",
+    "Kevin Spacey"
+   ],
+   "tf": false,
+   "oops": "Hank kolunu sallayıp başını iki yana sallıyor.",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100442,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Pelikan Nigel'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Geoffrey Rush",
+    "Russell Crowe",
+    "Ewan McGregor",
+    "Heath Ledger"
+   ],
+   "tf": false,
+   "oops": "Nigel gagasında doğru cevabı taşıyordu, kaçırdın!",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100443,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Köpekbalığı Bruce'u orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Barry Humphries",
+    "Paul Hogan",
+    "Mel Gibson",
+    "Hugh Jackman"
+   ],
+   "tf": false,
+   "oops": "Bruce ısırmaz ama bu cevap biraz acıttı.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100444,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kayıp Balık Dori, Kayıp Balık Nemo'dan kaç yıl sonra vizyona girdi?",
+   "a": [
+    "13",
+    "8",
+    "10",
+    "15"
+   ],
+   "tf": false,
+   "oops": "Yıllar da Dori'nin hafızası gibi uçup gitmiş.",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100445,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Robbie Williams'ın seslendirdiği 'Beyond the Sea' şarkısı Kayıp Balık Nemo'nun jenerik şarkılarından biridir.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Şarkıyı kaçırmışsın, jenerik bitmeden kalkmış olmalısın!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Nemo_(soundtrack)",
+   "k": 100446,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Deniz aslanı Fluke'u orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Idris Elba",
+    "Morgan Freeman",
+    "Will Smith",
+    "Don Cheadle"
+   ],
+   "tf": false,
+   "oops": "Fluke kayanın üstünden seni de itti galiba!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100447,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Balina köpekbalığı Destiny'yi orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Kaitlin Olson",
+    "Tina Fey",
+    "Amy Poehler",
+    "Kristen Wiig"
+   ],
+   "tf": false,
+   "oops": "Destiny de bazen duvara çarpar, sorun değil.",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100448,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Beluga balinası Bailey'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Ty Burrell",
+    "Jim Parsons",
+    "Steve Carell",
+    "Seth Rogen"
+   ],
+   "tf": false,
+   "oops": "Sonarın biraz bozuk, tekrar dene!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100449,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kayıp Balık Nemo'da Nemo'yu orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Alexander Gould",
+    "Haley Joel Osment",
+    "Freddie Highmore",
+    "Jake Lloyd"
+   ],
+   "tf": false,
+   "oops": "Nemo'nun küçük yüzgeci bile bunu doğru yüzerdi.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100450,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Nemo'nun annesi Coral'ı orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Elizabeth Perkins",
+    "Sally Field",
+    "Glenn Close",
+    "Jamie Lee Curtis"
+   ],
+   "tf": false,
+   "oops": "Coral'ı ilk sahnede kaybettik, bu cevabı da kaybettin.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100451,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kayıp Balık Dori'nin jenerik şarkısı 'Unforgettable'ı hangi şarkıcı seslendirdi?",
+   "a": [
+    "Sia",
+    "Adele",
+    "Katy Perry",
+    "Rihanna"
+   ],
+   "tf": false,
+   "oops": "Şarkı unutulmaz ama cevap unutulmuş!",
+   "src": "https://www.awn.com/news/sia-brings-unforgettable-performance-pixar-s-finding-dory",
+   "k": 100452,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Pixar'ın En İyi Animasyon Filmi Oscar'ını kazanan ilk filmi hangisidir?",
+   "a": [
+    "Kayıp Balık Nemo",
+    "Toy Story 2",
+    "Canavarlar Şirketi",
+    "Bir Böceğin Yaşamı"
+   ],
+   "tf": false,
+   "oops": "Oscar'ı yanlış rafa koymuşsun!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Nemo",
+   "k": 100453,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kayıp Balık Dori'nin başında gösterilen kısa film hangisidir?",
+   "a": [
+    "Piper",
+    "Lava",
+    "Day & Night",
+    "La Luna"
+   ],
+   "tf": false,
+   "oops": "Kısa filmi kaçırmışsın, sinemaya geç kaldın!",
+   "src": "https://en.wikipedia.org/wiki/List_of_Pixar_shorts",
+   "k": 100454,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kayıp Balık Dori, Kayıp Balık Nemo'nun olaylarından yaklaşık bir yıl sonra geçer.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Zamanı karıştırdın, Dori'ye bile yakışır!",
+   "src": "https://en.wikipedia.org/wiki/Finding_Dory",
+   "k": 100455,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kayıp Balık Nemo ile birlikte vizyona giren Pixar kısa filmi hangisidir?",
+   "a": [
+    "Knick Knack",
+    "Geri's Game",
+    "Boundin'",
+    "Lifted"
+   ],
+   "tf": false,
+   "oops": "Kısa film kadar kısa sürdü bu cevap.",
+   "src": "https://en.wikipedia.org/wiki/Knick_Knack",
+   "k": 100456,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Akvaryumdaki fobili balık Gurgle'ı orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Austin Pendleton",
+    "Wallace Shawn",
+    "Jim Cummings",
+    "Paul Reubens"
+   ],
+   "tf": false,
+   "oops": "Gurgle mikroptan korkuyordu, sen de yanlıştan korksaydın.",
+   "src": "https://www.fandango.com/finding-nemo-58394/cast-and-crew",
+   "k": 100457,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kayıp Balık Nemo'da deniz yıldızı Peach'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Allison Janney",
+    "Julia Roberts",
+    "Sandra Bullock",
+    "Kathy Bates"
+   ],
+   "tf": false,
+   "oops": "Peach akvaryum camına yapışmıştı, sen cevaba yapışamadın.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100458,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Balon balığı Bloat'u orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Brad Garrett",
+    "Kevin James",
+    "John Goodman",
+    "Jim Belushi"
+   ],
+   "tf": false,
+   "oops": "Bloat kadar şişirdin ama patladı!",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100459,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Çizgili balık Deb'i orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Vicki Lewis",
+    "Kathy Najimy",
+    "Jane Lynch",
+    "Wanda Sykes"
+   ],
+   "tf": false,
+   "oops": "Deb gibi yansımana bakıp tekrar düşün!",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100460,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Çekiç başlı köpekbalığı Anchor'u orijinal seste hangi oyuncu seslendirir?",
+   "a": [
+    "Eric Bana",
+    "Hugh Jackman",
+    "Russell Crowe",
+    "Chris Hemsworth"
+   ],
+   "tf": false,
+   "oops": "Çapa atıldı ama cevap bulunamadı.",
+   "src": "https://www.themoviedb.org/movie/12-finding-nemo/cast",
+   "k": 100461,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Nemo'nun ahtapot okul arkadaşının adı nedir?",
+   "a": [
+    "Pearl",
+    "Ruby",
+    "Daisy",
+    "Opal"
+   ],
+   "tf": false,
+   "oops": "Mürekkep salacak kadar heyecanlanma, tekrar dene!",
+   "src": "https://disney.fandom.com/wiki/Finding_Nemo",
+   "k": 100462,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
