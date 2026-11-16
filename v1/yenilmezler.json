@@ -1,0 +1,456 @@
+{
+ "id": "yenilmezler",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Black Widow'u (Natasha Romanoff) hangi oyuncu canlandırır?",
+   "a": [
+    "Scarlett Johansson",
+    "Elizabeth Olsen",
+    "Brie Larson",
+    "Karen Gillan"
+   ],
+   "tf": false,
+   "oops": "Natasha biraz kırıldı, ama gözünü bile kırpmadı.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/The_Avengers",
+   "k": 100130,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hawkeye'ı (Clint Barton) hangi oyuncu canlandırır?",
+   "a": [
+    "Jeremy Renner",
+    "Chris Pratt",
+    "Paul Rudd",
+    "Anthony Mackie"
+   ],
+   "tf": false,
+   "oops": "Okun hedefi şaşmaz, senin cevabın şaştı.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/The_Avengers",
+   "k": 100131,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Nick Fury'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Samuel L. Jackson",
+    "Morgan Freeman",
+    "Denzel Washington",
+    "Idris Elba"
+   ],
+   "tf": false,
+   "oops": "Fury'nin tek gözü bile bunu görürdü!",
+   "src": "https://www.themoviedb.org/movie/24428-the-avengers/cast",
+   "k": 100132,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Wanda Maximoff'u (Scarlet Witch) hangi oyuncu canlandırır?",
+   "a": [
+    "Elizabeth Olsen",
+    "Scarlett Johansson",
+    "Zoe Saldana",
+    "Pom Klementieff"
+   ],
+   "tf": false,
+   "oops": "Wanda zihnini okudu ve hayal kırıklığına uğradı.",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+   "k": 100133,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Sonsuzluk Savaşı'nda Peter Parker'ı (Spider-Man) hangi oyuncu canlandırır?",
+   "a": [
+    "Tom Holland",
+    "Andrew Garfield",
+    "Tobey Maguire",
+    "Asa Butterfield"
+   ],
+   "tf": false,
+   "oops": "Örümcek hissin burada çalışmamış.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100134,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Peter Quill'i (Star-Lord) hangi oyuncu canlandırır?",
+   "a": [
+    "Chris Pratt",
+    "Chris Pine",
+    "Chris Evans",
+    "Chris Hemsworth"
+   ],
+   "tf": false,
+   "oops": "Chris çoktu ama doğrusu sadece biriydi.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100135,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "T'Challa'yı (Black Panther) hangi oyuncu canlandırır?",
+   "a": [
+    "Chadwick Boseman",
+    "Michael B. Jordan",
+    "Idris Elba",
+    "Winston Duke"
+   ],
+   "tf": false,
+   "oops": "Wakanda sonsuza dek! Ama bu cevap değil.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100136,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Vision'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Paul Bettany",
+    "Jude Law",
+    "Hugo Weaving",
+    "Mads Mikkelsen"
+   ],
+   "tf": false,
+   "oops": "Vision'ın taşı bile bunu biliyordu.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron/Credits",
+   "k": 100137,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Captain Marvel'ı (Carol Danvers) hangi oyuncu canlandırır?",
+   "a": [
+    "Brie Larson",
+    "Gal Gadot",
+    "Zoe Saldana",
+    "Emily Blunt"
+   ],
+   "tf": false,
+   "oops": "Carol bunu duysa gökyüzüne kaçardı.",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+   "k": 100138,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Yenilmezler filmini (2012) hangi yönetmen çekti?",
+   "a": [
+    "Joss Whedon",
+    "Jon Favreau",
+    "Kenneth Branagh",
+    "James Gunn"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğunda yanlış kişiyi oturttun.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/The_Avengers",
+   "k": 100139,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sonsuzluk Savaşı ve Son Oyun'u hangi yönetmen kardeşler çekti?",
+   "a": [
+    "Anthony ve Joe Russo",
+    "Joel ve Ethan Coen",
+    "Lana ve Lilly Wachowski",
+    "Albert ve Allen Hughes"
+   ],
+   "tf": false,
+   "oops": "Kardeşlik bağı doğru, kardeşler yanlış!",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+   "k": 100140,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sam Wilson'ı (Falcon) hangi oyuncu canlandırır?",
+   "a": [
+    "Anthony Mackie",
+    "Don Cheadle",
+    "Chadwick Boseman",
+    "Sebastian Stan"
+   ],
+   "tf": false,
+   "oops": "Falcon yüksekten uçar, sen yüksekten attın.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100141,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ultron Çağı'nda Pietro Maximoff'u (Quicksilver) hangi oyuncu canlandırır?",
+   "a": [
+    "Aaron Taylor-Johnson",
+    "Evan Peters",
+    "Sebastian Stan",
+    "Dave Bautista"
+   ],
+   "tf": false,
+   "oops": "Pietro bu cevabı duymadan çoktan uzaklaştı.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron",
+   "k": 100142,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ultron Çağı'nda silah tüccarı Ulysses Klaue'u hangi oyuncu canlandırır?",
+   "a": [
+    "Andy Serkis",
+    "Benicio del Toro",
+    "Michael Douglas",
+    "Peter Dinklage"
+   ],
+   "tf": false,
+   "oops": "Klaue'un kolu bile bu cevaba güldü.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron/Credits",
+   "k": 100143,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Pepper Potts'u hangi oyuncu canlandırır?",
+   "a": [
+    "Gwyneth Paltrow",
+    "Cobie Smulders",
+    "Natalie Portman",
+    "Rebecca Hall"
+   ],
+   "tf": false,
+   "oops": "Tony bu cevap için bile bir zırh yapmazdı.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/The_Avengers",
+   "k": 100144,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Gamora'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Zoe Saldana",
+    "Karen Gillan",
+    "Pom Klementieff",
+    "Danai Gurira"
+   ],
+   "tf": false,
+   "oops": "Gamora'nın hançeri senin cevabına yöneldi.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100145,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sonsuzluk Savaşı'nda cüce Eitri'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Peter Dinklage",
+    "Ian McKellen",
+    "Danny DeVito",
+    "Warwick Davis"
+   ],
+   "tf": false,
+   "oops": "Eitri'nin ocağı senin cevabını erimiş halde istiyor.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast?language=en-US",
+   "k": 100146,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "S.H.I.E.L.D. ajanı Maria Hill'i hangi oyuncu canlandırır?",
+   "a": [
+    "Cobie Smulders",
+    "Gwyneth Paltrow",
+    "Hayley Atwell",
+    "Rebecca Hall"
+   ],
+   "tf": false,
+   "oops": "Maria Hill'in dosyalarında bu cevap yok.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/The_Avengers",
+   "k": 100147,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Loki, Stuttgart'ta kalabalığa ne yapmalarını emreder?",
+   "a": [
+    "Diz çökmelerini",
+    "Kaçmalarını",
+    "Gözlerini kapatmalarını",
+    "Sessiz kalmalarını"
+   ],
+   "tf": false,
+   "oops": "Loki bu cevaba diz çökmedi, güldü.",
+   "src": "https://www.quotes.net/mquote/1182931",
+   "k": 100148,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mantis, Titan'da Thanos'u yavaşlatmak için hangi yeteneğini kullanır?",
+   "a": [
+    "Duyguları hissetmek",
+    "Zamanı durdurmak",
+    "Görünmez olmak",
+    "Ateş püskürtmek"
+   ],
+   "tf": false,
+   "oops": "Mantis senin tahminini hissetti, pek iç açıcı değil.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Battle_of_Titan",
+   "k": 100149,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Son Oyun'da ailesini kaybeden Clint, hangi kimliğe bürünür?",
+   "a": [
+    "Ronin",
+    "Moon Knight",
+    "Black Knight",
+    "Daredevil"
+   ],
+   "tf": false,
+   "oops": "Clint'in bu rolü bir samuray gibi gizli kalmış.",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+   "k": 100150,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Son Oyun'da Steve ve Tony, 1970'te Pym parçacıkları için hangi askeri üsse gider?",
+   "a": [
+    "Camp Lehigh",
+    "Camp Pendleton",
+    "Fort Bragg",
+    "Area 51"
+   ],
+   "tf": false,
+   "oops": "Bu üs haritanın yanlış yerinde kalmış.",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+   "k": 100151,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ultron Çağı'nda Clint Barton'ın kızının adı nedir?",
+   "a": [
+    "Lila",
+    "Cassie",
+    "Morgan",
+    "Natasha"
+   ],
+   "tf": false,
+   "oops": "Çiftlikte bu ismi duymadın galiba.",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Clint_Barton's_Homestead",
+   "k": 100152,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kara Düzen'in en iri, kaya gibi bedenli üyesi kimdir?",
+   "a": [
+    "Cull Obsidian",
+    "Proxima Midnight",
+    "Corvus Glaive",
+    "Ebony Maw"
+   ],
+   "tf": false,
+   "oops": "Cull seni bir yumrukla düzeltirdi.",
+   "src": "https://villains.fandom.com/wiki/Cull_Obsidian",
+   "k": 100153,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ultron Çağı'nda Thor, görüntü almak için mağarada hangi dostuyla buluşur?",
+   "a": [
+    "Erik Selvig",
+    "Heimdall",
+    "Odin",
+    "Jane Foster"
+   ],
+   "tf": false,
+   "oops": "Mağaradaki su bile daha net görmüştü.",
+   "src": "https://movies.fandom.com/wiki/Avengers:_Age_of_Ultron/Transcript",
+   "k": 100154,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Wanda'nın Natasha'ya gösterdiği anılarda Natasha hangi sanatın eğitimini görür?",
+   "a": [
+    "Bale",
+    "Resim",
+    "Müzik",
+    "Tiyatro"
+   ],
+   "tf": false,
+   "oops": "Natasha'nın adımları bu cevaptan daha zarifti.",
+   "src": "https://www.yahoo.com/entertainment/avengers-ultron-dreams-spoilers-civil-war-117867780032.html",
+   "k": 100155,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Son Oyun'un final savaşında Tony Stark hangi zırhı giyer?",
+   "a": [
+    "Mark 85",
+    "Mark 50",
+    "Mark 42",
+    "Mark 7"
+   ],
+   "tf": false,
+   "oops": "Tony bu numarayı çoktan eskitti.",
+   "src": "https://comicfanclub.com/marvel/iron-man-mark-85/",
+   "k": 100156,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk Yenilmezler filminin müziğini kim besteledi?",
+   "a": [
+    "Alan Silvestri",
+    "Hans Zimmer",
+    "John Williams",
+    "Ramin Djawadi"
+   ],
+   "tf": false,
+   "oops": "Müzik kulağın bu cevapta pek çalışmadı.",
+   "src": "https://en.wikipedia.org/wiki/Music_of_the_Marvel_Cinematic_Universe",
+   "k": 100157,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Sonsuzluk Savaşı'nda Stan Lee'nin kısa rolü hangi meslekte görünür?",
+   "a": [
+    "Okul otobüsü şoförü",
+    "Taksi şoförü",
+    "Gazete satıcısı",
+    "Postacı"
+   ],
+   "tf": false,
+   "oops": "Stan Lee bu cevaba gülümseyip el salladı.",
+   "src": "https://screenrant.com/stan-lee-marvel-movie-cameo-all/",
+   "k": 100158,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Natasha, Loki'yle konuşurken defterinde hangi renkte lekeler olduğunu söyler?",
+   "a": [
+    "Kırmızı",
+    "Siyah",
+    "Mavi",
+    "Yeşil"
+   ],
+   "tf": false,
+   "oops": "Natasha'nın defteri senin cevabından daha renkli.",
+   "src": "https://www.imdb.com/title/tt0848228/quotes/?item=qt1685148",
+   "k": 100159,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
