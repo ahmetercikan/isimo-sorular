@@ -1,0 +1,452 @@
+{
+ "id": "matrix",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Matrix serisi toplam kaç filmden oluşur?",
+   "a": [
+    "Dört",
+    "Üç",
+    "Beş",
+    "Altı"
+   ],
+   "tf": false,
+   "oops": "Sayılar Matrix'te hiç güvenilir değil, yine de bir daha dene!",
+   "src": "https://screenrant.com/the-matrix-5-development-update-drew-goddard/",
+   "k": 100160,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Neo'nun mermilerden kaçtığı sahnede kamera çevresinde dönerken zaman yavaşlar. Bu efekt hangi adla ünlüdür?",
+   "a": [
+    "Mermi zamanı",
+    "Hızlı sarma",
+    "Ters çekim",
+    "Sonsuz yakınlaştırma"
+   ],
+   "tf": false,
+   "oops": "Zaman burada yavaşladı ama süre dolmadan toparlan.",
+   "src": "https://en.wikipedia.org/wiki/Trinity_(The_Matrix)",
+   "k": 100161,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Neo'nun Matrix içinde en sık giydiği renk hangisidir?",
+   "a": [
+    "Siyah",
+    "Beyaz",
+    "Kırmızı",
+    "Gri"
+   ],
+   "tf": false,
+   "oops": "Bu soruya siyah-beyaz bakmışsın galiba.",
+   "src": "https://entertainment.ha.com/itm/movie-tv-memorabilia/costumes/the-matrix-reloaded-the-matrix-revolutions-neo-costume-black-overcoat/a/7020-49521.s",
+   "k": 100162,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Trinity, ilk filmin sonunda ölen Neo'yu nasıl diriltir?",
+   "a": [
+    "Onu öperek",
+    "Kalp masajı yaparak",
+    "Ona hap yutturarak",
+    "Telefonla arayarak"
+   ],
+   "tf": false,
+   "oops": "Bu sahnede ilaç yok, sadece biraz aşk var.",
+   "src": "https://en.wikipedia.org/wiki/Trinity_(The_Matrix)",
+   "k": 100163,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Revolutions'taki Neo ile Smith'in final dövüşü yağmur altında geçer.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Şemsiyeni almadan bu soruya girmişsin, ıslandın!",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrixRevolutions",
+   "k": 100164,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "The Matrix Resurrections hangi yıl gösterime girdi?",
+   "a": [
+    "2021",
+    "2019",
+    "2020",
+    "2022"
+   ],
+   "tf": false,
+   "oops": "Zaman yolculuğu yapmışsın, ama yanlış yıla inmişsin.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+   "k": 100165,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Revolutions'ın sonunda Neo'nun akıbeti ne olur?",
+   "a": [
+    "Kendini feda eder",
+    "Zion'a döner",
+    "Gerçek dünyada kalır",
+    "Ajan olur"
+   ],
+   "tf": false,
+   "oops": "Bu kadar kolay bir son beklemiyordun herhalde.",
+   "src": "https://thewrap.com/the-matrix-trilogy-ending-explained/amp",
+   "k": 100166,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "İnsanlar Matrix'e bedenlerinin hangi bölgesindeki bağlantıyla takılıdır?",
+   "a": [
+    "Ensedeki fiş",
+    "Koldaki iğne",
+    "Gözlerdeki lens",
+    "Göğüsteki kablo"
+   ],
+   "tf": false,
+   "oops": "Fişi yanlış yere takmışsın, bağlantı koptu.",
+   "src": "https://www.sparknotes.com/film/matrix/summary/",
+   "k": 100167,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Neo ve Trinity, Morpheus'u kurtarmak için içeri girerken ilk çatışmayı nerede yapar?",
+   "a": [
+    "Binanın lobisinde",
+    "Metro istasyonunda",
+    "Otoparkta",
+    "Çatıda"
+   ],
+   "tf": false,
+   "oops": "Silahlar çok ama cevabın hedefi ıskaladı.",
+   "src": "https://girlswithguns.org/wholly-trinity/",
+   "k": 100168,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Reloaded'ın başında Neo hangi kabusu görür?",
+   "a": [
+    "Trinity'nin vurulup düşmesi",
+    "Morpheus'un ölümü",
+    "Zion'un yıkılışı",
+    "Smith'in zaferi"
+   ],
+   "tf": false,
+   "oops": "Bu kabus senin cevabından daha iyi hatırlanıyor.",
+   "src": "https://www.imdb.com/title/tt0234215/plotsummary/",
+   "k": 100169,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Reloaded'da Persephone'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Monica Bellucci",
+    "Jada Pinkett Smith",
+    "Carrie-Anne Moss",
+    "Gloria Foster"
+   ],
+   "tf": false,
+   "oops": "Persephone bu cevaba hiç öpücük vermezdi.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+   "k": 100170,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kaptan Niobe'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Jada Pinkett Smith",
+    "Monica Bellucci",
+    "Carrie-Anne Moss",
+    "Mary Alice"
+   ],
+   "tf": false,
+   "oops": "Niobe seni geminin güvertesinde bırakırdı.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+   "k": 100171,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk iki filmde Kâhin'i hangi oyuncu canlandırır?",
+   "a": [
+    "Gloria Foster",
+    "Mary Alice",
+    "Jada Pinkett Smith",
+    "Monica Bellucci"
+   ],
+   "tf": false,
+   "oops": "Kurabiyeyi yedin ama cevabı bulamadın.",
+   "src": "https://www.themoviedb.org/movie/603-the-matrix/cast?language=en-US",
+   "k": 100172,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde ekibe ihanet eden Cypher'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Joe Pantoliano",
+    "Matt Doran",
+    "Marcus Chong",
+    "Hugo Weaving"
+   ],
+   "tf": false,
+   "oops": "Sen de ihanet ettin, doğru cevaba!",
+   "src": "https://matrix.fandom.com/wiki/The_Matrix/Cast",
+   "k": 100173,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Resurrections'ta Bugs'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Jessica Henwick",
+    "Priyanka Chopra Jonas",
+    "Christina Ricci",
+    "Jada Pinkett Smith"
+   ],
+   "tf": false,
+   "oops": "Bugs bu cevaba tavşan deliğinden bakardı.",
+   "src": "https://www.rogerebert.com/reviews/the-matrix-resurrections-movie-review-2021",
+   "k": 100174,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Resurrections'ta Analist'i hangi oyuncu canlandırır?",
+   "a": [
+    "Neil Patrick Harris",
+    "Jonathan Groff",
+    "Yahya Abdul-Mateen II",
+    "Lambert Wilson"
+   ],
+   "tf": false,
+   "oops": "Terapi seansı gerekebilir, cevap yanlış.",
+   "src": "https://www.rogerebert.com/reviews/the-matrix-resurrections-movie-review-2021",
+   "k": 100175,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Matrix'in ilk filmi ağırlıklı olarak hangi şehirde çekildi?",
+   "a": [
+    "Sidney",
+    "Los Angeles",
+    "Toronto",
+    "Chicago"
+   ],
+   "tf": false,
+   "oops": "Yanlış kıtaya uçmuşsun, kanguruları sor.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix",
+   "k": 100176,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Matrix'in ilk filmi Oscar'a aday gösterilip hiçbir ödül kazanamadı.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Film dört Oscar kazandı, sen bir tane bile kazanamadın.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix",
+   "k": 100177,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Resurrections'ta Thomas Anderson hangi şehirde yaşar?",
+   "a": [
+    "San Francisco",
+    "Chicago",
+    "New York",
+    "Sidney"
+   ],
+   "tf": false,
+   "oops": "Yanlış şehre gittin, köprüyü hiç görmedin.",
+   "src": "https://datebook.sfchronicle.com/movies-tv/matrix-resurrections-stars-an-otherworldly-version-of-the-real-san-francisco",
+   "k": 100178,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Reloaded'ın sonunda Neo, gerçek dünyada Sentinel'leri nasıl durdurur?",
+   "a": [
+    "Zihin gücüyle",
+    "Elektromanyetik darbeyle",
+    "Silahla",
+    "Kod yazarak"
+   ],
+   "tf": false,
+   "oops": "Zihnini biraz daha özgür bırakmalısın.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+   "k": 100179,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Revolutions'ta Smith 'Neden kalkıyorsun?' diye sorunca Neo ne yanıt verir?",
+   "a": [
+    "Çünkü seçtim",
+    "Çünkü zorundayım",
+    "Trinity için",
+    "Kehanet böyle diyor"
+   ],
+   "tf": false,
+   "oops": "Sen de yanlış seçim yaptın, Neo gibi kalkabilirsin.",
+   "src": "https://www.quotes.net/mquote/121382",
+   "k": 100180,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ajan Jones'u hangi oyuncu canlandırır?",
+   "a": [
+    "Robert Taylor",
+    "Paul Goddard",
+    "Daniel Bernhardt",
+    "Harry Lennix"
+   ],
+   "tf": false,
+   "oops": "Ajanlar bu cevabı kabul etmedi.",
+   "src": "https://en.wikipedia.org/wiki/Robert_Taylor_(Australian_actor)",
+   "k": 100181,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Reloaded'da Merovingian'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Lambert Wilson",
+    "Vincent Cassel",
+    "Jean Reno",
+    "Gérard Depardieu"
+   ],
+   "tf": false,
+   "oops": "Merovingian bunun nedenselliğini sorgulardı.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+   "k": 100182,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Reloaded'da Anahtarcı'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Randall Duk Kim",
+    "Collin Chou",
+    "James Hong",
+    "Nathaniel Lees"
+   ],
+   "tf": false,
+   "oops": "Bu cevabın anahtarı kayıp.",
+   "src": "https://en.wikipedia.org/wiki/Keymaker",
+   "k": 100183,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Reloaded ve Revolutions'ta Komutan Lock'u hangi oyuncu canlandırır?",
+   "a": [
+    "Harry Lennix",
+    "Nathaniel Lees",
+    "Harold Perrineau",
+    "Lambert Wilson"
+   ],
+   "tf": false,
+   "oops": "Komutan Lock bu cevaba kapıyı kapatırdı.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+   "k": 100184,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde Mouse'u hangi oyuncu canlandırır?",
+   "a": [
+    "Matt Doran",
+    "Marcus Chong",
+    "Julian Arahanga",
+    "Joe Pantoliano"
+   ],
+   "tf": false,
+   "oops": "Mouse bile bu soruyu daha iyi bilirdi.",
+   "src": "https://matrix.fandom.com/wiki/The_Matrix/Cast",
+   "k": 100185,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmin jeneriğinde hangi grubun 'Wake Up' parçası çalar?",
+   "a": [
+    "Rage Against the Machine",
+    "Linkin Park",
+    "Metallica",
+    "Limp Bizkit"
+   ],
+   "tf": false,
+   "oops": "Uyan, yanlış cevap verdin.",
+   "src": "https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song)",
+   "k": 100186,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Matrix'in ilk üç filminin müziğini kim besteledi?",
+   "a": [
+    "Don Davis",
+    "Hans Zimmer",
+    "Howard Shore",
+    "Michael Giacchino"
+   ],
+   "tf": false,
+   "oops": "Nota yanlış çıktı, bir daha çal.",
+   "src": "https://en.wikipedia.org/wiki/Don_Davis_(composer)",
+   "k": 100187,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Resurrections'ın müziğini hangi ikili besteledi?",
+   "a": [
+    "Tom Tykwer ve Johnny Klimek",
+    "Trent Reznor ve Atticus Ross",
+    "Hans Zimmer ve Benjamin Wallfisch",
+    "Daft Punk"
+   ],
+   "tf": false,
+   "oops": "Bu melodi bu sefer sana uymadı.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+   "k": 100188,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Resurrections'ta yetişkin Sati'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Priyanka Chopra Jonas",
+    "Jessica Henwick",
+    "Christina Ricci",
+    "Jada Pinkett Smith"
+   ],
+   "tf": false,
+   "oops": "Sati bile bu cevaba gökyüzünü boyamazdı.",
+   "src": "https://www.themoviedb.org/movie/624860-the-matrix-resurrections/cast",
+   "k": 100189,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
