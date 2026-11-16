@@ -1,0 +1,317 @@
+{
+ "id": "hababam",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Hababam Sınıfı hangi türde bir filmdir?",
+   "a": [
+    "Komedi",
+    "Korku",
+    "Savaş",
+    "Bilim kurgu"
+   ],
+   "tf": false,
+   "oops": "Mahmut Hoca bile bu soruda gülmemeni önermezdi.",
+   "src": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1",
+   "k": 100240,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu? Hababam Sınıfı Sınıfta Kaldı, ilk Hababam Sınıfı filminin devamı niteliğindedir.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Sınıfta kalan sen oldun galiba.",
+   "src": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_S%C4%B1n%C4%B1fta_Kald%C4%B1",
+   "k": 100241,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Sınıfta Kaldı hangi yıl vizyona girdi?",
+   "a": [
+    "1976",
+    "1977",
+    "1978",
+    "1974"
+   ],
+   "tf": false,
+   "oops": "Bu yıl da seni sınıfta bıraktık.",
+   "src": "https://www.wikiwand.com/tr/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film_serisi)",
+   "k": 100242,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Güle Güle hangi yıl vizyona girdi?",
+   "a": [
+    "1981",
+    "1979",
+    "1983",
+    "1977"
+   ],
+   "tf": false,
+   "oops": "Güle güle de, bir dahaki sefere!",
+   "src": "https://www.wikiwand.com/tr/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film_serisi)",
+   "k": 100243,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Dokuz Doğuruyor, klasik serinin kaçıncı filmidir?",
+   "a": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "tf": false,
+   "oops": "Sayıları Şaban'a bırakma, o 4 virgülde takılıyor.",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film_serisi)",
+   "k": 100244,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Hababam Sınıfı Uyanıyor, klasik serinin kaçıncı filmidir?",
+   "a": [
+    "3",
+    "2",
+    "4",
+    "5"
+   ],
+   "tf": false,
+   "oops": "Uyanıyor derken sen uyanamadın galiba.",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film_serisi)",
+   "k": 100245,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kemal Sunal'ın canlandırdığı Şaban'ın adının önüne eklenen lakap nedir?",
+   "a": [
+    "İnek",
+    "Öküz",
+    "Kuzu",
+    "Teke"
+   ],
+   "tf": false,
+   "oops": "Bu soruda inek olan sen değilsin, merak etme!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film)",
+   "k": 100246,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Güdük Necmi'nin lakabı onun neyini anlatır?",
+   "a": [
+    "Boyunun kısalığını",
+    "Çok hızlı koşmasını",
+    "Kel olmasını",
+    "Sesinin yüksekliğini"
+   ],
+   "tf": false,
+   "oops": "Cevap biraz kısa kaldı, tıpkı Necmi gibi!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film)",
+   "k": 100247,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hababam Sınıfı Sınıfta Kaldı, klasik serinin kaçıncı filmidir?",
+   "a": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "tf": false,
+   "oops": "Sıralamada sınıfta kaldın, bir daha dene!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_S%C4%B1n%C4%B1fta_Kald%C4%B1_(film)",
+   "k": 100248,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hangi oyuncu klasik Hababam Sınıfı filmlerinde yer almaz?",
+   "a": [
+    "Cüneyt Arkın",
+    "Münir Özkul",
+    "Halit Akçatepe",
+    "Şener Şen"
+   ],
+   "tf": false,
+   "oops": "Cüneyt Arkın o sırada başka bir filmde kılıç sallıyordu!",
+   "src": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1",
+   "k": 100249,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu? Klasik Hababam Sınıfı filmleri renkli çekilmiştir.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Hababam'ın şakaları bile renkli, gözlerini aç!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film)",
+   "k": 100250,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hayta İsmail'deki \"hayta\" sözü ne anlama gelir?",
+   "a": [
+    "Haylaz, yaramaz",
+    "Çalışkan",
+    "Utangaç",
+    "Cimri"
+   ],
+   "tf": false,
+   "oops": "Hayta İsmail bu cevaba bile şaka yapardı!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film)",
+   "k": 100251,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Kemal Sunal, klasik serinin kaç filminde İnek Şaban'ı oynar?",
+   "a": [
+    "4",
+    "2",
+    "5",
+    "6"
+   ],
+   "tf": false,
+   "oops": "Şaban'ın filmlerini sayarken yoruldun galiba!",
+   "src": "https://tr.wikipedia.org/wiki/Kemal_Sunal_filmografisi",
+   "k": 100252,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Tatilde, klasik serinin kaçıncı filmidir?",
+   "a": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "tf": false,
+   "oops": "Tatilde bile olsan sayıyı şaşırmamalıydın!",
+   "src": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_Tatilde",
+   "k": 100253,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Damat Ferit'in görünmediği ilk Hababam Sınıfı filmi hangisidir?",
+   "a": [
+    "Hababam Sınıfı Uyanıyor",
+    "Hababam Sınıfı Sınıfta Kaldı",
+    "Hababam Sınıfı Tatilde",
+    "Hababam Sınıfı Dokuz Doğuruyor"
+   ],
+   "tf": false,
+   "oops": "Ferit bu cevabı çoktan çift dikişle öğrenmişti!",
+   "src": "https://kureansiklopedi.com/tr/detay/hababam-sinifi-uyaniyor-film-8872e",
+   "k": 100254,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Klasik serinin kaç filmi 1970'lerde vizyona girdi?",
+   "a": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "tf": false,
+   "oops": "70'leri hesaplarken pantolonun paçası mı karıştı?",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_Dokuz_Do%C4%9Furuyor",
+   "k": 100255,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Külyutmaz Hoca'nın lakabındaki \"külyutmaz\" sözü ne anlama gelir?",
+   "a": [
+    "Kolay kandırılmayan, kurnaz",
+    "Çok sigara içen",
+    "Aşırı cömert",
+    "Hiç konuşmayan"
+   ],
+   "tf": false,
+   "oops": "Külyutmaz hoca seni kolay kandıramazdı ama sen kandın!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_(film)",
+   "k": 100256,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Okul binası olan Adile Sultan Kasrı'nın adındaki Adile Sultan hangi padişahın kızıdır?",
+   "a": [
+    "II. Mahmud",
+    "III. Selim",
+    "II. Abdülhamid",
+    "Abdülaziz"
+   ],
+   "tf": false,
+   "oops": "Tarih dersinde Mahmut Hoca'dan zayıf almışsın!",
+   "src": "https://en.wikipedia.org/wiki/Adile_Sultan_(daughter_of_Mahmud_II)",
+   "k": 100257,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Damat Ferit'in adı, hangi görevdeki tarihî Damat Ferit Paşa ile aynıdır?",
+   "a": [
+    "Sadrazam",
+    "Şeyhülislam",
+    "Kaptan-ı derya",
+    "Defterdar"
+   ],
+   "tf": false,
+   "oops": "Bu soruda defterdar olan teyzen bile yardım edemezdi!",
+   "src": "https://tr.wikipedia.org/wiki/Damat_Ferit_(karakter)",
+   "k": 100258,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Uyanıyor'u kim yönetti?",
+   "a": [
+    "Ertem Eğilmez",
+    "Kartal Tibet",
+    "Orhan Aksoy",
+    "Atıf Yılmaz"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğuna yanlış kişiyi oturttun!",
+   "src": "https://tr.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_Uyan%C4%B1yor_(film)",
+   "k": 100259,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Hababam Sınıfı Tatilde'yi kim yönetti?",
+   "a": [
+    "Ertem Eğilmez",
+    "Kartal Tibet",
+    "Ömer Lütfi Akad",
+    "Orhan Aksoy"
+   ],
+   "tf": false,
+   "oops": "Bu soruda yönetmen değil, şans seni yönetmiş.",
+   "src": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1_Tatilde",
+   "k": 100260,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
