@@ -1,0 +1,227 @@
+{
+ "id": "eskiya",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Filmin finalinde Baran'ın sonu ne olur?",
+   "a": [
+    "Çatışmada hayatını kaybeder",
+    "Köyüne dönüp yaşlanır",
+    "Yeniden hapse atılır",
+    "Keje'yle yurt dışına kaçar"
+   ],
+   "tf": false,
+   "oops": "Eşkıyalar finalde bile kolay kolay pes etmez ama sen ettin!",
+   "src": "https://en.wikipedia.org/wiki/The_Bandit_(1996_film)",
+   "k": 100268,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Berfo, İstanbul'da kamuoyu gözünde nasıl biri olarak tanınır?",
+   "a": [
+    "Saygın bir iş adamı",
+    "Emekli bir subay",
+    "Ünlü bir avukat",
+    "Tanınmış bir doktor"
+   ],
+   "tf": false,
+   "oops": "Berfo'nun maskesine sen de kanmışsın, Baran bile ilk başta şaşırdı.",
+   "src": "https://tr.wikipedia.org/wiki/E%C5%9Fk%C4%B1ya_(film)",
+   "k": 100269,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Doğru mu? Eşkıya, Yavuz Turgul'un yönettiği ilk uzun metrajlı filmdir.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Turgul'un Eşkıya'dan önce de filmleri vardı, hepsini kaçırmışsın.",
+   "src": "https://www.sinematurk.com/kisi/2409-yavuz-turgul",
+   "k": 100270,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Yavuz Turgul'un Eşkıya'dan hemen önce yönettiği film hangisidir?",
+   "a": [
+    "Gölge Oyunu",
+    "Muhsin Bey",
+    "Fahriye Abla",
+    "Gönül Yarası"
+   ],
+   "tf": false,
+   "oops": "Gölge Oyunu'nu hatırlayamadın, bu sefer sahne senin için karanlıkta kaldı.",
+   "src": "https://www.sinematurk.com/kisi/2409-yavuz-turgul",
+   "k": 100271,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Yavuz Turgul, Eşkıya'dan sonra yönettiği ilk film hangisidir?",
+   "a": [
+    "Gönül Yarası",
+    "Av Mevsimi",
+    "Gölge Oyunu",
+    "Aile Arasında"
+   ],
+   "tf": false,
+   "oops": "Turgul'un filmleri arasında yolunu kaybettin, Baran olsa iz sürerdi.",
+   "src": "https://www.sinematurk.com/kisi/2409-yavuz-turgul",
+   "k": 100272,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Yavuz Turgul'un yönettiği Muhsin Bey hangi yıl gösterime girdi?",
+   "a": [
+    "1987",
+    "1984",
+    "1992",
+    "1996"
+   ],
+   "tf": false,
+   "oops": "Yıllar da Baran'ın hapis yılları gibi karıştı sana.",
+   "src": "https://en.wikipedia.org/wiki/Mr._Muhsin",
+   "k": 100273,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Eşkıya'nın uluslararası gösterimlerde kullanılan İngilizce adı nedir?",
+   "a": [
+    "The Bandit",
+    "The Outlaw",
+    "The Highwayman",
+    "The Mountain Man"
+   ],
+   "tf": false,
+   "oops": "Eşkıyalık eskidendi, İngilizce sınavları hâlâ var!",
+   "src": "https://en.wikipedia.org/wiki/The_Bandit_(1996_film)",
+   "k": 100274,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Eşkıya'nın gişe rekorunu 2001'de kırıp onu geride bırakan Türk filmi hangisidir?",
+   "a": [
+    "Vizontele",
+    "Propaganda",
+    "Vizontele Tuuba",
+    "Hep Yek"
+   ],
+   "tf": false,
+   "oops": "Rekor el değiştirdi, sen de cevabı değiştir!",
+   "src": "https://tr.wikipedia.org/wiki/E%C5%9Fk%C4%B1ya_(film)",
+   "k": 100275,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Eşkıya hangi türde bir filmdir?",
+   "a": [
+    "Dram",
+    "Korku",
+    "Bilim kurgu",
+    "Müzikal"
+   ],
+   "tf": false,
+   "oops": "Eşkıya'da korku yok, daha çok hüzün var!",
+   "src": "https://www.sinemalar.com/film/907/eskiya",
+   "k": 100276,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Eşkıya siyah-beyaz çekilmiş bir filmdir.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Film renkli, gözlüğünü kontrol et!",
+   "src": "https://www.sinematurk.com/film/1018-eskiya",
+   "k": 100277,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Uğur Yücel, Eşkıya'dan önce Şener Şen'le hangi Yavuz Turgul filminde birlikte oynamıştır?",
+   "a": [
+    "Muhsin Bey",
+    "Züğürt Ağa",
+    "Çiçek Abbas",
+    "Namuslu"
+   ],
+   "tf": false,
+   "oops": "Bu ikili daha önce de bir araya gelmişti, hafızanı tazele!",
+   "src": "https://tr.wikipedia.org/wiki/Muhsin_Bey",
+   "k": 100278,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Baran'ı canlandıran Şener Şen hangi şehirde doğmuştur?",
+   "a": [
+    "Adana",
+    "Trabzon",
+    "İzmir",
+    "Sivas"
+   ],
+   "tf": false,
+   "oops": "Baran dağlarda gezdi ama Şener Şen Çukurova'da doğdu!",
+   "src": "https://en.wikipedia.org/wiki/%C5%9Eener_%C5%9Een",
+   "k": 100279,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Eşkıya'nın rekorunu kıran Vizontele'yi Ömer Faruk Sorak ile birlikte kim yönetmiştir?",
+   "a": [
+    "Yılmaz Erdoğan",
+    "Yavuz Turgul",
+    "Cem Yılmaz",
+    "Ali Taner Baltacı"
+   ],
+   "tf": false,
+   "oops": "Rekoru kıran isim Eşkıya'nın yönetmeni değildi!",
+   "src": "https://en.wikipedia.org/wiki/Vizontele",
+   "k": 100280,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Filmin müziklerini yapan Erkan Oğur hangi çalgıyla özdeşleşmiştir?",
+   "a": [
+    "Perdesiz gitar",
+    "Keman",
+    "Piyano",
+    "Darbuka"
+   ],
+   "tf": false,
+   "oops": "Perdesiz bir bilgi boşluğu yaşadın gibi!",
+   "src": "https://en.wikipedia.org/wiki/Erkan_O%C4%9Fur",
+   "k": 100281,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Şener Şen hangi yıl doğmuştur?",
+   "a": [
+    "1941",
+    "1935",
+    "1948",
+    "1953"
+   ],
+   "tf": false,
+   "oops": "Baran 35 yıl yattı ama sen yılları karıştırdın!",
+   "src": "https://en.wikipedia.org/wiki/%C5%9Eener_%C5%9Een",
+   "k": 100282,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

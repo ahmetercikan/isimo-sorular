@@ -1,5 +1,5 @@
 {
- "nextKey": 100268,
+ "nextKey": 100283,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -10,7 +10,8 @@
   "matrix": 30,
   "karayipkorsanlari": 30,
   "hababam": 21,
-  "gora": 7
+  "gora": 7,
+  "eskiya": 15
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -22,9 +23,17 @@
   "matrix": "2026-11-16",
   "karayipkorsanlari": "2026-11-16",
   "hababam": "2026-11-16",
-  "gora": "2026-11-16"
+  "gora": "2026-11-16",
+  "eskiya": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T16:05:54.414Z",
+   "id": "eskiya",
+   "added": 15,
+   "rejected": 15,
+   "ok": true
+  },
   {
    "at": "2026-11-16T15:59:52.190Z",
    "id": "gora",
@@ -103,12 +112,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T16:05:50.048Z",
+ "updated": "2026-11-16T16:13:19.080Z",
  "last": {
-  "at": "2026-11-16T15:59:52.190Z",
-  "id": "gora",
-  "added": 7,
-  "rejected": 12,
+  "at": "2026-11-16T16:05:54.414Z",
+  "id": "eskiya",
+  "added": 15,
+  "rejected": 15,
   "ok": true
  }
 }
