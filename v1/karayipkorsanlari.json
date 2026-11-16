@@ -1,0 +1,456 @@
+{
+ "id": "karayipkorsanlari",
+ "questions": [
+  {
+   "d": 1,
+   "q": "İlk Karayip Korsanları filmini hangi yönetmen çekti?",
+   "a": [
+    "Gore Verbinski",
+    "Steven Spielberg",
+    "Peter Jackson",
+    "Ridley Scott"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu hâlâ korsan kaptanın değil, Verbinski'nin.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100190,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Ölü Adamın Sandığı hangi yıl gösterime girdi?",
+   "a": [
+    "2006",
+    "2004",
+    "2008",
+    "2010"
+   ],
+   "tf": false,
+   "oops": "Zaman yolculuğu yapan pusula mı kullandın?",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+   "k": 100191,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Dünyanın Sonu filmi hangi yıl gösterime girdi?",
+   "a": [
+    "2007",
+    "2005",
+    "2009",
+    "2011"
+   ],
+   "tf": false,
+   "oops": "Pusulan yanlış yılı gösteriyor, Jack!",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
+   "k": 100192,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Salazar'ın İntikamı hangi yıl gösterime girdi?",
+   "a": [
+    "2017",
+    "2013",
+    "2015",
+    "2019"
+   ],
+   "tf": false,
+   "oops": "Salazar bile bu kadar geç kalmazdı.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+   "k": 100193,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Gizemli Denizlerde filmi hangi yıl gösterime girdi?",
+   "a": [
+    "2011",
+    "2008",
+    "2012",
+    "2014"
+   ],
+   "tf": false,
+   "oops": "Gençlik Pınarı'ndan içseydin yılı hatırlardın.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100194,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Serinin üçüncü filminin alt başlığı nedir?",
+   "a": [
+    "Dünyanın Sonu",
+    "Ölü Adamın Sandığı",
+    "Gizemli Denizlerde",
+    "Salazar'ın İntikamı"
+   ],
+   "tf": false,
+   "oops": "Üçüncü filmi dünyanın öbür ucunda aradın galiba.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
+   "k": 100195,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Tia Dalma'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Naomie Harris",
+    "Zoe Saldana",
+    "Halle Berry",
+    "Penélope Cruz"
+   ],
+   "tf": false,
+   "oops": "Bataklıktaki kehanet bu sefer tutmadı.",
+   "src": "https://en.wikipedia.org/wiki/Tia_Dalma",
+   "k": 100196,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "James Norrington'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Jack Davenport",
+    "Tom Hollander",
+    "Kevin McNally",
+    "Stellan Skarsgård"
+   ],
+   "tf": false,
+   "oops": "Komodor sana kötü bakıyor.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Pirates_of_the_Caribbean_film_actors",
+   "k": 100197,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Gibbs karakterini hangi oyuncu canlandırır?",
+   "a": [
+    "Kevin McNally",
+    "Jack Davenport",
+    "Bill Nighy",
+    "Tom Hollander"
+   ],
+   "tf": false,
+   "oops": "Gibbs seni tayfadan sayamaz bu cevapla.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Pirates_of_the_Caribbean_film_actors",
+   "k": 100198,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Gizemli Denizlerde'yi hangi yönetmen çekti?",
+   "a": [
+    "Rob Marshall",
+    "Gore Verbinski",
+    "Joachim Rønning",
+    "Chris Columbus"
+   ],
+   "tf": false,
+   "oops": "Yönetmen değişti, sen değişmedin.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100199,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Salazar'ın İntikamı'nı hangi yönetmen ikilisi çekti?",
+   "a": [
+    "Rønning ve Sandberg",
+    "Russo Kardeşler",
+    "Coen Kardeşler",
+    "Wachowski Kardeşler"
+   ],
+   "tf": false,
+   "oops": "Kardeşler değil, ikili ama başka ikili!",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+   "k": 100200,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Dünyanın Sonu'nda Sao Feng'i hangi oyuncu canlandırır?",
+   "a": [
+    "Chow Yun-fat",
+    "Jackie Chan",
+    "Jet Li",
+    "Ken Watanabe"
+   ],
+   "tf": false,
+   "oops": "Singapur'da bu cevap hapse düşürür.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
+   "k": 100201,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Salazar'ın İntikamı'nda Carina Smyth'i hangi oyuncu canlandırır?",
+   "a": [
+    "Kaya Scodelario",
+    "Emma Watson",
+    "Daisy Ridley",
+    "Rooney Mara"
+   ],
+   "tf": false,
+   "oops": "Carina yıldızlara bakıyor, sen yanlışa.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+   "k": 100202,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Dünyanın Sonu'nda Jack, Davy Jones'un Dolabı'nda nasıl bir manzarayla karşılaşır?",
+   "a": [
+    "Sonsuz beyaz bir çölle",
+    "Karanlık bir mağarayla",
+    "Buzla kaplı bir denizle",
+    "Yemyeşil bir ormanla"
+   ],
+   "tf": false,
+   "oops": "Orada rom bile yok, neyse yanlış cevap.",
+   "src": "https://en.wikipedia.org/wiki/List_of_locations_in_Pirates_of_the_Caribbean",
+   "k": 100203,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Gizemli Denizlerde'de Barbossa kimin hizmetinde çalışmaktadır?",
+   "a": [
+    "İngiliz Kralı'nın",
+    "İspanya Kralı'nın",
+    "Fransa Kralı'nın",
+    "Karasakal'ın"
+   ],
+   "tf": false,
+   "oops": "Barbossa bu cevaba kralî bir kahkaha atar.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100204,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Poseidon'un Üç Dişli Mızrağı'nın gücü nedir?",
+   "a": [
+    "Denizdeki tüm lanetleri kırar",
+    "Ölüleri diriltir",
+    "Fırtına çağırır",
+    "Gemileri görünmez yapar"
+   ],
+   "tf": false,
+   "oops": "Mızrak bile bu cevabı kıramaz.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+   "k": 100205,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Dünyanın Sonu'nda Lord Beckett nasıl ölür?",
+   "a": [
+    "Gemisi patlayınca",
+    "Will'in kılıcıyla",
+    "Kraken'in saldırısıyla",
+    "Darağacında asılarak"
+   ],
+   "tf": false,
+   "oops": "Beckett'ın sonu seninki kadar sessiz olmadı.",
+   "src": "https://pirates.fandom.com/wiki/Cutler_Beckett",
+   "k": 100206,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ölü Adamın Sandığı ve Dünyanın Sonu'nun müziklerini kim besteledi?",
+   "a": [
+    "Hans Zimmer",
+    "Klaus Badelt",
+    "John Williams",
+    "Howard Shore"
+   ],
+   "tf": false,
+   "oops": "Notalar karıştı, ama bu cevap çok falso.",
+   "src": "https://en.wikipedia.org/wiki/Music_of_the_Pirates_of_the_Caribbean_film_series",
+   "k": 100207,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Karayip Korsanları filmlerinin yapımcısı kimdir?",
+   "a": [
+    "Jerry Bruckheimer",
+    "Steven Spielberg",
+    "George Lucas",
+    "Kathleen Kennedy"
+   ],
+   "tf": false,
+   "oops": "Yapımcı, cevabı görünce gemiyi terk etti.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)",
+   "k": 100208,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ölü Adamın Sandığı hangi dalda Oscar kazandı?",
+   "a": [
+    "En İyi Görsel Efekt",
+    "En İyi Müzik",
+    "En İyi Kostüm",
+    "En İyi Yönetmen"
+   ],
+   "tf": false,
+   "oops": "Heykelcik sana göz kırpmadı.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+   "k": 100209,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Johnny Depp, ilk filmdeki rolüyle hangi dalda Oscar'a aday oldu?",
+   "a": [
+    "En İyi Erkek Oyuncu",
+    "En İyi Yardımcı Erkek Oyuncu",
+    "En İyi Yönetmen",
+    "En İyi Senaryo"
+   ],
+   "tf": false,
+   "oops": "Jack bile bunu kabul etmezdi.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100210,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmin müziğini hangi besteci hazırladı?",
+   "a": [
+    "Klaus Badelt",
+    "Hans Zimmer",
+    "James Horner",
+    "Danny Elfman"
+   ],
+   "tf": false,
+   "oops": "Bu cevap partisyonda yok.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl_(soundtrack)",
+   "k": 100211,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde tahta gözlü Ragetti'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Mackenzie Crook",
+    "Lee Arenberg",
+    "Kevin McNally",
+    "David Bailie"
+   ],
+   "tf": false,
+   "oops": "Gözün yerinden çıktı mı?",
+   "src": "https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+   "k": 100212,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde Pintel'i hangi oyuncu canlandırır?",
+   "a": [
+    "Lee Arenberg",
+    "Mackenzie Crook",
+    "Martin Klebba",
+    "Stephen Graham"
+   ],
+   "tf": false,
+   "oops": "Pintel bu cevaba kafa sallar.",
+   "src": "https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+   "k": 100213,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gizemli Denizlerde'de Scrum karakterini hangi oyuncu canlandırır?",
+   "a": [
+    "Stephen Graham",
+    "Ray Winstone",
+    "Tom Hardy",
+    "Jason Statham"
+   ],
+   "tf": false,
+   "oops": "Scrum bu cevaba hınzırca güldü.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100214,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gizemli Denizlerde'de deniz kızı Syrena'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Astrid Bergès-Frisbey",
+    "Léa Seydoux",
+    "Mélanie Laurent",
+    "Eva Green"
+   ],
+   "tf": false,
+   "oops": "Syrena şarkı söyledi, sen yine de yanıldın.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100215,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ölü Adamın Sandığı'nda Jack'in yamyamlar tarafından yakalandığı adanın adı nedir?",
+   "a": [
+    "Pelegosto",
+    "Tortuga",
+    "Isla Cruces",
+    "Shipwreck Cove"
+   ],
+   "tf": false,
+   "oops": "Adayı bulamadın, yamyamlar sevindi.",
+   "src": "https://pirates.fandom.com/wiki/Pelegostos_Tribe",
+   "k": 100216,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk film kaç dalda Oscar'a aday oldu?",
+   "a": [
+    "Beş",
+    "Üç",
+    "Yedi",
+    "İki"
+   ],
+   "tf": false,
+   "oops": "Aday sayısını da Aztek altınları gibi karıştırdın.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100217,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gizemli Denizlerde'de misyoner Philip'i hangi oyuncu canlandırır?",
+   "a": [
+    "Sam Claflin",
+    "Tom Hiddleston",
+    "Eddie Redmayne",
+    "Douglas Booth"
+   ],
+   "tf": false,
+   "oops": "Philip dua etti ama cevap tutmadı.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+   "k": 100218,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Salazar'ın İntikamı'nda Carina'nın idama götürüldüğü ada hangisidir?",
+   "a": [
+    "Saint Martin",
+    "Tortuga",
+    "Barbados",
+    "Port Royal"
+   ],
+   "tf": false,
+   "oops": "Carina bile adanın adını senden iyi biliyor.",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+   "k": 100219,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
