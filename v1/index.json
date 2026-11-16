@@ -42,6 +42,13 @@
  },
  "history": [
   {
+   "at": "2026-11-16T16:55:50.297Z",
+   "id": "sonic",
+   "added": 0,
+   "ok": false,
+   "error": "Claude Code hata: You've hit your 5-hour limit · resets 5:30pm (UTC)"
+  },
+  {
    "at": "2026-11-16T16:51:36.914Z",
    "id": "buzdevri",
    "added": 30,
@@ -175,12 +182,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T16:55:46.161Z",
+ "updated": "2026-11-16T17:01:11.510Z",
  "last": {
-  "at": "2026-11-16T16:51:36.914Z",
-  "id": "buzdevri",
-  "added": 30,
-  "rejected": 3,
-  "ok": true
+  "at": "2026-11-16T16:55:50.297Z",
+  "id": "sonic",
+  "added": 0,
+  "ok": false,
+  "error": "Claude Code hata: You've hit your 5-hour limit · resets 5:30pm (UTC)"
  }
 }
