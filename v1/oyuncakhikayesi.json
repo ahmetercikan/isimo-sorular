@@ -1,0 +1,456 @@
+{
+ "id": "oyuncakhikayesi",
+ "questions": [
+  {
+   "d": 1,
+   "q": "İlk Oyuncak Hikâyesi filmi hangi yıl vizyona girdi?",
+   "a": [
+    "1995",
+    "1993",
+    "1997",
+    "1999"
+   ],
+   "tf": false,
+   "oops": "Woody bile bu tarihi bilir, ipini çekince söylüyor!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story",
+   "k": 100343,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Oyuncak Hikâyesi filmlerini hangi animasyon stüdyosu yaptı?",
+   "a": [
+    "Pixar",
+    "DreamWorks",
+    "Illumination",
+    "Blue Sky"
+   ],
+   "tf": false,
+   "oops": "Lambanın zıplayan logosuna daha dikkatli bak!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_2",
+   "k": 100344,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Orijinal seslendirmede Buzz Işıkyılı'na hangi oyuncu ses verir?",
+   "a": [
+    "Tim Allen",
+    "Billy Crystal",
+    "Robin Williams",
+    "John Candy"
+   ],
+   "tf": false,
+   "oops": "Sonsuzluğa kadar gittin ama cevap yanında kaldı!",
+   "src": "https://www.themoviedb.org/movie/862-toy-story/cast",
+   "k": 100345,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Woody'nin ses kutusundan çıkan ünlü cümle hangisidir?",
+   "a": [
+    "Çizmemde yılan var!",
+    "Cebimde bozuk para var!",
+    "Şapkamda fare var!",
+    "Yeleğimde örümcek var!"
+   ],
+   "tf": false,
+   "oops": "Bu cevap çizmenin içinde saklıydı, bakmadın!",
+   "src": "https://en.wikipedia.org/wiki/Woody_(Toy_Story)",
+   "k": 100346,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Woody'nin yeleği hangi desenlidir?",
+   "a": [
+    "İnek lekeli",
+    "Çizgili",
+    "Kareli",
+    "Yıldızlı"
+   ],
+   "tf": false,
+   "oops": "Woody'nin yeleği 'möö' diyecek kadar belli!",
+   "src": "https://en.wikipedia.org/wiki/Woody_(Toy_Story)",
+   "k": 100347,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Buzz Işıkyılı'nın uzay giysisinde yeşil ve beyazın yanında hangi renk bulunur?",
+   "a": [
+    "Mor",
+    "Turuncu",
+    "Sarı",
+    "Pembe"
+   ],
+   "tf": false,
+   "oops": "Uzay korucusu bile bu rengi kaçırmaz!",
+   "src": "https://en.wikipedia.org/wiki/Buzz_Lightyear",
+   "k": 100348,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "İlk filmin jenerik şarkısı hangisidir?",
+   "a": [
+    "You've Got a Friend in Me",
+    "Strange Things",
+    "I Will Go Sailing No More",
+    "Hakuna Matata"
+   ],
+   "tf": false,
+   "oops": "Woody sana 'Bende bir arkadaş var' diye şarkı söyleyecekti!",
+   "src": "https://en.wikipedia.org/wiki/You%27ve_Got_a_Friend_in_Me",
+   "k": 100349,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Dördüncü filmin başında Bonnie, Woody'yi genellikle nerede bırakır?",
+   "a": [
+    "Dolapta",
+    "Çöp kutusunda",
+    "Yatağın altında",
+    "Oyuncak sandığında"
+   ],
+   "tf": false,
+   "oops": "Zavallı Woody dolapta bunu düşünüyordu!",
+   "src": "https://www.bostonglobe.com/arts/movies/2019/06/24/toy-story-and-forever-journey-growing/gGgZciGpFqCJdl8gH4m2jJ/story.html",
+   "k": 100350,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Oyuncak Hikâyesi 4 hangi yıl vizyona girdi?",
+   "a": [
+    "2019",
+    "2017",
+    "2018",
+    "2020"
+   ],
+   "tf": false,
+   "oops": "Forky bile bu yılı çöpe atmazdı!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_4",
+   "k": 100351,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Bay Patates Kafa'ya hangi komedyen ses verir?",
+   "a": [
+    "Don Rickles",
+    "Danny DeVito",
+    "Joe Pesci",
+    "Jerry Seinfeld"
+   ],
+   "tf": false,
+   "oops": "Bay Patates Kafa burnunu çıkarıp sana bakıyor!",
+   "src": "https://www.themoviedb.org/movie/862-toy-story/cast",
+   "k": 100352,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Jessie'ye hangi oyuncu ses verir?",
+   "a": [
+    "Joan Cusack",
+    "Meg Ryan",
+    "Julie Andrews",
+    "Sandra Bullock"
+   ],
+   "tf": false,
+   "oops": "Yee-haw! Ama cevap yine de yanlış çıktı.",
+   "src": "https://www.themoviedb.org/movie/301528-toy-story-4/cast",
+   "k": 100353,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Ken'e hangi oyuncu ses verir?",
+   "a": [
+    "Michael Keaton",
+    "Jim Carrey",
+    "Kevin Costner",
+    "Robin Williams"
+   ],
+   "tf": false,
+   "oops": "Ken bile bu kadar şaşırmamıştır!",
+   "src": "https://variety.com/2010/film/reviews/toy-story-3-1117942938",
+   "k": 100354,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal seslendirmede Duke Caboom'a hangi ünlü oyuncu ses verir?",
+   "a": [
+    "Keanu Reeves",
+    "Ryan Reynolds",
+    "Jason Momoa",
+    "Bruce Willis"
+   ],
+   "tf": false,
+   "oops": "Duke motosikletle geçerken cevabı kaçırdın!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_4",
+   "k": 100355,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Oyuncak Hikâyesi 3'ün yönetmeni kimdir?",
+   "a": [
+    "Lee Unkrich",
+    "Andrew Stanton",
+    "Pete Docter",
+    "Brad Bird"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğuna yanlış kişiyi oturttun!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_3",
+   "k": 100356,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Bonnie, Forky'nin ayaklarını neyden yapar?",
+   "a": [
+    "Dondurma çubuğundan",
+    "Kurşun kalemden",
+    "Kürdandan",
+    "Kibrit çöpünden"
+   ],
+   "tf": false,
+   "oops": "Forky ayaklarının üstünde duramadı, sen de!",
+   "src": "https://disney.fandom.com/wiki/Forky",
+   "k": 100357,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Andy'nin evcil köpeğinin adı nedir?",
+   "a": [
+    "Buster",
+    "Max",
+    "Rocky",
+    "Bruno"
+   ],
+   "tf": false,
+   "oops": "Buster havlayıp doğrusunu söyledi ama duymadın!",
+   "src": "https://pixar.fandom.com/wiki/Buster_(dog)",
+   "k": 100358,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Al'ın oyuncak mağazasının adı nedir?",
+   "a": [
+    "Al's Toy Barn",
+    "Al's Toy Palace",
+    "Al's Toy Shack",
+    "Al's Toy Corral"
+   ],
+   "tf": false,
+   "oops": "Al bu cevaba tavuk gibi kıkırdardı!",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/ToyStory2",
+   "k": 100359,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İkinci filmin açılışında Rex, Zurg'a karşı Buzz'ı kullanarak ne oynar?",
+   "a": [
+    "Bir video oyunu",
+    "Bir masa oyunu",
+    "Bir saklambaç",
+    "Bir kart oyunu"
+   ],
+   "tf": false,
+   "oops": "Rex de çok kaybetti, ama sen daha çok!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_2",
+   "k": 100360,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İkinci filmde Jessie'nin eski sahibiyle yaşadıklarını anlatan hüzünlü şarkı hangisidir?",
+   "a": [
+    "When She Loved Me",
+    "You've Got a Friend in Me",
+    "Strange Things",
+    "I Will Go Sailing No More"
+   ],
+   "tf": false,
+   "oops": "Bu yanlış cevap Jessie'yi yeniden ağlatır!",
+   "src": "https://en.wikipedia.org/wiki/When_She_Loved_Me",
+   "k": 100361,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde Woody, taşınmadan önce oyuncaklardan ne yapmalarını ister?",
+   "a": [
+    "Bir taşınma arkadaşı seçmelerini",
+    "Kutulara girmelerini",
+    "Sessiz kalmalarını",
+    "Sıraya geçmelerini"
+   ],
+   "tf": false,
+   "oops": "Woody seni arkadaş olarak seçmezdi galiba!",
+   "src": "https://en.wikiquote.org/wiki/Toy_Story",
+   "k": 100362,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Woody, Buzz'ın uçuşunu hangi sözle alaya alır?",
+   "a": [
+    "Bu uçmak değil, havalı düşmek",
+    "Bu uçmak değil, zıplamak",
+    "Bu uçmak değil, kaymak",
+    "Bu uçmak değil, savrulmak"
+   ],
+   "tf": false,
+   "oops": "Havalı düşüşün şahane oldu ama cevap tutmadı!",
+   "src": "https://en.wikiquote.org/wiki/Toy_Story",
+   "k": 100363,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Oyuncak Hikâyesi 4'ün yönetmeni kimdir?",
+   "a": [
+    "Josh Cooley",
+    "Pete Docter",
+    "Brad Bird",
+    "Andrew Stanton"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu bu kez sana yetmedi!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_4",
+   "k": 100364,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Forky'ye hangi oyuncu ses verir?",
+   "a": [
+    "Tony Hale",
+    "Steve Carell",
+    "Jack Black",
+    "Bill Hader"
+   ],
+   "tf": false,
+   "oops": "Forky bunu çöpe atardı!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_4",
+   "k": 100365,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Gabby Gabby'ye hangi oyuncu ses verir?",
+   "a": [
+    "Christina Hendricks",
+    "Kristen Wiig",
+    "Emma Stone",
+    "Tina Fey"
+   ],
+   "tf": false,
+   "oops": "Gabby Gabby'nin ses kutusu bile bunu bilirdi!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_4",
+   "k": 100366,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Lotso'ya hangi usta oyuncu ses verir?",
+   "a": [
+    "Ned Beatty",
+    "Danny DeVito",
+    "Michael Caine",
+    "Morgan Freeman"
+   ],
+   "tf": false,
+   "oops": "Lotso sana çilek kokulu bir kucak vermeyecek!",
+   "src": "https://variety.com/2010/film/reviews/toy-story-3-1117942938",
+   "k": 100367,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Bo Peep'e hangi oyuncu ses verir?",
+   "a": [
+    "Annie Potts",
+    "Amy Poehler",
+    "Julia Roberts",
+    "Reese Witherspoon"
+   ],
+   "tf": false,
+   "oops": "Bo Peep koyunlarını sayarken sen de cevabı kaçırdın!",
+   "src": "https://www.themoviedb.org/movie/862-toy-story/cast",
+   "k": 100368,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Rex'e hangi oyuncu ses verir?",
+   "a": [
+    "Wallace Shawn",
+    "Billy Crystal",
+    "John Goodman",
+    "Steve Buscemi"
+   ],
+   "tf": false,
+   "oops": "Rex bu cevap yüzünden minik kollarını ısırır!",
+   "src": "https://www.themoviedb.org/movie/862-toy-story/cast",
+   "k": 100369,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal seslendirmede Hamm'e hangi oyuncu ses verir?",
+   "a": [
+    "John Ratzenberger",
+    "Billy Crystal",
+    "John Goodman",
+    "Steve Buscemi"
+   ],
+   "tf": false,
+   "oops": "Kumbaranda bu bilgi yoktu, bozuk para vardı!",
+   "src": "https://www.themoviedb.org/movie/862-toy-story/cast",
+   "k": 100370,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Slinky'yi ilk iki filmde hangi oyuncu seslendirdi?",
+   "a": [
+    "Jim Varney",
+    "Dan Aykroyd",
+    "Jim Belushi",
+    "Bill Murray"
+   ],
+   "tf": false,
+   "oops": "Slinky bu cevap karşısında yay gibi gerildi!",
+   "src": "https://en.wikipedia.org/wiki/Toy_Story_2",
+   "k": 100371,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Bonnie'nin oyuncaklarından Buttercup nasıl bir oyuncaktır?",
+   "a": [
+    "Tek boynuzlu at",
+    "Zebra",
+    "Ejderha",
+    "Kedi"
+   ],
+   "tf": false,
+   "oops": "Buttercup'ın boynuzu bile bunu düzeltirdi!",
+   "src": "https://pixar.fandom.com/wiki/Buttercup",
+   "k": 100372,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

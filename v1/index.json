@@ -1,5 +1,5 @@
 {
- "nextKey": 100343,
+ "nextKey": 100373,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -13,7 +13,8 @@
   "gora": 7,
   "eskiya": 15,
   "aslankral": 30,
-  "karlarulkesi": 30
+  "karlarulkesi": 30,
+  "oyuncakhikayesi": 30
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -28,9 +29,17 @@
   "gora": "2026-11-16",
   "eskiya": "2026-11-16",
   "aslankral": "2026-11-16",
-  "karlarulkesi": "2026-11-16"
+  "karlarulkesi": "2026-11-16",
+  "oyuncakhikayesi": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T16:28:43.050Z",
+   "id": "oyuncakhikayesi",
+   "added": 30,
+   "rejected": 0,
+   "ok": true
+  },
   {
    "at": "2026-11-16T16:20:21.106Z",
    "id": "karlarulkesi",
@@ -130,12 +139,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T16:28:38.690Z",
+ "updated": "2026-11-16T16:34:09.802Z",
  "last": {
-  "at": "2026-11-16T16:20:21.106Z",
-  "id": "karlarulkesi",
+  "at": "2026-11-16T16:28:43.050Z",
+  "id": "oyuncakhikayesi",
   "added": 30,
-  "rejected": 5,
+  "rejected": 0,
   "ok": true
  }
 }
