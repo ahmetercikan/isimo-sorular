@@ -1,0 +1,454 @@
+{
+ "id": "yildizsavaslari",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Yeni Bir Umut'ta Prenses Leia'nın akılda kalan saç stili nasıldır?",
+   "a": [
+    "Başının iki yanında topuzlar",
+    "Uzun bir at kuyruğu",
+    "Başının üstünde tek topuz",
+    "Kısa ve dalgalı kesim"
+   ],
+   "tf": false,
+   "oops": "Leia'nın saçını bu kadar karıştırmak olmaz!",
+   "src": "https://en.wikipedia.org/wiki/Princess_Leia",
+   "k": 100100,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Kylo Ren'in annesi kimdir?",
+   "a": [
+    "Leia Organa",
+    "Padmé Amidala",
+    "Rey",
+    "Maz Kanata"
+   ],
+   "tf": false,
+   "oops": "Anne tarafı da galaksiye hükmeden bir aileden!",
+   "src": "https://en.wikipedia.org/wiki/Kylo_Ren",
+   "k": 100101,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Jedi'ın Dönüşü'nde İmparator, Luke'a elinden çıkan ne ile işkence eder?",
+   "a": [
+    "Güç yıldırımı",
+    "Ateş topu",
+    "Buz ışını",
+    "Ses dalgası"
+   ],
+   "tf": false,
+   "oops": "Bu cevap şimşek gibi geçti, ıskaladın!",
+   "src": "https://en.wikipedia.org/wiki/Return_of_the_Jedi",
+   "k": 100102,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Darth Vader'ın maskesinden sürekli duyulan ses nedir?",
+   "a": [
+    "Mekanik nefes sesi",
+    "Kalp atışı",
+    "Radyo paraziti",
+    "Motor uğultusu"
+   ],
+   "tf": false,
+   "oops": "Nefesini tut, bir daha dene!",
+   "src": "https://en.wikipedia.org/wiki/Darth_Vader",
+   "k": 100103,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Luke'un Yeni Bir Umut'ta Obi-Wan'dan aldığı ışın kılıcı hangi renktir?",
+   "a": [
+    "Mavi",
+    "Yeşil",
+    "Kırmızı",
+    "Mor"
+   ],
+   "tf": false,
+   "oops": "Işın kılıcın rengini bile şaşırdın, Padawan!",
+   "src": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+   "k": 100104,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Yoda, İmparator'da denemeye çalışan Luke'a ne der?",
+   "a": [
+    "Deneme yok, ya yap ya yapma",
+    "Denemek cesaret ister",
+    "Deneyen kazanır",
+    "Önce biraz dene"
+   ],
+   "tf": false,
+   "oops": "Denedin ama olmadı. Yoda: 'Deneme yok!'",
+   "src": "https://en.wikiquote.org/wiki/The_Empire_Strikes_Back",
+   "k": 100105,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Leia Organa hangi unvanla anılır?",
+   "a": [
+    "Prenses",
+    "Kraliçe",
+    "Düşes",
+    "İmparatoriçe"
+   ],
+   "tf": false,
+   "oops": "Bu soruda tacı kaptırdın!",
+   "src": "https://en.wikipedia.org/wiki/Princess_Leia",
+   "k": 100106,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Luke'un Yoda ile buluştuğu Dagobah nasıl bir gezegendir?",
+   "a": [
+    "Bataklık",
+    "Çöl",
+    "Buzul",
+    "Lav"
+   ],
+   "tf": false,
+   "oops": "Çizmelerin çamura battı!",
+   "src": "https://en.wikipedia.org/wiki/Dagobah",
+   "k": 100107,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Anakin Skywalker'ın Darth Vader'a dönüştüğü film hangisidir?",
+   "a": [
+    "Bölüm III – Sith'in İntikamı",
+    "Bölüm I – Gizli Tehlike",
+    "Bölüm II – Klonların Saldırısı",
+    "Bölüm VI – Jedi'ın Dönüşü"
+   ],
+   "tf": false,
+   "oops": "Karanlık taraf seni de çekti galiba.",
+   "src": "https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith",
+   "k": 100108,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Doğru mu? Yeni Bir Umut'un sonundaki madalya töreninde Chewbacca da madalya alır.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Chewie bu sonuca hâlâ homurdanıyor.",
+   "src": "https://www.slashfilm.com/541848/chewbacca-medal/",
+   "k": 100109,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Chewbacca'nın anavatanı olan ve Sith'in İntikamı'nda da görülen gezegen hangisidir?",
+   "a": [
+    "Kashyyyk",
+    "Endor",
+    "Utapau",
+    "Takodana"
+   ],
+   "tf": false,
+   "oops": "Chewie bu cevaba uzun uzun homurdanır.",
+   "src": "https://en.wikipedia.org/wiki/Wookiee",
+   "k": 100110,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Leia, Jedi'ın Dönüşü'nde Jabba the Hutt'ı nasıl öldürür?",
+   "a": [
+    "Zinciriyle boğarak",
+    "Işın kılıcıyla",
+    "Blasterla vurarak",
+    "Bir bombayla"
+   ],
+   "tf": false,
+   "oops": "Jabba bile bu cevaba güler.",
+   "src": "https://www.starwars.com/video/jabbas-end",
+   "k": 100111,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mace Windu'nun ışın kılıcı hangi renktir?",
+   "a": [
+    "Mor",
+    "Mavi",
+    "Yeşil",
+    "Sarı"
+   ],
+   "tf": false,
+   "oops": "Mor değil ama yine de güzel tahmindi.",
+   "src": "https://en.wikipedia.org/wiki/Mace_Windu",
+   "k": 100112,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Mustafar düellosunda Obi-Wan, Anakin'in hangi uzuvlarını keser?",
+   "a": [
+    "Bir kolunu ve iki bacağını",
+    "İki kolunu",
+    "Yalnız bir bacağını",
+    "İki kolunu ve bir bacağını"
+   ],
+   "tf": false,
+   "oops": "Bu soruda bir uzvunu kaybettin!",
+   "src": "https://www.starwars.com/databank/obi-wan-kenobi",
+   "k": 100113,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Gizli Tehlike'de Qui-Gon Jinn'i kim öldürür?",
+   "a": [
+    "Darth Maul",
+    "Kont Dooku",
+    "General Grievous",
+    "Jango Fett"
+   ],
+   "tf": false,
+   "oops": "Qui-Gon bile seni uyarmıştı!",
+   "src": "https://en.wikipedia.org/wiki/Qui-Gon_Jinn",
+   "k": 100114,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Klonların Saldırısı'nda Anakin, annesi öldükten sonra Tusken'lere ne yapar?",
+   "a": [
+    "Hepsini öldürür",
+    "Onları affeder",
+    "Esir alır",
+    "Gezegenden sürer"
+   ],
+   "tf": false,
+   "oops": "Anakin'in öfkesi gibi, cevabın da yanlış yöne gitti.",
+   "src": "https://en.wikipedia.org/wiki/Tusken_Raiders",
+   "k": 100115,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Klonların Saldırısı'nda Obi-Wan, Anakin ve Padmé'nin gladyatör arenasında idamla karşılaştığı gezegen hangisidir?",
+   "a": [
+    "Geonosis",
+    "Mustafar",
+    "Kamino",
+    "Utapau"
+   ],
+   "tf": false,
+   "oops": "Arenada seni ezdiler!",
+   "src": "https://en.wikipedia.org/wiki/Geonosis",
+   "k": 100116,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Palpatine, Sith'in İntikamı'nda Senato'da Cumhuriyet'i neye dönüştürdüğünü ilan eder?",
+   "a": [
+    "Galaktik İmparatorluk",
+    "Ticaret Federasyonu",
+    "Jedi Konseyi",
+    "Bağımsız Sistemler"
+   ],
+   "tf": false,
+   "oops": "Alkışlar hâlâ kulaklarımda, cevap ise yanlış.",
+   "src": "https://www.quotes.net/mquote/1186022",
+   "k": 100117,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sith'in İntikamı'nda Palpatine'in emriyle Anakin kimin kafasını keser?",
+   "a": [
+    "Kont Dooku",
+    "General Grievous",
+    "Mace Windu",
+    "Jango Fett"
+   ],
+   "tf": false,
+   "oops": "Kafa karıştıran bir soruydu, belli.",
+   "src": "https://en.wikipedia.org/wiki/Count_Dooku",
+   "k": 100118,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Jedi kehanetinde Güç'e denge getireceği söylenen kişi nasıl adlandırılır?",
+   "a": [
+    "Seçilmiş Kişi",
+    "Büyük Usta",
+    "Son Jedi",
+    "Işığın Elçisi"
+   ],
+   "tf": false,
+   "oops": "Seçilmiş kişi sen değilmişsin!",
+   "src": "https://starwars.fandom.com/wiki/Chosen_One",
+   "k": 100119,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Son Jedi'da Rey ile Kylo Ren'in uzaktan birbirini görüp konuşmasını sağlayan şeye ne denir?",
+   "a": [
+    "Güç bağı",
+    "Jedi hologramı",
+    "Kyber köprüsü",
+    "Droid yayını"
+   ],
+   "tf": false,
+   "oops": "Sinyal kesildi, tekrar dene!",
+   "src": "https://starwars.fandom.com/wiki/Force-bond",
+   "k": 100120,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İmparator (1980) filmini kim yönetti?",
+   "a": [
+    "Irvin Kershner",
+    "Richard Marquand",
+    "Gary Kurtz",
+    "Brian De Palma"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğunu yanlış kişiye verdin.",
+   "src": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back",
+   "k": 100121,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Jedi'ın Dönüşü'nü (1983) kim yönetti?",
+   "a": [
+    "Richard Marquand",
+    "Irvin Kershner",
+    "Joe Johnston",
+    "Steven Spielberg"
+   ],
+   "tf": false,
+   "oops": "Klaket çaldı, cevap kesildi.",
+   "src": "https://en.wikipedia.org/wiki/Return_of_the_Jedi",
+   "k": 100122,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal ve ön üçlemelerde C-3PO'yu kostümün içinde canlandıran oyuncu kimdir?",
+   "a": [
+    "Anthony Daniels",
+    "Kenny Baker",
+    "Peter Mayhew",
+    "Warwick Davis"
+   ],
+   "tf": false,
+   "oops": "C-3PO bu olasılığı hesaplayıp yüzde sıfır buldu.",
+   "src": "https://en.wikipedia.org/wiki/Star_Wars_original_trilogy",
+   "k": 100123,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Rogue One'da Saw Gerrera'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Forest Whitaker",
+    "Idris Elba",
+    "Denzel Washington",
+    "Mahershala Ali"
+   ],
+   "tf": false,
+   "oops": "Saw bu cevaba kaşlarını çatardı.",
+   "src": "https://en.wikipedia.org/wiki/Rogue_One",
+   "k": 100124,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Rogue One'da Galen Erso'yu hangi oyuncu canlandırır?",
+   "a": [
+    "Mads Mikkelsen",
+    "Ben Mendelsohn",
+    "Viggo Mortensen",
+    "Christoph Waltz"
+   ],
+   "tf": false,
+   "oops": "Galen'in bile haberi yok bu cevaptan.",
+   "src": "https://en.wikipedia.org/wiki/Rogue_One",
+   "k": 100125,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ön üçlemede Bail Organa'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Jimmy Smits",
+    "Antonio Banderas",
+    "Benicio del Toro",
+    "Edgar Ramírez"
+   ],
+   "tf": false,
+   "oops": "Senato'da bu cevaba oy çıkmadı.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Star_Wars_prequel_trilogy_characters",
+   "k": 100126,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Güç Uyanıyor'da Han ve Chewbacca'nın gemide taşıdığı, kaçıp mürettebatı yutan dokunaçlı yaratıklara ne denir?",
+   "a": [
+    "Rathtar",
+    "Wampa",
+    "Rancor",
+    "Krayt ejderhası"
+   ],
+   "tf": false,
+   "oops": "Dokunaçlar seni sardı, cevap kaçtı.",
+   "src": "https://www.starwars.com/news/from-a-certain-point-of-view-what-is-the-best-scene-in-star-wars-the-force-awakens",
+   "k": 100127,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Obi-Wan, Mos Eisley'de Han'a Alderaan yolculuğu için toplam ne kadar ödemeyi kabul eder?",
+   "a": [
+    "17.000",
+    "10.000",
+    "12.000",
+    "20.000"
+   ],
+   "tf": false,
+   "oops": "Hesabın tutmadı, Han bile şaşırdı.",
+   "src": "https://en.wikiquote.org/wiki/Star_Wars_(film)",
+   "k": 100128,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Solo filmini kim yönetti?",
+   "a": [
+    "Ron Howard",
+    "Jon Favreau",
+    "Gareth Edwards",
+    "Rian Johnson"
+   ],
+   "tf": false,
+   "oops": "Bu kez yönetmen sandalyesi seni reddetti.",
+   "src": "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story",
+   "k": 100129,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
