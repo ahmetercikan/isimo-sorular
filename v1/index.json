@@ -1,5 +1,5 @@
 {
- "nextKey": 100403,
+ "nextKey": 100433,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -15,7 +15,8 @@
   "aslankral": 30,
   "karlarulkesi": 30,
   "oyuncakhikayesi": 30,
-  "tersyuz": 30
+  "tersyuz": 30,
+  "shrek": 30
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -32,9 +33,17 @@
   "aslankral": "2026-11-16",
   "karlarulkesi": "2026-11-16",
   "oyuncakhikayesi": "2026-11-16",
-  "tersyuz": "2026-11-16"
+  "tersyuz": "2026-11-16",
+  "shrek": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T16:40:07.638Z",
+   "id": "shrek",
+   "added": 30,
+   "rejected": 2,
+   "ok": true
+  },
   {
    "at": "2026-11-16T16:34:14.346Z",
    "id": "tersyuz",
@@ -148,12 +157,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T16:40:01.705Z",
+ "updated": "2026-11-16T16:45:40.254Z",
  "last": {
-  "at": "2026-11-16T16:34:14.346Z",
-  "id": "tersyuz",
+  "at": "2026-11-16T16:40:07.638Z",
+  "id": "shrek",
   "added": 30,
-  "rejected": 1,
+  "rejected": 2,
   "ok": true
  }
 }

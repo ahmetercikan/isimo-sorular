@@ -1,0 +1,456 @@
+{
+ "id": "shrek",
+ "questions": [
+  {
+   "d": 1,
+   "q": "İlk Şrek filmi hangi yıl çıktı?",
+   "a": [
+    "2001",
+    "1999",
+    "2003",
+    "2005"
+   ],
+   "tf": false,
+   "oops": "Şrek bile bataklıktan daha yeni çıktı, tarihe dikkat!",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100403,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Orijinal dilde Şrek'e kim ses verir?",
+   "a": [
+    "Mike Myers",
+    "Jim Carrey",
+    "Adam Sandler",
+    "Ben Stiller"
+   ],
+   "tf": false,
+   "oops": "Bu cevap bataklığa düştü, çamurdan çıkıp tekrar dene!",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100404,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Orijinal dilde Eşek'e kim ses verir?",
+   "a": [
+    "Eddie Murphy",
+    "Chris Rock",
+    "Kevin Hart",
+    "Jamie Foxx"
+   ],
+   "tf": false,
+   "oops": "Eşek olsa şimdi durmadan konuşup seni düzeltirdi.",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100405,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Orijinal dilde Prenses Fiona'ya kim ses verir?",
+   "a": [
+    "Cameron Diaz",
+    "Julia Roberts",
+    "Reese Witherspoon",
+    "Drew Barrymore"
+   ],
+   "tf": false,
+   "oops": "Fiona bile bu cevaba karate tekmesi atardı.",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100406,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Şrek filmlerini hangi animasyon stüdyosu yaptı?",
+   "a": [
+    "DreamWorks",
+    "Pixar",
+    "Disney",
+    "Illumination"
+   ],
+   "tf": false,
+   "oops": "Şrek başka stüdyoya gitseydi masal tamamen değişirdi!",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100407,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Çizmeli Kedi düello yaparken neyi kullanır?",
+   "a": [
+    "Kılıcını",
+    "Yayını",
+    "Mızrağını",
+    "Sopasını"
+   ],
+   "tf": false,
+   "oops": "Çizmeli Kedi bu cevaba tek bir yalvaran bakışla karşılık verirdi.",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(Shrek)",
+   "k": 100408,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Çizmeli Kedi'nin tüyleri hangi renktir?",
+   "a": [
+    "Turuncu",
+    "Siyah",
+    "Beyaz",
+    "Gri"
+   ],
+   "tf": false,
+   "oops": "Bu cevapla bir kedi bile ikna olmaz, çizmelerine dikkat!",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(Shrek)",
+   "k": 100409,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Prenses Fiona'nın saç rengi hangisidir?",
+   "a": [
+    "Kızıl",
+    "Sarı",
+    "Siyah",
+    "Beyaz"
+   ],
+   "tf": false,
+   "oops": "Saç rengini şaşırdın, Fiona'yı biraz daha dikkatli izle.",
+   "src": "https://shrek.fandom.com/wiki/Fiona",
+   "k": 100410,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Şrek 3'ün başında Kral Harold'a ne olur?",
+   "a": [
+    "Ölür",
+    "Krallığı terk eder",
+    "Hapse düşer",
+    "Yeniden insan olur"
+   ],
+   "tf": false,
+   "oops": "Kral Harold bu cevabı duysa kurbağa gibi vıraklardı.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_the_Third",
+   "k": 100411,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şrek 2 hangi yıl vizyona girdi?",
+   "a": [
+    "2004",
+    "2002",
+    "2005",
+    "2006"
+   ],
+   "tf": false,
+   "oops": "Şrek 2 uzun yoldan geldi ama bu yıla varamadı.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_2",
+   "k": 100412,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Çizmeli Kedi'nin kendi adını taşıyan ilk filmi hangi yıl çıktı?",
+   "a": [
+    "2011",
+    "2008",
+    "2013",
+    "2015"
+   ],
+   "tf": false,
+   "oops": "Çizmeli Kedi dokuz canıyla bile bu yılı bulamazdı.",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+   "k": 100413,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Şrek filminin finalinde Eşek'in başını çektiği şarkı hangisidir?",
+   "a": [
+    "I'm a Believer",
+    "Livin' la Vida Loca",
+    "Holding Out for a Hero",
+    "Accidentally in Love"
+   ],
+   "tf": false,
+   "oops": "Eşek bu şarkıyı bile bilmeden mi izledin sen?",
+   "src": "https://en.wikipedia.org/wiki/List_of_songs_featured_in_Shrek",
+   "k": 100414,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Şrek filminin açılışında Şrek'in bataklık banyosu sırasında hangi şarkı çalar?",
+   "a": [
+    "All Star",
+    "Smells Like Teen Spirit",
+    "Wonderwall",
+    "Zombie"
+   ],
+   "tf": false,
+   "oops": "Bu şarkı filme girmedi, ama mutlaka bir yerde çalıyordur!",
+   "src": "https://en.wikipedia.org/wiki/List_of_songs_featured_in_Shrek",
+   "k": 100415,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Şrek filminde Fiona, Robin Hood'un adamlarıyla dövüşürken hangi filmi taklit eder?",
+   "a": [
+    "Matrix",
+    "Yüzüklerin Efendisi",
+    "Kara Şövalye",
+    "Titanik"
+   ],
+   "tf": false,
+   "oops": "Fiona havada yavaş çekimde dönerken bu cevabı kırmızı hapla geri yolladı.",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/ReferencedBy/TheMatrix",
+   "k": 100416,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şrek ile Eşek, Duloc'a varınca kapıda kim ya da ne karşılar?",
+   "a": [
+    "Şarkı söyleyen mekanik kuklalar",
+    "Zırhlı muhafızlar",
+    "Kalabalık bir halk",
+    "Dev bir kapı bekçisi"
+   ],
+   "tf": false,
+   "oops": "Duloc'un kuklaları bu cevaba bir şarkıyla yanıt verirdi.",
+   "src": "https://shrek.fandom.com/wiki/Song:Welcome_to_Duloc",
+   "k": 100417,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şrek 3'ün başında Prens Yakışıklı geçimini nasıl sağlamaktadır?",
+   "a": [
+    "Tiyatro sahnesinde oynayarak",
+    "Sirk sunuculuğu yaparak",
+    "Şatoda aşçılık yaparak",
+    "Köy bekçiliği yaparak"
+   ],
+   "tf": false,
+   "oops": "Prens bu rolü bile hakkıyla oynayamadı, sen de yanlış yaptın!",
+   "src": "https://en.wikiquote.org/wiki/Shrek_the_Third",
+   "k": 100418,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şrek 3'te Fiona'nın prenses arkadaşları arasında hangisi vardır?",
+   "a": [
+    "Sindirella",
+    "Ariel",
+    "Belle",
+    "Mulan"
+   ],
+   "tf": false,
+   "oops": "Bu prenses başka bir stüdyonun masalında kaldı!",
+   "src": "https://en.wikipedia.org/wiki/Shrek_the_Third",
+   "k": 100419,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Çizmeli Kedi filminde Çizmeli Kedi ile Kitty Softpaws nasıl bir düello yapar?",
+   "a": [
+    "Dans düellosu",
+    "Yemek yarışı",
+    "Satranç maçı",
+    "Kaçma oyunu"
+   ],
+   "tf": false,
+   "oops": "Çizmeli Kedi bu yanıtı duysa tüylerini kabartırdı.",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+   "k": 100420,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Çizmeli Kedi filminde Çizmeli Kedi'nin büyüdüğü kasabanın adı nedir?",
+   "a": [
+    "San Ricardo",
+    "Del Mar",
+    "Santa Rosa",
+    "Villa Real"
+   ],
+   "tf": false,
+   "oops": "Çizmeli Kedi kasabasını bilmeyene yalvaran gözlerle bakar.",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+   "k": 100421,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Çizmeli Kedi: Son Dilek'te Kurt, yaklaştığını nasıl belli eder?",
+   "a": [
+    "Islık çalarak",
+    "Gitar çalarak",
+    "Şarkı söyleyerek",
+    "Davul çalarak"
+   ],
+   "tf": false,
+   "oops": "Kurt bu cevaba ıslık çalıp yoluna devam ederdi.",
+   "src": "https://thefrontpagefrcc.com/2023/03/09/oscars-week-puss-in-boots-the-last-wish/",
+   "k": 100422,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Şrek 2'nin başında Şrek ile Fiona nereden dönmektedir?",
+   "a": [
+    "Balayından",
+    "Savaştan",
+    "Pazardan",
+    "Okuldan"
+   ],
+   "tf": false,
+   "oops": "Tatil dönüşü bile hatırlayamayan bu mu Şrek izleyicisi?",
+   "src": "https://www.imdb.com/title/tt0298148/plotsummary/",
+   "k": 100423,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk Şrek filminde Robin Hood'a orijinal dilde kim ses verir?",
+   "a": [
+    "Vincent Cassel",
+    "Gérard Depardieu",
+    "Jean Reno",
+    "Olivier Martinez"
+   ],
+   "tf": false,
+   "oops": "Fransız şarkısına bile ayak uyduramadın, tekrar dene.",
+   "src": "https://en.wikipedia.org/wiki/Shrek",
+   "k": 100424,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Prens Yakışıklı'ya orijinal dilde kim ses verir?",
+   "a": [
+    "Rupert Everett",
+    "Hugh Grant",
+    "Colin Firth",
+    "Jude Law"
+   ],
+   "tf": false,
+   "oops": "Prens bu cevap yüzünden saçını bozdu.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_2",
+   "k": 100425,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Peri Anne'ye orijinal dilde kim ses verir?",
+   "a": [
+    "Jennifer Saunders",
+    "Dawn French",
+    "Emma Thompson",
+    "Helen Mirren"
+   ],
+   "tf": false,
+   "oops": "Peri Anne bu cevaba sihirli asasını sallardı.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_2",
+   "k": 100426,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Kraliçe Lillian'a orijinal dilde kim ses verir?",
+   "a": [
+    "Julie Andrews",
+    "Maggie Smith",
+    "Judi Dench",
+    "Meryl Streep"
+   ],
+   "tf": false,
+   "oops": "Kraliçe Lillian duvarı kafasıyla kırdı, sen de cevabı kır!",
+   "src": "https://en.wikipedia.org/wiki/Shrek_2",
+   "k": 100427,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Şrek 4'te Rumpelstiltskin'e orijinal dilde kim ses verir?",
+   "a": [
+    "Walt Dohrn",
+    "Conrad Vernon",
+    "Mike Mitchell",
+    "Cody Cameron"
+   ],
+   "tf": false,
+   "oops": "Rumpelstiltskin bu cevabı sözleşmeye eklemeye bile değmez derdi.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_Forever_After",
+   "k": 100428,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Şrek 3'te Kaptan Kanca'ya orijinal dilde kim ses verir?",
+   "a": [
+    "Ian McShane",
+    "Johnny Depp",
+    "Geoffrey Rush",
+    "Bill Nighy"
+   ],
+   "tf": false,
+   "oops": "Kaptan Kanca bu cevaba kancasını sallayarak karşılık verirdi.",
+   "src": "https://www.awn.com/news/shrek-third-cast-finalized",
+   "k": 100429,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Şrek 3'te Merlin'e orijinal dilde kim ses verir?",
+   "a": [
+    "Eric Idle",
+    "Michael Palin",
+    "Terry Jones",
+    "Rowan Atkinson"
+   ],
+   "tf": false,
+   "oops": "Merlin bu cevabı büyüyle kalem gibi silerdi.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_the_Third",
+   "k": 100430,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk Çizmeli Kedi filmini kim yönetmiştir?",
+   "a": [
+    "Chris Miller",
+    "Mike Mitchell",
+    "Joel Crawford",
+    "Conrad Vernon"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğuna bu isim oturmadı, tekrar bak.",
+   "src": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+   "k": 100431,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Şrek 4'ü (Şrek Mutlu Sonsuza Dek) kim yönetmiştir?",
+   "a": [
+    "Mike Mitchell",
+    "Andrew Adamson",
+    "Kelly Asbury",
+    "Conrad Vernon"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğunda bu isim yoktu, tekrar dene.",
+   "src": "https://en.wikipedia.org/wiki/Shrek_Forever_After",
+   "k": 100432,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}
