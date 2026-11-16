@@ -148,6 +148,304 @@
    "src": "https://en.wikipedia.org/wiki/70th_Academy_Awards",
    "k": 100009,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Titanik hangi okyanusta batar?",
+   "a": [
+    "Atlas Okyanusu",
+    "Hint Okyanusu",
+    "Pasifik Okyanusu",
+    "Arktik Okyanusu"
+   ],
+   "tf": false,
+   "oops": "Pusulan bozuk galiba, kaptan! Titanik Atlas'ta kaldı.",
+   "src": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+   "k": 100220,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Filmde anlatılan yolculuk, Titanik'in kaçıncı seferidir?",
+   "a": [
+    "İlk seferi",
+    "İkinci seferi",
+    "Üçüncü seferi",
+    "Yedinci seferi"
+   ],
+   "tf": false,
+   "oops": "Gemi daha yeni, boya kokusu bile geçmemişti!",
+   "src": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+   "k": 100221,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Gün batımında geminin ucunda kollarını açan Rose ne haykırır?",
+   "a": [
+    "Uçuyorum, Jack!",
+    "Düşüyorum, Jack!",
+    "Sıkı tut, Jack!",
+    "Bırakma beni, Jack!"
+   ],
+   "tf": false,
+   "oops": "Rüzgâr sözlerini de uçurmuş olmalı!",
+   "src": "https://en.wikiquote.org/wiki/Titanic_(1997_film)",
+   "k": 100222,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Titanik batarken yardım çağırmak için gökyüzüne ne fırlatılır?",
+   "a": [
+    "İmdat fişekleri",
+    "Işıklı balonlar",
+    "Kâğıt fenerler",
+    "Mesaj şişeleri"
+   ],
+   "tf": false,
+   "oops": "Bu cevap da gökyüzüne uçtu gitti!",
+   "src": "https://movies.fandom.com/wiki/Titanic_(1997)/Transcript",
+   "k": 100223,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Jack, tahta parçasına neden Rose'la birlikte çıkmaz?",
+   "a": [
+    "Tahta ikisini birden taşımaz",
+    "Tahta çok kaygan olduğu için",
+    "Rose onu itip düşürdüğü için",
+    "Yüzmeyi tercih ettiği için"
+   ],
+   "tf": false,
+   "oops": "Tahta da senin gibi tek kişilik kontenjana sahipti.",
+   "src": "https://www.npr.org/2022/12/19/1144078509/titanic-movie-door-debate-james-cameron",
+   "k": 100224,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Titanik'in ana türü hangisidir?",
+   "a": [
+    "Romantik dram",
+    "Korku",
+    "Bilim kurgu",
+    "Western"
+   ],
+   "tf": false,
+   "oops": "Bu soruda gemi değil, tür battı!",
+   "src": "https://www.britannica.com/topic/Titanic-film-1997",
+   "k": 100225,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Doğru mu? Leonardo DiCaprio, Titanik'teki rolüyle Oscar'a aday gösterildi.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Jack için Oscar kapısı kapalı kaldı, sen de aynı kapıya vurdun.",
+   "src": "https://www.slashfilm.com/1190527/did-titanic-deserve-to-sweep-the-oscars-25-years-ago-an-investigation/",
+   "k": 100226,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "James Cameron, Titanik'ten hemen önce hangi filmi yönetmişti?",
+   "a": [
+    "Gerçek Yalanlar",
+    "Terminatör 2: Mahşer Günü",
+    "Uçurum",
+    "Kızıl Alarm"
+   ],
+   "tf": false,
+   "oops": "Cameron'ın dosyasını karıştırmışsın!",
+   "src": "https://en.wikipedia.org/wiki/James_Cameron_filmography",
+   "k": 100227,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Filmdeki Titanik'in kaç bacası vardır?",
+   "a": [
+    "Dört",
+    "İki",
+    "Üç",
+    "Beş"
+   ],
+   "tf": false,
+   "oops": "Baca sayımında bir duman karışmış galiba.",
+   "src": "https://en.wikipedia.org/wiki/Four-funnel_liner",
+   "k": 100228,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Yaşlı Rose, Lovett'ın araştırma gemisine nasıl ulaşır?",
+   "a": [
+    "Helikopterle",
+    "Motorlu botla",
+    "Denizaltıyla",
+    "Başka bir gemiyle"
+   ],
+   "tf": false,
+   "oops": "Rose da senin gibi havadan geldi ama yanlış yere indin!",
+   "src": "https://www.filmsite.org/titanic.html",
+   "k": 100229,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Yaşlı Rose'a göre Jack artık nerede yaşamaya devam etmektedir?",
+   "a": [
+    "Yalnızca onun hafızasında",
+    "Gazete arşivlerinde",
+    "Müzedeki kayıtlarda",
+    "Kitaplarda"
+   ],
+   "tf": false,
+   "oops": "Jack'i arşivde aradın, o ise Rose'un kalbindeydi.",
+   "src": "https://www.quotes.net/mquote/97336",
+   "k": 100230,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Titanik ikiye bölünmeden hemen önce gemideki ışıklara ne olur?",
+   "a": [
+    "Titreyip söner",
+    "Daha parlak yanar",
+    "Kırmızıya döner",
+    "Hiç değişmez"
+   ],
+   "tf": false,
+   "oops": "Işıklar söndü, senin ampulün de yanmadı!",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100231,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "James Cameron, Titanik'le Oscar töreninde hangi dalda ödül aldı?",
+   "a": [
+    "En İyi Yönetmen",
+    "En İyi Özgün Senaryo",
+    "En İyi Erkek Oyuncu",
+    "En İyi Yabancı Film"
+   ],
+   "tf": false,
+   "oops": "Cameron'ın heykelciği başka rafta duruyor!",
+   "src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Titanic",
+   "k": 100232,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Bruce Ismay, batış sırasında kendini nasıl kurtarır?",
+   "a": [
+    "Bir filikaya biner",
+    "Tahta bir parçaya tutunur",
+    "Başka bir gemiye atlar",
+    "Yüzerek kıyıya ulaşır"
+   ],
+   "tf": false,
+   "oops": "Ismay'in kaçış yolu senin tahminini de şaşırttı.",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100233,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "James Cameron'la birlikte Titanik'in yapımcılığını kim üstlendi?",
+   "a": [
+    "Jon Landau",
+    "Steven Spielberg",
+    "Arnon Milchan",
+    "Gale Anne Hurd"
+   ],
+   "tf": false,
+   "oops": "Yapımcı koltuğunu yanlış kişiye verdin!",
+   "src": "https://en.wikipedia.org/wiki/Jon_Landau_(film_producer)",
+   "k": 100234,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "\"My Heart Will Go On\" şarkısının sözlerini kim yazdı?",
+   "a": [
+    "Will Jennings",
+    "Diane Warren",
+    "Michael Bolton",
+    "Phil Collins"
+   ],
+   "tf": false,
+   "oops": "Söz yazarı değil, hâlâ sözünü arıyorsun!",
+   "src": "https://en.wikipedia.org/wiki/My_Heart_Will_Go_On",
+   "k": 100235,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Birinci subay William Murdoch'u hangi oyuncu canlandırır?",
+   "a": [
+    "Ewan Stewart",
+    "Ioan Gruffudd",
+    "Victor Garber",
+    "David Warner"
+   ],
+   "tf": false,
+   "oops": "Murdoch'u tanımak için pusulaya değil kadroya bak!",
+   "src": "https://en.wikipedia.org/wiki/Ewan_Stewart",
+   "k": 100236,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Jack'in arkadaşı Fabrizio'yu hangi oyuncu canlandırır?",
+   "a": [
+    "Danny Nucci",
+    "Jason Barry",
+    "Eric Braeden",
+    "Michael Ensign"
+   ],
+   "tf": false,
+   "oops": "Fabrizio de bu cevaba İtalyanca bir 'mamma mia' çekerdi.",
+   "src": "https://www.themoviedb.org/movie/597-titanic/cast",
+   "k": 100237,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Yaşlı Rose'un torunu Lizzy'yi hangi oyuncu canlandırır?",
+   "a": [
+    "Suzy Amis",
+    "Frances Fisher",
+    "Kathy Bates",
+    "Gloria Stuart"
+   ],
+   "tf": false,
+   "oops": "Lizzy'yi bulamadın, ama aile yadigârı cevap yakındı.",
+   "src": "https://www.themoviedb.org/movie/597-titanic/cast",
+   "k": 100238,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gözcü, buzdağını görünce köprüyü uyarmak için önce ne yapar?",
+   "a": [
+    "Zili üç kez çalar",
+    "Düdük çalar",
+    "Bayrak sallar",
+    "Fener yakar"
+   ],
+   "tf": false,
+   "oops": "Bu cevap da çok geç, zil çoktan çalmıştı!",
+   "src": "https://movies.fandom.com/wiki/Titanic_(1997)/Transcript",
+   "k": 100239,
+   "added": "2026-11-16"
   }
  ],
  "updated": "2026-11-16"
