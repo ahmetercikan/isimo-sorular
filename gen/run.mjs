@@ -11,7 +11,7 @@
  * her soruyu internetten kontrol eder → yalnız onaylananlar v1/<id>.json'a eklenir. Git işlemleri gen/cron.sh'te.
  */
 import { spawnSync } from 'node:child_process';
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
@@ -25,7 +25,7 @@ const today = () => new Date().toISOString().slice(0, 10);
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 
 const read = (p, def) => (existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : def);
-const write = (p, v) => writeFileSync(p, JSON.stringify(v, null, 1) + '\n');
+const write = (p, v) => { mkdirSync(join(p, '..'), { recursive: true }); writeFileSync(p, JSON.stringify(v, null, 1) + '\n'); };
 const feedPath = (id) => join(ROOT, 'v1', `${id}.json`);
 const indexPath = join(ROOT, 'v1', 'index.json');
 const norm = (s) => String(s).toLocaleLowerCase('tr-TR').replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
@@ -80,6 +80,9 @@ function ask({ system, request, schema, model, tools = '', effort = 'medium', ma
     }
     if (!out || typeof out !== 'object') throw new ClaudeError('Claude Code beklenen biçimde yanıt vermedi');
     const u = result.usage || {};
+    const searches = (done.stdout.match(/"name":"WebSearch"/g) || []).length;
+    out._searches = searches;
+    log(`  arama ${searches}, tur ${result.num_turns ?? '?'}`);
     log(`  ${model}: giriş ${(u.input_tokens || 0) + (u.cache_read_input_tokens || 0) + (u.cache_creation_input_tokens || 0)}, çıkış ${u.output_tokens || 0}, ${Math.round((result.duration_ms || 0) / 1000)} sn`);
     return out;
   } finally {
@@ -145,7 +148,7 @@ Kurallar:
 - Doğal, akıcı, yazım hatasız Türkçe.`;
 
 const VERIFIER_SYSTEM = `Bir film bilgi yarışmasının bağımsız doğrulayıcısısın. Soruları sen yazmadın; işin her birini sıkı denetlemek.
-Her soru için web aramasıyla kontrol et ve yalnız şunların HEPSİ doğruysa ok=true ver:
+Her soruyu WebSearch aracıyla ara ve kontrol et (bilgiyi ezberden onaylama; her soru için en az bir arama) ve yalnız şunların HEPSİ doğruysa ok=true ver:
 1. İlk şık kesin olarak doğru ve bilgi verilen kapsamdaki filmde/dizide gerçekten var (kitapta olup filmde olmayan bilgi = ret).
 2. Diğer şıkların hiçbiri de doğru sayılamaz (tek doğru cevap).
 3. Soru cevabı ele vermiyor, tek bilgi soruyor, Türkçesi düzgün ve anlaşılır.
@@ -233,10 +236,13 @@ function grow(id, need, index) {
       cands.push(q);
     }
     if (!cands.length) continue;
-    const verdict = ask({
+    const checked = ask({
       system: VERIFIER_SYSTEM, request: verifierRequest(known, cands, list),
       schema: V_SCHEMA, model: VERIFIER_MODEL, tools: 'WebSearch', effort: 'medium', maxTurns: 60, timeoutMs: 1_200_000,
-    }).results ?? [];
+    });
+    // İnternette hiç bakmadan verilen onay sayılmaz: yanlış soru yayınlamaktansa turu atla.
+    if (!checked._searches) { log('  doğrulayıcı hiç arama yapmadı, tur sayılmadı'); rejected += cands.length; continue; }
+    const verdict = checked.results ?? [];
     const okIdx = new Map(verdict.filter((r) => r.ok === true).map((r) => [r.i, r]));
     const passed = [];
     cands.forEach((q, i) => {
