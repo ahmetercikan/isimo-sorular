@@ -1,0 +1,154 @@
+{
+ "id": "titanik",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Jack, ünlü “uçma” sahnesinde Rose'tan ne yapmasını ister?",
+   "a": [
+    "Gözlerini kapatmasını",
+    "Şarkı söylemesini",
+    "Ona sırtını dönmesini",
+    "Başını eğmesini"
+   ],
+   "tf": false,
+   "oops": "Gözünü açık tutarsan sürpriz bozulur, bir daha dene!",
+   "src": "https://movies.fandom.com/wiki/Titanic_(1997)/Transcript",
+   "k": 100000,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu? Titanik, En İyi Film Oscar'ını kazandı.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Titanik o gece heykelciklerle dolu bir gemi gibi döndü!",
+   "src": "https://en.wikipedia.org/wiki/70th_Academy_Awards",
+   "k": 100001,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Jack ile Rose'un geminin ucundaki “uçma” sahnesi günün hangi vaktinde geçer?",
+   "a": [
+    "Gün batımında",
+    "Şafakta",
+    "Öğle vaktinde",
+    "Gece yarısı"
+   ],
+   "tf": false,
+   "oops": "Işık da yanlış, cevap da yanlış!",
+   "src": "https://jamescameronstitanic.fandom.com/wiki/Titanic_(script)",
+   "k": 100002,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Rose'un annesi Ruth DeWitt Bukater'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Frances Fisher",
+    "Kathy Bates",
+    "Gloria Stuart",
+    "Suzy Amis"
+   ],
+   "tf": false,
+   "oops": "Ruth'u tanıyamadın, Rose'un korsesi bile sana kızdı!",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100003,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Jack, Rose'a suda hayatta kalıp nasıl bir son yaşamasını söyler?",
+   "a": [
+    "Yaşlı bir kadın olarak yatağında ölmesini",
+    "Dünyayı gezip resim yapmasını",
+    "Cal'den intikam almasını",
+    "Santa Monica'da yaşamasını"
+   ],
+   "tf": false,
+   "oops": "Jack'in dileği bu değildi, biraz daha dikkatli izle!",
+   "src": "https://movies.fandom.com/wiki/Titanic_(1997)/Transcript",
+   "k": 100004,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Titanik, 3D'ye çevrilerek hangi yıl sinemalarda yeniden gösterildi?",
+   "a": [
+    "2012",
+    "2009",
+    "2015",
+    "2005"
+   ],
+   "tf": false,
+   "oops": "Gemi yeniden yüzdü ama tarih tutmadı!",
+   "src": "https://www.slantmagazine.com/film/titanic-3d/",
+   "k": 100005,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Jack, Rose'un portresini hangi malzemeyle çizer?",
+   "a": [
+    "Kömür",
+    "Suluboya",
+    "Yağlı boya",
+    "Tükenmez kalem"
+   ],
+   "tf": false,
+   "oops": "Jack'in parmakları kömür gibi kararırken sen yanlış fırçayı seçtin!",
+   "src": "https://www.cbr.com/titanic-james-cameron-did-charcoal-drawings-not-leo-dicaprio/",
+   "k": 100006,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Bruce Ismay'i hangi oyuncu canlandırır?",
+   "a": [
+    "Jonathan Hyde",
+    "Victor Garber",
+    "Bernard Hill",
+    "David Warner"
+   ],
+   "tf": false,
+   "oops": "Ismay bu cevaba kesinlikle kaşlarını çatardı!",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100007,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Cal'in uşağı Spicer Lovejoy'u hangi oyuncu canlandırır?",
+   "a": [
+    "David Warner",
+    "Jonathan Hyde",
+    "Bernard Hill",
+    "Bill Paxton"
+   ],
+   "tf": false,
+   "oops": "Lovejoy tuzağı kurdu, sen de içine düştün!",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100008,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Gloria Stuart, yaşlı Rose rolüyle Oscar'da hangi dalda aday gösterildi?",
+   "a": [
+    "En İyi Yardımcı Kadın Oyuncu",
+    "En İyi Kadın Oyuncu",
+    "En İyi Kostüm",
+    "En İyi Makyaj"
+   ],
+   "tf": false,
+   "oops": "Yaşlı Rose'un adaylığı yanlış kategoriye kaymış!",
+   "src": "https://en.wikipedia.org/wiki/70th_Academy_Awards",
+   "k": 100009,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

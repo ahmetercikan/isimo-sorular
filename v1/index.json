@@ -1,0 +1,26 @@
+{
+ "nextKey": 100010,
+ "counts": {
+  "titanik": 10
+ },
+ "lastAt": {
+  "titanik": "2026-11-16"
+ },
+ "history": [
+  {
+   "at": "2026-11-16T14:53:56.471Z",
+   "id": "titanik",
+   "added": 10,
+   "rejected": 2,
+   "ok": true
+  }
+ ],
+ "updated": "2026-11-16T14:56:27.073Z",
+ "last": {
+  "at": "2026-11-16T14:53:56.471Z",
+  "id": "titanik",
+  "added": 10,
+  "rejected": 2,
+  "ok": true
+ }
+}
