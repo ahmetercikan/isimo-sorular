@@ -1,0 +1,452 @@
+{
+ "id": "buzdevri",
+ "questions": [
+  {
+   "d": 1,
+   "q": "İlk Buz Devri filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2002",
+    "2004",
+    "1999",
+    "2006"
+   ],
+   "tf": false,
+   "oops": "Buzlar bile bu cevaba göre daha hızlı eriyor!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100463,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Buz Devri 3'ün Türkçe alt başlığı nedir?",
+   "a": [
+    "Dinozorların Şafağı",
+    "Erime Başlıyor",
+    "Kıtalar Ayrılıyor",
+    "Büyük Çarpışma"
+   ],
+   "tf": false,
+   "oops": "Dinozorlar bile bu cevaba kafa sallar!",
+   "src": "https://tr.wikipedia.org/wiki/Buz_Devri_(seri)",
+   "k": 100464,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Ellie hangi filmde ilk kez karşımıza çıkar?",
+   "a": [
+    "Buz Devri 2",
+    "Buz Devri 1",
+    "Buz Devri 3",
+    "Buz Devri 4"
+   ],
+   "tf": false,
+   "oops": "Ellie bu cevaba bir ağaçtan sallanarak güler.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Ice_Age_characters",
+   "k": 100465,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Maceracı gelincik Buck ilk kez hangi filmde görünür?",
+   "a": [
+    "Buz Devri 3",
+    "Buz Devri 2",
+    "Buz Devri 4",
+    "Buz Devri 5"
+   ],
+   "tf": false,
+   "oops": "Buck bu cevaba tek gözüyle bile baktı, beğenmedi.",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs",
+   "k": 100466,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Shira ilk kez hangi filmde sürünün yoluna çıkar?",
+   "a": [
+    "Buz Devri 4",
+    "Buz Devri 3",
+    "Buz Devri 2",
+    "Buz Devri 5"
+   ],
+   "tf": false,
+   "oops": "Shira bu cevaba pençesini kaldırdı!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift",
+   "k": 100467,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Buz Devri serisinde 2002 ile 2016 arasında toplam beş film çıkmıştır.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Sayıyı karıştırdın, buzlar da şaşırdı!",
+   "src": "https://tr.wikipedia.org/wiki/Buz_Devri_(seri)",
+   "k": 100468,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Ellie aslında hangi hayvandır?",
+   "a": [
+    "Mamut",
+    "Fil",
+    "Gergedan",
+    "Tembel hayvan"
+   ],
+   "tf": false,
+   "oops": "Ellie bunu duysa ağaçtan baş aşağı düşerdi!",
+   "src": "https://en.wikipedia.org/wiki/List_of_Ice_Age_characters",
+   "k": 100469,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Scrat filmlerde insanlar gibi akıcı cümlelerle konuşur.",
+   "a": [
+    "Yanlış",
+    "Doğru"
+   ],
+   "tf": true,
+   "oops": "Scrat sadece çığlık atar, sen de ona yetiştin!",
+   "src": "https://en.wikipedia.org/wiki/Chris_Wedge",
+   "k": 100470,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Buz Devri 4'ün Türkçe alt başlığı nedir?",
+   "a": [
+    "Kıtalar Ayrılıyor",
+    "Büyük Çarpışma",
+    "Erime Başlıyor",
+    "Dinozorların Şafağı"
+   ],
+   "tf": false,
+   "oops": "Kıtalar ayrıldı, cevabın da yanından geçti!",
+   "src": "https://tr.wikipedia.org/wiki/Buz_Devri_(seri)",
+   "k": 100471,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri 5'in Türkçe alt başlığı nedir?",
+   "a": [
+    "Büyük Çarpışma",
+    "Kıtalar Ayrılıyor",
+    "Erime Başlıyor",
+    "Dinozorların Şafağı"
+   ],
+   "tf": false,
+   "oops": "Çarpıştın ama yanlış cevaba!",
+   "src": "https://tr.wikipedia.org/wiki/Buz_Devri_(seri)",
+   "k": 100472,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri 3 hangi yıl vizyona girdi?",
+   "a": [
+    "2009",
+    "2006",
+    "2012",
+    "2011"
+   ],
+   "tf": false,
+   "oops": "Zaman makinesi gerekebilir sana!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs",
+   "k": 100473,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri 4 hangi yıl vizyona girdi?",
+   "a": [
+    "2012",
+    "2009",
+    "2014",
+    "2016"
+   ],
+   "tf": false,
+   "oops": "Kıtalar kadar uzak bir tahmin!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift",
+   "k": 100474,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri 5 hangi yıl vizyona girdi?",
+   "a": [
+    "2016",
+    "2012",
+    "2018",
+    "2015"
+   ],
+   "tf": false,
+   "oops": "Göktaşı bile bu tahminden daha isabetli düşer!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
+   "k": 100475,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk Buz Devri filmi hangi ödüle aday gösterildi?",
+   "a": [
+    "Oscar En İyi Animasyon Filmi",
+    "Oscar En İyi Yönetmen",
+    "Oscar En İyi Film",
+    "Cannes Altın Palmiye"
+   ],
+   "tf": false,
+   "oops": "Bu cevap ödüle değil, ancak buzluğa aday!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100476,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde Manny ile arkadaşlarının ailesine götürmeye çalıştığı bebeğin adı nedir?",
+   "a": [
+    "Roshan",
+    "Zoran",
+    "Kabir",
+    "Rafi"
+   ],
+   "tf": false,
+   "oops": "Bebek bile adını senden iyi biliyor!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100477,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri filmlerini hangi büyük şirket dağıttı?",
+   "a": [
+    "20th Century Fox",
+    "Pixar",
+    "DreamWorks",
+    "Warner Bros."
+   ],
+   "tf": false,
+   "oops": "Bu cevap sinemaya değil, buzluğa gider!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift",
+   "k": 100478,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Buz Devri 4'te Scrat'in ulaştığı efsanevi ada şehrin adı nedir?",
+   "a": [
+    "Scratlantis",
+    "Scratopia",
+    "Acornia",
+    "Scratville"
+   ],
+   "tf": false,
+   "oops": "Scrat palamutla birlikte bu cevabı da kaybetti!",
+   "src": "https://en.wikipedia.org/wiki/Scratlantis",
+   "k": 100479,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Manny'yi orijinal dilde kim seslendirir?",
+   "a": [
+    "Ray Romano",
+    "Kevin James",
+    "Adam Sandler",
+    "Jim Carrey"
+   ],
+   "tf": false,
+   "oops": "Mamut bile bu cevaba hortumunu sallar!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100480,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Sid'i orijinal dilde kim seslendirir?",
+   "a": [
+    "John Leguizamo",
+    "Gael García Bernal",
+    "Steve Carell",
+    "Jim Carrey"
+   ],
+   "tf": false,
+   "oops": "Sid olsa pelteklikle itiraz ederdi!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100481,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Diego'yu orijinal dilde kim seslendirir?",
+   "a": [
+    "Denis Leary",
+    "Bruce Willis",
+    "Ben Affleck",
+    "Vin Diesel"
+   ],
+   "tf": false,
+   "oops": "Diego bu cevaba hırlayarak karşılık verir!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100482,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Ellie'yi orijinal dilde hangi ünlü isim seslendirir?",
+   "a": [
+    "Queen Latifah",
+    "Jennifer Hudson",
+    "Beyoncé",
+    "Mary J. Blige"
+   ],
+   "tf": false,
+   "oops": "Ellie bu cevaba opossum gibi baş aşağı kaldı!",
+   "src": "https://en.wikipedia.org/wiki/List_of_Ice_Age_characters",
+   "k": 100483,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 4'ü yöneten isimlerden biri kimdir?",
+   "a": [
+    "Steve Martino",
+    "Chris Wedge",
+    "Carlos Saldanha",
+    "Tim Johnson"
+   ],
+   "tf": false,
+   "oops": "Kıtalar ayrıldı, sen de yönetmenden ayrıldın!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift",
+   "k": 100484,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 5'i yöneten isim kimdir?",
+   "a": [
+    "Mike Thurmeier",
+    "Chris Wedge",
+    "Carlos Saldanha",
+    "Tim Johnson"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu bu cevaba çarpıp düştü!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
+   "k": 100485,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Scrat'i orijinal dilde kim seslendirir?",
+   "a": [
+    "Chris Wedge",
+    "Ray Romano",
+    "Simon Pegg",
+    "Denis Leary"
+   ],
+   "tf": false,
+   "oops": "Scrat bu cevaba palamutunu fırlatırdı!",
+   "src": "https://en.wikipedia.org/wiki/Chris_Wedge",
+   "k": 100486,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 3'te Scratte'yi orijinal dilde kim seslendirir?",
+   "a": [
+    "Karen Disher",
+    "Kristen Wiig",
+    "Tina Fey",
+    "Sarah Silverman"
+   ],
+   "tf": false,
+   "oops": "Scratte bu cevaba havada süzülerek uzaklaştı!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs",
+   "k": 100487,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde kaplan Zeke'i orijinal dilde hangi oyuncu seslendirir?",
+   "a": [
+    "Jack Black",
+    "Seth Rogen",
+    "Will Ferrell",
+    "Owen Wilson"
+   ],
+   "tf": false,
+   "oops": "Zeke bu cevaba sinsice sırıttı!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100488,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "İlk filmde kaplan sürüsünün lideri Soto'yu orijinal dilde kim seslendirir?",
+   "a": [
+    "Goran Višnjić",
+    "Antonio Banderas",
+    "Javier Bardem",
+    "Liev Schreiber"
+   ],
+   "tf": false,
+   "oops": "Soto bu cevaba buz sarkıtı gibi dondu!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+   "k": 100489,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 2'de Crash'i orijinal dilde hangi oyuncu seslendirir?",
+   "a": [
+    "Seann William Scott",
+    "Ben Stiller",
+    "Adam Sandler",
+    "Owen Wilson"
+   ],
+   "tf": false,
+   "oops": "Crash bu cevaba ölü taklidi yaptı!",
+   "src": "https://simple.wikipedia.org/wiki/Ice_Age:_The_Meltdown",
+   "k": 100490,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 5'te Brooke'u orijinal dilde hangi şarkıcı seslendirir?",
+   "a": [
+    "Jessie J",
+    "Katy Perry",
+    "Adele",
+    "Rihanna"
+   ],
+   "tf": false,
+   "oops": "Sid bu cevaba kalbi kırık baktı!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
+   "k": 100491,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Buz Devri 5'te uçan dinozorların lideri Gavin'i orijinal dilde kim seslendirir?",
+   "a": [
+    "Nick Offerman",
+    "Bryan Cranston",
+    "Steve Buscemi",
+    "J.K. Simmons"
+   ],
+   "tf": false,
+   "oops": "Gavin bu cevabı havadan fark etti!",
+   "src": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
+   "k": 100492,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

@@ -1,5 +1,5 @@
 {
- "nextKey": 100463,
+ "nextKey": 100493,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -17,7 +17,8 @@
   "oyuncakhikayesi": 30,
   "tersyuz": 30,
   "shrek": 30,
-  "nemo": 30
+  "nemo": 30,
+  "buzdevri": 30
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -36,9 +37,17 @@
   "oyuncakhikayesi": "2026-11-16",
   "tersyuz": "2026-11-16",
   "shrek": "2026-11-16",
-  "nemo": "2026-11-16"
+  "nemo": "2026-11-16",
+  "buzdevri": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T16:51:36.914Z",
+   "id": "buzdevri",
+   "added": 30,
+   "rejected": 3,
+   "ok": true
+  },
   {
    "at": "2026-11-16T16:45:44.565Z",
    "id": "nemo",
@@ -166,12 +175,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T16:51:32.610Z",
+ "updated": "2026-11-16T16:55:46.161Z",
  "last": {
-  "at": "2026-11-16T16:45:44.565Z",
-  "id": "nemo",
+  "at": "2026-11-16T16:51:36.914Z",
+  "id": "buzdevri",
   "added": 30,
-  "rejected": 2,
+  "rejected": 3,
   "ok": true
  }
 }
