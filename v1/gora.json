@@ -1,0 +1,105 @@
+{
+ "id": "gora",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Arif Işık hangi ülkenin vatandaşıdır?",
+   "a": [
+    "Türkiye",
+    "Azerbaycan",
+    "Almanya",
+    "Kıbrıs"
+   ],
+   "tf": false,
+   "oops": "Arif bile bunu bilir, halı pazarlığı gibi düşün!",
+   "src": "https://tr.wikipedia.org/wiki/Komutan_logar",
+   "k": 100261,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "G.O.R.A. bir Türk yapımıdır.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Goralılar bile Türkçe konuşuyor, dikkat!",
+   "src": "https://bkmonline.net/tr/filmler/gora",
+   "k": 100262,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Filmde Arif'in dostu Robot 216 gerçekten bir robottur.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "216 şimdi alınır, vidaları gevşedi!",
+   "src": "https://gora.fandom.com/tr/wiki/G.O.R.A.",
+   "k": 100263,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 2,
+   "q": "Cem Yılmaz, G.O.R.A.'dan önce en çok hangi alanda tanınıyordu?",
+   "a": [
+    "Stand-up gösterileri",
+    "Futbol yorumculuğu",
+    "Haber sunuculuğu",
+    "Şarkıcılık"
+   ],
+   "tf": false,
+   "oops": "Bu soruda gülmek yetmedi, bilmek de lazımdı!",
+   "src": "https://tr.wikipedia.org/wiki/Komutan_logar",
+   "k": 100264,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ömer Faruk Sorak, G.O.R.A.'dan önce hangi filmin yönetmenliğini Yılmaz Erdoğan'la paylaştı?",
+   "a": [
+    "Vizontele",
+    "Organize İşler",
+    "Babam ve Oğlum",
+    "Eşkıya"
+   ],
+   "tf": false,
+   "oops": "Bu soruda sinyal zayıf, Vizontele de çekmedi.",
+   "src": "https://tr.wikipedia.org/wiki/Vizontele_(film)",
+   "k": 100265,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Ömer Faruk Sorak, G.O.R.A.'dan sonra Cem Yılmaz'ın senaryosunu yazdığı hangi filmi yönetti?",
+   "a": [
+    "Yahşi Batı",
+    "Hokkabaz",
+    "Tolga",
+    "Ali'nin Sırrı"
+   ],
+   "tf": false,
+   "oops": "Bu soruda biraz Vahşi Batı çıktı galiba.",
+   "src": "https://en.wikipedia.org/wiki/Yah%C5%9Fi_Bat%C4%B1",
+   "k": 100266,
+   "added": "2026-11-16"
+  },
+  {
+   "d": 3,
+   "q": "Doğru mu? G.O.R.A., 2004 yılının en çok izlenen filmleri arasında ilk sırada yer aldı.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Gişede Gora'dan kaçış yok!",
+   "src": "https://www.boxofficemojo.com/year/2004/?area=TR&ref_=bo_yl_table_5",
+   "k": 100267,
+   "added": "2026-11-16"
+  }
+ ],
+ "updated": "2026-11-16"
+}

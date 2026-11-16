@@ -1,5 +1,5 @@
 {
- "nextKey": 100261,
+ "nextKey": 100268,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -9,7 +9,8 @@
   "yenilmezler": 30,
   "matrix": 30,
   "karayipkorsanlari": 30,
-  "hababam": 21
+  "hababam": 21,
+  "gora": 7
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -20,9 +21,17 @@
   "yenilmezler": "2026-11-16",
   "matrix": "2026-11-16",
   "karayipkorsanlari": "2026-11-16",
-  "hababam": "2026-11-16"
+  "hababam": "2026-11-16",
+  "gora": "2026-11-16"
  },
  "history": [
+  {
+   "at": "2026-11-16T15:59:52.190Z",
+   "id": "gora",
+   "added": 7,
+   "rejected": 12,
+   "ok": true
+  },
   {
    "at": "2026-11-16T15:50:01.673Z",
    "id": "hababam",
@@ -94,12 +103,12 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T15:59:47.809Z",
+ "updated": "2026-11-16T16:05:50.048Z",
  "last": {
-  "at": "2026-11-16T15:50:01.673Z",
-  "id": "hababam",
-  "added": 21,
-  "rejected": 13,
+  "at": "2026-11-16T15:59:52.190Z",
+  "id": "gora",
+  "added": 7,
+  "rejected": 12,
   "ok": true
  }
 }
