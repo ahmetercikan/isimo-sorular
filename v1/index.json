@@ -1,5 +1,5 @@
 {
- "nextKey": 100493,
+ "nextKey": 100503,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -18,7 +18,8 @@
   "tersyuz": 30,
   "shrek": 30,
   "nemo": 30,
-  "buzdevri": 30
+  "buzdevri": 30,
+  "sonic": 10
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -38,9 +39,17 @@
   "tersyuz": "2026-11-16",
   "shrek": "2026-11-16",
   "nemo": "2026-11-16",
-  "buzdevri": "2026-11-16"
+  "buzdevri": "2026-11-16",
+  "sonic": "2026-11-17"
  },
  "history": [
+  {
+   "at": "2026-11-17T01:23:05.510Z",
+   "id": "sonic",
+   "added": 10,
+   "rejected": 1,
+   "ok": true
+  },
   {
    "at": "2026-11-16T17:01:26.054Z",
    "id": "ezel",
@@ -203,12 +212,13 @@
    "ok": true
   }
  ],
- "updated": "2026-11-16T17:01:27.146Z",
+ "updated": "2026-11-17T01:26:05.999Z",
  "last": {
-  "at": "2026-11-16T17:01:26.054Z",
-  "id": "ezel",
-  "added": 0,
-  "ok": false,
-  "error": "Claude Code hata: You've hit your 5-hour limit · resets 5:30pm (UTC)"
- }
+  "at": "2026-11-17T01:23:05.510Z",
+  "id": "sonic",
+  "added": 10,
+  "rejected": 1,
+  "ok": true
+ },
+ "lastDaily": "2026-11-17"
 }

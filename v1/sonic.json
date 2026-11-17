@@ -1,0 +1,154 @@
+{
+ "id": "sonic",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Kirpi Sonic filmleri nasıl bir yapım türündedir?",
+   "a": [
+    "Gerçek oyuncular ve bilgisayar animasyonu bir arada",
+    "Tamamen çizgi film",
+    "Tamamen kukla animasyonu",
+    "Sadece gerçek oyuncularla çekilmiş"
+   ],
+   "tf": false,
+   "oops": "Sonic yanlış cevabı görünce bile hızla uzaklaştı!",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(film)",
+   "k": 100493,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 1,
+   "q": "Sonic'in ayakkabıları hangi renktir?",
+   "a": [
+    "Kırmızı",
+    "Yeşil",
+    "Sarı",
+    "Mor"
+   ],
+   "tf": false,
+   "oops": "Sonic ayakkabılarına bakıp hayal kırıklığına uğradı.",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)",
+   "k": 100494,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 1,
+   "q": "Tails'in tüyleri hangi renge çalar?",
+   "a": [
+    "Turuncu",
+    "Pembe",
+    "Gri",
+    "Mavi"
+   ],
+   "tf": false,
+   "oops": "Tails kuyruklarını sallayıp 'olmadı' dedi.",
+   "src": "https://greatcharacters.miraheze.org/wiki/Miles_%22Tails%22_Prower_(Sonic_Cinematic_Universe)",
+   "k": 100495,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 2,
+   "q": "Sonic'in elleri hangi renk eldivenlerle kaplıdır?",
+   "a": [
+    "Beyaz",
+    "Siyah",
+    "Kırmızı",
+    "Mavi"
+   ],
+   "tf": false,
+   "oops": "Eldivenler bile bu cevaba kırgın.",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)",
+   "k": 100496,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 2,
+   "q": "Shadow'un siyah tüylerindeki çizgiler hangi renktir?",
+   "a": [
+    "Kırmızı",
+    "Mavi",
+    "Sarı",
+    "Yeşil"
+   ],
+   "tf": false,
+   "oops": "Shadow'un çizgileri bile kızardı!",
+   "src": "https://en.wikipedia.org/wiki/Shadow_the_Hedgehog",
+   "k": 100497,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmin ilk fragmanına gelen tepkiler üzerine Sonic'in tasarımı baştan yapıldı.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Bu soru da tasarım değişikliği istiyor!",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(film)",
+   "k": 100498,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 3,
+   "q": "İlk Kirpi Sonic filmi ABD'de hangi ayda vizyona girdi?",
+   "a": [
+    "Şubat",
+    "Temmuz",
+    "Eylül",
+    "Aralık"
+   ],
+   "tf": false,
+   "oops": "Takvim bile Sonic'ten yavaş kaldı.",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(film)",
+   "k": 100499,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 3,
+   "q": "Kirpi Sonic 2 ABD'de hangi ayda vizyona girdi?",
+   "a": [
+    "Nisan",
+    "Ağustos",
+    "Ekim",
+    "Ocak"
+   ],
+   "tf": false,
+   "oops": "Bu cevap için bahar henüz gelmemiş!",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(film)",
+   "k": 100500,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 3,
+   "q": "Kirpi Sonic 3 ABD'de hangi ayda vizyona girdi?",
+   "a": [
+    "Aralık",
+    "Mayıs",
+    "Haziran",
+    "Ekim"
+   ],
+   "tf": false,
+   "oops": "Yılbaşı hediyesi olarak başka cevap bekliyorduk.",
+   "src": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)",
+   "k": 100501,
+   "added": "2026-11-17"
+  },
+  {
+   "d": 1,
+   "q": "Sonic 3'teki Shadow hangi hayvandır?",
+   "a": [
+    "Kirpi",
+    "Tilki",
+    "Ekidna",
+    "Baykuş"
+   ],
+   "tf": false,
+   "oops": "Shadow gölgelerin arasından başını iki yana salladı.",
+   "src": "https://en.wikipedia.org/wiki/Shadow_the_Hedgehog",
+   "k": 100502,
+   "added": "2026-11-17"
+  }
+ ],
+ "updated": "2026-11-17"
+}
