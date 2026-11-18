@@ -1,0 +1,156 @@
+{
+ "id": "bluey",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Dizide Bluey kaç yaşındadır?",
+   "a": [
+    "Altı",
+    "Dört",
+    "Sekiz",
+    "On"
+   ],
+   "tf": false,
+   "oops": "Parmaklarını say, sonra bir daha dene!",
+   "src": "https://thefederalist.com/2021/07/07/5-quirky-parenting-lessons-and-2-to-ignore-from-the-hit-animated-series-bluey/",
+   "k": 100503,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 1,
+   "q": "Dizide küçük kardeş Bingo kaç yaşındadır?",
+   "a": [
+    "Dört",
+    "İki",
+    "Yedi",
+    "Dokuz"
+   ],
+   "tf": false,
+   "oops": "Bingo bu cevaba biraz alınmış olabilir.",
+   "src": "https://thefederalist.com/2021/07/07/5-quirky-parenting-lessons-and-2-to-ignore-from-the-hit-animated-series-bluey/",
+   "k": 100504,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 1,
+   "q": "Bluey bölümleri yaklaşık kaç dakika sürer?",
+   "a": [
+    "Yedi",
+    "Yirmi",
+    "Kırk beş",
+    "Yetmiş"
+   ],
+   "tf": false,
+   "oops": "Bu kadar uzun olsa çocuklar uyuyakalırdı!",
+   "src": "https://televisionheaven.co.uk/reviews/bluey",
+   "k": 100505,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 2,
+   "q": "Bluey'nin arkadaşı Indy hangi cins köpektir?",
+   "a": [
+    "Afgan Tazısı",
+    "Greyhound",
+    "Borzoi",
+    "Whippet"
+   ],
+   "tf": false,
+   "oops": "Indy'nin uzun tüyleri sana kafa karıştırmış olabilir.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Bluey_characters",
+   "k": 100506,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 2,
+   "q": "Bluey'nin arkadaşı Mackenzie hangi cins köpektir?",
+   "a": [
+    "Border Collie",
+    "Cocker Spaniel",
+    "Greyhound",
+    "Corgi"
+   ],
+   "tf": false,
+   "oops": "Mackenzie çoban köpeği gibi seni de toplayıp yola getirsin.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Bluey_characters",
+   "k": 100507,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 2,
+   "q": "Bandit'in babası, yani Bluey'nin baba tarafından dedesinin adı nedir?",
+   "a": [
+    "Bob",
+    "Frank",
+    "Walter",
+    "Kevin"
+   ],
+   "tf": false,
+   "oops": "Dede adını unuttun, Nana kızabilir!",
+   "src": "https://en.wikipedia.org/wiki/Bandit_Heeler",
+   "k": 100508,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 2,
+   "q": "Bluey, Avustralya'da hangi kanalda yayınlanır?",
+   "a": [
+    "ABC Kids",
+    "Seven Network",
+    "Nine Network",
+    "Network Ten"
+   ],
+   "tf": false,
+   "oops": "Kanal değiştirdin ama yanlış kanala geldin!",
+   "src": "https://en.wikipedia.org/wiki/Bluey_(TV_series)",
+   "k": 100509,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 3,
+   "q": "Bluey'nin birinci sezonu kaç bölümden oluşur?",
+   "a": [
+    "52",
+    "26",
+    "39",
+    "13"
+   ],
+   "tf": false,
+   "oops": "Bir yıldaki hafta sayısını düşünsen bulurdun!",
+   "src": "https://www.wikidata.org/wiki/Q110249583",
+   "k": 100510,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal dizide Bandit'i seslendiren isim kimdir?",
+   "a": [
+    "Dave McCormack",
+    "Hugh Jackman",
+    "Chris Hemsworth",
+    "Eric Bana"
+   ],
+   "tf": false,
+   "oops": "Hollywood yıldızı sandın ama Bandit daha yerel!",
+   "src": "https://en.wikipedia.org/wiki/Bandit_Heeler",
+   "k": 100511,
+   "added": "2026-11-18"
+  },
+  {
+   "d": 3,
+   "q": "Orijinal dizide Chilli'yi seslendiren oyuncu kimdir?",
+   "a": [
+    "Melanie Zanetti",
+    "Nicole Kidman",
+    "Cate Blanchett",
+    "Margot Robbie"
+   ],
+   "tf": false,
+   "oops": "Chilli sinema yıldızı değil, ama sesi çok sevildi!",
+   "src": "https://en.wikipedia.org/wiki/Melanie_Zanetti",
+   "k": 100512,
+   "added": "2026-11-18"
+  }
+ ],
+ "updated": "2026-11-18"
+}
