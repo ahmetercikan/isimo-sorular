@@ -1,0 +1,66 @@
+{
+ "id": "leylailemecnun",
+ "questions": [
+  {
+   "d": 3,
+   "q": "Dizinin geçtiği Kireçburnu, gerçekte İstanbul'un hangi ilçesine bağlıdır?",
+   "a": [
+    "Sarıyer",
+    "Kadıköy",
+    "Üsküdar",
+    "Beşiktaş"
+   ],
+   "tf": false,
+   "oops": "Kireçburnu'nu haritada aramaya devam et, orada bir yerde!",
+   "src": "https://tr.wikipedia.org/wiki/Kire%C3%A7burnu",
+   "k": 100513,
+   "added": "2026-11-19"
+  },
+  {
+   "d": 2,
+   "q": "Karşılıklı konuk bölümlerde Kireçburnu'na gelen Behzat Ç. karakterini hangi oyuncu canlandırır?",
+   "a": [
+    "Erdal Beşikçioğlu",
+    "Ali Atay",
+    "Serkan Keskin",
+    "Cengiz Bozkurt"
+   ],
+   "tf": false,
+   "oops": "Bu soruda cevabı kelepçeyle yakalayamadın.",
+   "src": "https://tr.wikipedia.org/wiki/Leyla_ile_Mecnun_b%C3%B6l%C3%BCmleri_listesi",
+   "k": 100514,
+   "added": "2026-11-19"
+  },
+  {
+   "d": 1,
+   "q": "Dizinin adına ilham veren, aynı adlı ünlü mesnevinin şairi kimdir?",
+   "a": [
+    "Fuzuli",
+    "Yunus Emre",
+    "Nedim",
+    "Baki"
+   ],
+   "tf": false,
+   "oops": "Mecnun bile bu şairi bilir, çöllere boşuna düşmedi!",
+   "src": "https://tr.wikipedia.org/wiki/Leyl%C3%A2_ile_Mecnun_(Fuz%C3%BBl%C3%AE)",
+   "k": 100515,
+   "added": "2026-11-19"
+  },
+  {
+   "d": 3,
+   "q": "Dizinin yönetmenlerinden Onur Ünlü, aşağıdaki filmlerden hangisinin yönetmenidir?",
+   "a": [
+    "Sen Aydınlatırsın Geceyi",
+    "Çoğunluk",
+    "Av Mevsimi",
+    "Bir Zamanlar Anadolu'da"
+   ],
+   "tf": false,
+   "oops": "Ak Sakallı Dede bile bu filmi rüyasında görmüştü!",
+   "src": "https://tr.wikipedia.org/wiki/Sen_Ayd%C4%B1nlat%C4%B1rs%C4%B1n_Geceyi",
+   "k": 100516,
+   "added": "2026-11-19"
+  }
+ ],
+ "updated": "2026-11-19"
+}
