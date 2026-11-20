@@ -1,0 +1,156 @@
+{
+ "id": "ezel",
+ "questions": [
+  {
+   "d": 1,
+   "q": "Ezel dizisi hangi yılda yayına başladı?",
+   "a": [
+    "2009",
+    "2007",
+    "2011",
+    "2013"
+   ],
+   "tf": false,
+   "oops": "Ömer 8 yıl yattı ama sen yılı şaşırdın!",
+   "src": "https://tr.wikipedia.org/wiki/Ezel_(dizi)",
+   "k": 100517,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 1,
+   "q": "Ezel dizisi hangi yılda sona erdi?",
+   "a": [
+    "2011",
+    "2009",
+    "2013",
+    "2015"
+   ],
+   "tf": false,
+   "oops": "Final tarihini kaçırdın, Ezel'in planı bile daha iyiydi.",
+   "src": "https://tr.wikipedia.org/wiki/Ezel_(dizi)",
+   "k": 100518,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 1,
+   "q": "Ömer, Ramiz Dayı ile nerede tanışır?",
+   "a": [
+    "Cezaevinde",
+    "Askerde",
+    "Kumarhanede",
+    "Manavda"
+   ],
+   "tf": false,
+   "oops": "Ramiz Dayı'yı yanlış yerde aradın, o içerideydi!",
+   "src": "https://en.wikipedia.org/wiki/Ezel_(TV_series)",
+   "k": 100519,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 2,
+   "q": "Ezel dizisinin yapımcısı kimdir?",
+   "a": [
+    "Kerem Çatay",
+    "Osman Sınav",
+    "Gülseren Buda",
+    "Faruk Turgut"
+   ],
+   "tf": false,
+   "oops": "Yapımcıyı bilemedin, kamera arkasında kalmış gibisin.",
+   "src": "https://tr.wikipedia.org/wiki/Ezel_(dizi)",
+   "k": 100520,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 1,
+   "q": "Dizide Ramiz Dayı nasıl bir karakterdir?",
+   "a": [
+    "Mafya lideri",
+    "Okul müdürü",
+    "Doktor",
+    "Gazeteci"
+   ],
+   "tf": false,
+   "oops": "Ramiz Dayı'ya 'öğretmenim' dersen pek hoşlanmaz.",
+   "src": "https://en.wikipedia.org/wiki/Ezel_(TV_series)",
+   "k": 100521,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 1,
+   "q": "Ezel hangi türde bir dizidir?",
+   "a": [
+    "Aksiyon-dram",
+    "Romantik komedi",
+    "Tarihî macera",
+    "Bilim kurgu"
+   ],
+   "tf": false,
+   "oops": "Ezel'de gülmekten çok intikam planı yapılıyor, tür ona göre!",
+   "src": "https://tr.wikipedia.org/wiki/Ezel_(dizi)",
+   "k": 100522,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 1,
+   "q": "Ezel'in esinlendiği Monte Kristo Kontu romanını kim yazmıştır?",
+   "a": [
+    "Alexandre Dumas",
+    "Victor Hugo",
+    "Charles Dickens",
+    "Honoré de Balzac"
+   ],
+   "tf": false,
+   "oops": "Kontun intikamı da senin cevabın da biraz yanlış yola sapmış.",
+   "src": "https://en.wikipedia.org/wiki/Ezel_(TV_series)",
+   "k": 100523,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 2,
+   "q": "Kenan Birkan'ı canlandıran Haluk Bilginer hangi şehirde doğmuştur?",
+   "a": [
+    "İzmir",
+    "Ankara",
+    "Bursa",
+    "Adana"
+   ],
+   "tf": false,
+   "oops": "Haluk Bilginer'in memleketi burası değil, tekrar dene!",
+   "src": "https://en.wikipedia.org/wiki/Haluk_Bilginer",
+   "k": 100524,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 3,
+   "q": "Ezel'in yapımcı şirketi Ay Yapım, aşağıdaki hangi diziyi de yapmıştır?",
+   "a": [
+    "Aşk-ı Memnu",
+    "Kurtlar Vadisi",
+    "Behzat Ç.",
+    "Muhteşem Yüzyıl"
+   ],
+   "tf": false,
+   "oops": "Yapım şirketini şaşırdın, yönetmen koltuğundan kalktın!",
+   "src": "https://en.wikipedia.org/wiki/Category:Television_series_by_Ay_Yap%C4%B1m",
+   "k": 100525,
+   "added": "2026-11-20"
+  },
+  {
+   "d": 3,
+   "q": "Ramiz Dayı'yı canlandıran Tuncel Kurtiz hangi yılda hayatını kaybetmiştir?",
+   "a": [
+    "2013",
+    "2011",
+    "2015",
+    "2010"
+   ],
+   "tf": false,
+   "oops": "Yıl yanlış çıktı; Ramiz Dayı bir şiir okuyup geçiştirirdi.",
+   "src": "https://en.wikipedia.org/wiki/Tuncel_Kurtiz",
+   "k": 100526,
+   "added": "2026-11-20"
+  }
+ ],
+ "updated": "2026-11-20"
+}

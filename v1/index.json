@@ -1,5 +1,5 @@
 {
- "nextKey": 100517,
+ "nextKey": 100527,
  "counts": {
   "titanik": 30,
   "harrypotter": 30,
@@ -21,7 +21,8 @@
   "buzdevri": 30,
   "sonic": 10,
   "bluey": 10,
-  "leylailemecnun": 4
+  "leylailemecnun": 4,
+  "ezel": 10
  },
  "lastAt": {
   "titanik": "2026-11-16",
@@ -44,9 +45,17 @@
   "buzdevri": "2026-11-16",
   "sonic": "2026-11-17",
   "bluey": "2026-11-18",
-  "leylailemecnun": "2026-11-19"
+  "leylailemecnun": "2026-11-19",
+  "ezel": "2026-11-20"
  },
  "history": [
+  {
+   "at": "2026-11-20T01:19:27.833Z",
+   "id": "ezel",
+   "added": 10,
+   "rejected": 6,
+   "ok": true
+  },
   {
    "at": "2026-11-19T01:17:46.428Z",
    "id": "leylailemecnun",
@@ -230,13 +239,13 @@
    "ok": true
   }
  ],
- "updated": "2026-11-19T01:22:30.082Z",
+ "updated": "2026-11-20T01:23:10.004Z",
  "last": {
-  "at": "2026-11-19T01:17:46.428Z",
-  "id": "leylailemecnun",
-  "added": 4,
+  "at": "2026-11-20T01:19:27.833Z",
+  "id": "ezel",
+  "added": 10,
   "rejected": 6,
   "ok": true
  },
- "lastDaily": "2026-11-19"
+ "lastDaily": "2026-11-20"
 }
