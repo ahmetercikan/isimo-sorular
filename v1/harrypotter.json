@@ -450,7 +450,157 @@
    "src": "https://harrypotter.fandom.com/wiki/Ciar%C3%A1n_Hinds",
    "k": 100039,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Yeniden bedenlenen Voldemort'un yüzünde hangi organ hiç yoktur?",
+   "a": [
+    "Burun",
+    "Kulak",
+    "Dudak",
+    "Göz"
+   ],
+   "tf": false,
+   "oops": "Voldemort'un yüzü kadar boş bir cevap oldu.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+   "k": 100527,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 1,
+   "q": "Harry'nin gözlüğünün camları nasıl şekildedir?",
+   "a": [
+    "Yuvarlak",
+    "Dikdörtgen",
+    "Altıgen",
+    "Yarım ay"
+   ],
+   "tf": false,
+   "oops": "Gözlüğünü tak da bir daha bak!",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Film/HarryPotter",
+   "k": 100528,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 1,
+   "q": "Gryffindor binasının renkleri hangileridir?",
+   "a": [
+    "Kırmızı ve altın",
+    "Yeşil ve gümüş",
+    "Mavi ve bronz",
+    "Sarı ve siyah"
+   ],
+   "tf": false,
+   "oops": "Seçmen Şapka seni yanlış binaya yollamak üzere!",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Film/HarryPotter",
+   "k": 100529,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 2,
+   "q": "Hagrid'in köpeğinin adı nedir?",
+   "a": [
+    "Fang",
+    "Bruno",
+    "Rex",
+    "Max"
+   ],
+   "tf": false,
+   "oops": "Fang bu cevaba çok kırılırdı.",
+   "src": "https://harrypotter.fandom.com/wiki/Fang",
+   "k": 100530,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 2,
+   "q": "Quidditch maçında sahada kaç tane Bludger vardır?",
+   "a": [
+    "İki",
+    "Bir",
+    "Üç",
+    "Dört"
+   ],
+   "tf": false,
+   "oops": "Bludger'lar bunu duysa kafana vururdu.",
+   "src": "https://warnerbros.fandom.com/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)/Transcript",
+   "k": 100531,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 2,
+   "q": "Ateş Kadehi filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2005",
+    "2004",
+    "2006",
+    "2003"
+   ],
+   "tf": false,
+   "oops": "Zaman Döndürücü'yü yanlış tura çevirmişsin.",
+   "src": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+   "k": 100532,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 2,
+   "q": "Remus Lupin'i hangi oyuncu canlandırır?",
+   "a": [
+    "David Thewlis",
+    "Timothy Spall",
+    "Gary Oldman",
+    "Brendan Gleeson"
+   ],
+   "tf": false,
+   "oops": "Dolunay çıktı, bu cevap da kurt adam gibi uludu.",
+   "src": "https://www.thedigitalfix.com/harry-potter/cast",
+   "k": 100533,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 3,
+   "q": "Viktor Krum'u hangi oyuncu canlandırır?",
+   "a": [
+    "Stanislav Ianevski",
+    "Hero Fiennes-Tiffin",
+    "Frank Dillane",
+    "Alfred Enoch"
+   ],
+   "tf": false,
+   "oops": "Krum bile bu cevabı yakalayamazdı.",
+   "src": "https://www.boxofficemojo.com/article/ed1685390340",
+   "k": 100534,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 3,
+   "q": "Rita Skeeter'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Miranda Richardson",
+    "Emma Thompson",
+    "Imelda Staunton",
+    "Gemma Jones"
+   ],
+   "tf": false,
+   "oops": "Bu cevap Hızlı Alıntı Tüy Kalemi'nin bile hoşuna gitmedi.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Miranda_Richardson_performances",
+   "k": 100535,
+   "added": "2026-11-21"
+  },
+  {
+   "d": 3,
+   "q": "Narcissa Malfoy'u hangi oyuncu canlandırır?",
+   "a": [
+    "Helen McCrory",
+    "Fiona Shaw",
+    "Julie Walters",
+    "Miranda Richardson"
+   ],
+   "tf": false,
+   "oops": "Narcissa bu cevaba kaşını kaldırırdı.",
+   "src": "https://www.cinema.com/film/11197/harry-potter-and-the-deathly-hallows-part-i/cast.phtml",
+   "k": 100536,
+   "added": "2026-11-21"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-21"
 }
