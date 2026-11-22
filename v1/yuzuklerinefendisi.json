@@ -450,7 +450,157 @@
    "src": "https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey/cast?language=en-US",
    "k": 100069,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Hobbitlerin yaşadığı huzurlu yeşil diyarın adı nedir?",
+   "a": [
+    "Shire",
+    "Rohan",
+    "Mordor",
+    "Lothlórien"
+   ],
+   "tf": false,
+   "oops": "Hobbitler bu cevabı duysa ikinci kahvaltıya çağırırdı, ama sen yanlış bastın!",
+   "src": "https://en.wikipedia.org/wiki/The_Shire",
+   "k": 100537,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 1,
+   "q": "Yüzük Kardeşliği filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2001",
+    "1999",
+    "2002",
+    "2004"
+   ],
+   "tf": false,
+   "oops": "Yanlış yıl! Zaman yolculuğu için Gandalf'a sormalıydın.",
+   "src": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+   "k": 100538,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 1,
+   "q": "Smaug, Yalnız Dağ'da neyin üzerinde uyur?",
+   "a": [
+    "Altın yığınının",
+    "Kemik yığınının",
+    "Kömür yığınının",
+    "Kar yığınının"
+   ],
+   "tf": false,
+   "oops": "Smaug cevabını duysa yanlışın için bile bir altın isterdi.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+   "k": 100539,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 2,
+   "q": "Hobbit üçlemesinin son filmi Beş Ordunun Savaşı hangi yıl vizyona girdi?",
+   "a": [
+    "2014",
+    "2013",
+    "2015",
+    "2016"
+   ],
+   "tf": false,
+   "oops": "Beş ordu bile bu kadar şaşırmazdı!",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+   "k": 100540,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 2,
+   "q": "Hobbit: Smaug'un Çorak Toprakları hangi yıl vizyona girdi?",
+   "a": [
+    "2013",
+    "2012",
+    "2014",
+    "2011"
+   ],
+   "tf": false,
+   "oops": "Smaug yanlış yılı duyup hafifçe burnundan ateş üfledi.",
+   "src": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+   "k": 100541,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 2,
+   "q": "Solgun ork Azog'u Hobbit filmlerinde hangi oyuncu canlandırır?",
+   "a": [
+    "Manu Bennett",
+    "Lawrence Makoare",
+    "Craig Parker",
+    "Jed Brophy"
+   ],
+   "tf": false,
+   "oops": "Azog bu cevaba bile kaşlarını çatardı.",
+   "src": "https://m.imdb.com/title/tt1170358/characters/nm0071847/",
+   "k": 100542,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 2,
+   "q": "Hüküm Dağı'nın kenarında Frodo, Yüzük'ü ateşe atmak yerine ne söyler?",
+   "a": [
+    "Yüzük benim",
+    "Eve dönelim",
+    "Artık yoruldum",
+    "Sam, sen at"
+   ],
+   "tf": false,
+   "oops": "Kıymetlimizi kaybettin, bir de yanlış cevap verdin!",
+   "src": "https://www.tk421.net/lotr/film/rotk/30.html",
+   "k": 100543,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 3,
+   "q": "Miğfer Dibi'ne yardıma gelen elf komutanı Haldir'i hangi oyuncu canlandırır?",
+   "a": [
+    "Craig Parker",
+    "Marton Csokas",
+    "Hugo Weaving",
+    "Lee Pace"
+   ],
+   "tf": false,
+   "oops": "Haldir okunu yanlış hedefe attın dedi.",
+   "src": "https://www.imdb.com/title/tt0167261/characters/nm0662164/",
+   "k": 100544,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 3,
+   "q": "Hobbit filmlerinde ayıya dönüşen Beorn'u hangi oyuncu canlandırır?",
+   "a": [
+    "Mikael Persbrandt",
+    "Luke Evans",
+    "Ken Stott",
+    "Stephen Fry"
+   ],
+   "tf": false,
+   "oops": "Beorn bu yanıta hafifçe homurdandı.",
+   "src": "https://en.wikipedia.org/wiki/Mikael_Persbrandt",
+   "k": 100545,
+   "added": "2026-11-22"
+  },
+  {
+   "d": 3,
+   "q": "Beklenmedik Yolculuk'ta cüceleri yakalayan üç trolden birinin adı nedir?",
+   "a": [
+    "Bert",
+    "Gert",
+    "Hans",
+    "Karl"
+   ],
+   "tf": false,
+   "oops": "Trol bile kendi adını senden iyi biliyor!",
+   "src": "https://pjhobbitfilms.fandom.com/wiki/Tom,_Bert,_and_William",
+   "k": 100546,
+   "added": "2026-11-22"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-22"
 }
