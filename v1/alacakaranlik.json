@@ -450,7 +450,157 @@
    "src": "https://en.wikipedia.org/wiki/List_of_The_Twilight_Saga_cast_members",
    "k": 100099,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Alacakaranlık'ta Edward, Bella'yı Port Angeles'ta kimlerden kurtarır?",
+   "a": [
+    "Sokak serserilerinden",
+    "Volturi muhafızlarından",
+    "Yeni doğmuş vampirlerden",
+    "Kurtlardan"
+   ],
+   "tf": false,
+   "oops": "Bella'nın tek şansı Edward'ın tam zamanında gelmesiydi, senin şansın bitti.",
+   "src": "https://en.wikipedia.org/wiki/Twilight_(2008_film)",
+   "k": 100547,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 1,
+   "q": "Yeni Ay'da Edward, Volterra'da ölmek için ne yapmaya çalışır?",
+   "a": [
+    "Güneş ışığına çıkmaya",
+    "Volturi'ye saldırmaya",
+    "Uçurumdan atlamaya",
+    "Zehir içmeye"
+   ],
+   "tf": false,
+   "oops": "Edward bile bu soruda senden daha az parıldadı.",
+   "src": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_New_Moon",
+   "k": 100548,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 1,
+   "q": "Yeni Ay filmi hangi yıl vizyona girdi?",
+   "a": [
+    "2009",
+    "2008",
+    "2010",
+    "2011"
+   ],
+   "tf": false,
+   "oops": "Vampirler ölümsüz ama sen takvimi karıştırdın.",
+   "src": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_New_Moon",
+   "k": 100549,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 2,
+   "q": "Cullenlar beyzbolu neden yalnızca fırtına sırasında oynar?",
+   "a": [
+    "Gök gürültüsü vuruş seslerini bastırır",
+    "Gece görüşleri daha iyi olur",
+    "Kurtlardan saklanmak için",
+    "Hakem ancak o zaman gelir"
+   ],
+   "tf": false,
+   "oops": "Gürültüde cevabı duymamış olabilirsin.",
+   "src": "https://twilightsaga.fandom.com/wiki/The_Cullen_Family_baseball_field",
+   "k": 100550,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 2,
+   "q": "Bella ile Edward'ın balayı yaptığı adanın adı nedir?",
+   "a": [
+    "Esme Adası",
+    "Carlisle Adası",
+    "Alice Adası",
+    "Renée Adası"
+   ],
+   "tf": false,
+   "oops": "Ada senin hatırına kaybolmuş gibi.",
+   "src": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1",
+   "k": 100551,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 2,
+   "q": "Şafak Vakti Kısım 1'de doğumda Bella'yı kurtarmak için Edward ne yapar?",
+   "a": [
+    "Kalbine zehir enjekte eder",
+    "Ona kan nakli yapar",
+    "Adrenalin iğnesi vurur",
+    "Jacob'dan yardım ister"
+   ],
+   "tf": false,
+   "oops": "Doğru cevap hayati bir ayrıntıydı, bu da kaçtı.",
+   "src": "https://www.imdb.com/title/tt1324999/plotsummary/",
+   "k": 100552,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 2,
+   "q": "Jasper Hale'i hangi oyuncu canlandırır?",
+   "a": [
+    "Jackson Rathbone",
+    "Cam Gigandet",
+    "Xavier Samuel",
+    "Christian Serratos"
+   ],
+   "tf": false,
+   "oops": "Jasper bile duygunu yönetemedi bu sefer.",
+   "src": "https://www.imdb.com/title/tt1325004/fullcredits",
+   "k": 100553,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 3,
+   "q": "Yeni Ay'da Volturi'nin üyesi Caius'u hangi oyuncu canlandırır?",
+   "a": [
+    "Jamie Campbell Bower",
+    "Christopher Heyerdahl",
+    "Michael Sheen",
+    "Cameron Bright"
+   ],
+   "tf": false,
+   "oops": "Volturi seni de listeye eklemiş olabilir.",
+   "src": "https://www.themoviedb.org/movie/18239-the-twilight-saga-new-moon/cast",
+   "k": 100554,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 3,
+   "q": "Tutulma'da Rosalie, insanken yaşadığı hangi şehirdeki hikâyesini anlatır?",
+   "a": [
+    "Rochester",
+    "Chicago",
+    "Boston",
+    "Philadelphia"
+   ],
+   "tf": false,
+   "oops": "Rosalie'nin geçmişi gibi bu cevap da karanlıkta kaldı.",
+   "src": "https://twilightsaga.fandom.com/wiki/Rosalie_Hale",
+   "k": 100555,
+   "added": "2026-11-23"
+  },
+  {
+   "d": 3,
+   "q": "Yeni Ay'ın müziklerini hangi besteci yaptı?",
+   "a": [
+    "Alexandre Desplat",
+    "Carter Burwell",
+    "Howard Shore",
+    "Hans Zimmer"
+   ],
+   "tf": false,
+   "oops": "Nota tutmadı ama bir dahaki sefere belki.",
+   "src": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_New_Moon_(soundtrack)",
+   "k": 100556,
+   "added": "2026-11-23"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-23"
 }
