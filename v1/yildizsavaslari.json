@@ -448,7 +448,157 @@
    "src": "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story",
    "k": 100129,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Güç Uyanıyor'da Kylo Ren, babası Han Solo'yu neyle öldürür?",
+   "a": [
+    "Işın kılıcıyla",
+    "Blasterle",
+    "Güç yıldırımıyla",
+    "Boğarak"
+   ],
+   "tf": false,
+   "oops": "Han bu sefer 'Biliyorum' diyecek vakit bulamadı.",
+   "src": "https://starwars.fandom.com/wiki/Han_Solo",
+   "k": 100557,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 1,
+   "q": "Leia'nın R2-D2'nin içine yüklediği hologram mesajında Obi-Wan'a söylediği söz hangisidir?",
+   "a": [
+    "Tek umudumsun",
+    "Bize katıl",
+    "Beni kurtar",
+    "Geri dön"
+   ],
+   "tf": false,
+   "oops": "Leia'nın mesajı bile senden daha net çıktı.",
+   "src": "https://www.shmoop.com/quotes/help-me-obi-wan-kenobi-only-hope.html",
+   "k": 100558,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 1,
+   "q": "İmparator'da Han Solo'yu karbonit içinde Jabba the Hutt'a götüren ödül avcısı kimdir?",
+   "a": [
+    "Boba Fett",
+    "Greedo",
+    "Bossk",
+    "Dengar"
+   ],
+   "tf": false,
+   "oops": "Ödül avcısı seni de bulurdu ama doğru cevabı vermelisin.",
+   "src": "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+   "k": 100559,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 2,
+   "q": "Orijinal İngilizce seslendirmede Yoda'ya hangi sanatçı ses verir?",
+   "a": [
+    "Frank Oz",
+    "Rick Moranis",
+    "Billy Dee Williams",
+    "Mark Hamill"
+   ],
+   "tf": false,
+   "oops": "Yoda olsa 'Bilmek, hiç sen bilmiyorsun' derdi.",
+   "src": "https://en.wikipedia.org/wiki/Yoda",
+   "k": 100560,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 2,
+   "q": "Gizli Tehlike'de çocuk Anakin Skywalker'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Jake Lloyd",
+    "Hayden Christensen",
+    "Haley Joel Osment",
+    "Freddie Highmore"
+   ],
+   "tf": false,
+   "oops": "Pod yarışını kazanan sen değildin ama olsun.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Star_Wars_prequel_trilogy_characters",
+   "k": 100561,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 2,
+   "q": "Güç Uyanıyor'da First Order'ın bir güneş sistemini yok etmek için kullandığı dev silah hangisidir?",
+   "a": [
+    "Starkiller Üssü",
+    "Ölüm Yıldızı",
+    "Sith Kalesi",
+    "Yıldız Kıran"
+   ],
+   "tf": false,
+   "oops": "Yanlış cevap, küçük bir gezegen patlattı.",
+   "src": "https://moviedatabase.fandom.com/wiki/Starkiller_Base",
+   "k": 100562,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 2,
+   "q": "Son Jedi'nın yönetmeni kimdir?",
+   "a": [
+    "Rian Johnson",
+    "J. J. Abrams",
+    "Gareth Edwards",
+    "Colin Trevorrow"
+   ],
+   "tf": false,
+   "oops": "Yönetmen koltuğu bu kez sana yetmedi.",
+   "src": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+   "k": 100563,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 3,
+   "q": "Rogue One'da Jyn Erso'nun boynunda taşıdığı kolyedeki taş hangisidir?",
+   "a": [
+    "Kyber kristali",
+    "Midi-klorian taşı",
+    "Elmas",
+    "Zümrüt"
+   ],
+   "tf": false,
+   "oops": "Bu taşı kaçırmak Jyn'in de canını sıkardı.",
+   "src": "https://tvtropes.org/pmwiki/pmwiki.php/Film/RogueOne",
+   "k": 100564,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 3,
+   "q": "Solo'da suç örgütü Kızıl Şafak'ın acımasız lideri Dryden Vos'u hangi oyuncu canlandırır?",
+   "a": [
+    "Paul Bettany",
+    "Woody Harrelson",
+    "Jon Favreau",
+    "Ian McDiarmid"
+   ],
+   "tf": false,
+   "oops": "Dryden Vos bu cevaba bıçak gibi bakardı.",
+   "src": "https://en.wikipedia.org/wiki/Dryden_Vos",
+   "k": 100565,
+   "added": "2026-11-24"
+  },
+  {
+   "d": 3,
+   "q": "Solo'nun sonunda Qi'ra'nın hologramla görüştüğü Sith lordu kimdir?",
+   "a": [
+    "Darth Maul",
+    "Darth Vader",
+    "Kont Dooku",
+    "Darth Sidious"
+   ],
+   "tf": false,
+   "oops": "Qi'ra bile bu hataya kırmızı bakardı.",
+   "src": "https://en.wikipedia.org/wiki/Qi%27ra",
+   "k": 100566,
+   "added": "2026-11-24"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-24"
 }
