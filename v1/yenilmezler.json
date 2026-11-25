@@ -450,7 +450,157 @@
    "src": "https://www.imdb.com/title/tt0848228/quotes/?item=qt1685148",
    "k": 100159,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Sonsuzluk Savaşı'nda Groot'u seslendiren oyuncu kimdir?",
+   "a": [
+    "Vin Diesel",
+    "Dave Bautista",
+    "Bradley Cooper",
+    "Chris Pratt"
+   ],
+   "tf": false,
+   "oops": "Groot tek cümle kurar ama bu soru için o kadar kolay değildi!",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast",
+   "k": 100567,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 1,
+   "q": "Sonsuzluk Savaşı'nda Peter Parker toza dönüşmeden önce Tony'ye ne der?",
+   "a": [
+    "\"Kendimi iyi hissetmiyorum\"",
+    "\"Eve dönmek istiyorum\"",
+    "\"Ben hazırım\"",
+    "\"Bana kalkan ver\""
+   ],
+   "tf": false,
+   "oops": "Peter de şu an kendini senin kadar iyi hissetmiyor olabilir.",
+   "src": "https://www.imdb.com/title/tt4154756/quotes/?item=qt3944990",
+   "k": 100568,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 1,
+   "q": "Yenilmezler: Sonsuzluk Savaşı hangi yıl gösterime girdi?",
+   "a": [
+    "2018",
+    "2016",
+    "2017",
+    "2019"
+   ],
+   "tf": false,
+   "oops": "Zaman Taşı'nı kullansan bile yanlış yılı geri alamazsın!",
+   "src": "https://en.wikipedia.org/wiki/Tony_Stark_(Marvel_Cinematic_Universe)",
+   "k": 100569,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 2,
+   "q": "Rocket Raccoon'u seslendiren oyuncu kimdir?",
+   "a": [
+    "Bradley Cooper",
+    "Vin Diesel",
+    "Sean Gunn",
+    "Chris Pratt"
+   ],
+   "tf": false,
+   "oops": "Rocket bu cevabı duysa yine bir bomba yapardı.",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast",
+   "k": 100570,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 2,
+   "q": "Ultron, uçan Sokovia şehriyle ne yapmayı planlar?",
+   "a": [
+    "Dünya'ya çarpıp insanlığı yok etmek",
+    "Uzaya taşımak",
+    "Wakanda'ya indirmek",
+    "Thanos'a hediye etmek"
+   ],
+   "tf": false,
+   "oops": "Ultron'un planı da senin cevabın kadar felaketti.",
+   "src": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+   "k": 100571,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 2,
+   "q": "Sonsuzluk Savaşı'nda Gamora, Quill'den Thanos'a yakalanırsa ne yapmasını ister?",
+   "a": [
+    "Onu öldürmesini",
+    "Nebula'yı kurtarmasını",
+    "Taşı saklamasını",
+    "Kaçıp gitmesini"
+   ],
+   "tf": false,
+   "oops": "Quill de bu soruda Gamora gibi zor bir seçim yaptı.",
+   "src": "https://comicbook.com/marvel/news/avengers-infinity-war-star-lord-kill-gamora-change/",
+   "k": 100572,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 2,
+   "q": "İlk Yenilmezler filminde Natasha, Clint'le ortak geçmişlerini anarken hangi şehri söyler?",
+   "a": [
+    "Budapeşte",
+    "Prag",
+    "Viyana",
+    "Berlin"
+   ],
+   "tf": false,
+   "oops": "Natasha bu şehri hatırlıyor, sen de hatırlamalıydın!",
+   "src": "https://www.slashfilm.com/581951/black-widow-budapest-the-avengers/",
+   "k": 100573,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 3,
+   "q": "Sonsuzluk Savaşı'nda Thanos, Wakanda'da yok edilen Vision'ı nasıl geri getirir?",
+   "a": [
+    "Zaman Taşı'yla zamanı geri sararak",
+    "Ruh Taşı'yla",
+    "Güç Taşı'yla",
+    "Uzay Taşı'yla"
+   ],
+   "tf": false,
+   "oops": "Thanos bile bir deneme daha yaptı, sen de yapabilirsin!",
+   "src": "https://marvelcinematicuniverse.fandom.com/wiki/Time_Stone",
+   "k": 100574,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 3,
+   "q": "Ultron Çağı'nın sonunda Hulk, hangi araçla gözden kaybolur?",
+   "a": [
+    "Quinjet",
+    "Helicarrier",
+    "Hulkbuster",
+    "Bifröst"
+   ],
+   "tf": false,
+   "oops": "Hulk de seni gibi yönünü kaybedip uzaklara gitti.",
+   "src": "https://www.shmoop.com/study-guides/avengers-age-of-ultron/ending.html",
+   "k": 100575,
+   "added": "2026-11-25"
+  },
+  {
+   "d": 3,
+   "q": "Sonsuzluk Savaşı ve Son Oyun'da Mantis'i hangi oyuncu canlandırır?",
+   "a": [
+    "Pom Klementieff",
+    "Karen Gillan",
+    "Danai Gurira",
+    "Zoe Saldana"
+   ],
+   "tf": false,
+   "oops": "Mantis olsaydı bu cevabı hissederdi!",
+   "src": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/cast",
+   "k": 100576,
+   "added": "2026-11-25"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-25"
 }
