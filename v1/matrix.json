@@ -446,7 +446,157 @@
    "src": "https://www.themoviedb.org/movie/624860-the-matrix-resurrections/cast",
    "k": 100189,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Matrix filmleri hangi sinema türünde sayılır?",
+   "a": [
+    "Bilim kurgu",
+    "Western",
+    "Müzikal",
+    "Romantik komedi"
+   ],
+   "tf": false,
+   "oops": "Kırmızı hapı yutmak yerine mavi hapı seçmiş gibisin.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+   "k": 100577,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 1,
+   "q": "Matrix Reloaded'da Neo, Smith kopyalarının arasından kurtulunca ne yapar?",
+   "a": [
+    "Uçarak uzaklaşır",
+    "Metroya biner",
+    "Telefon kulübesine koşar",
+    "Çatıdan aşağı atlar"
+   ],
+   "tf": false,
+   "oops": "Yerçekimi bu soruda da seni yakaladı.",
+   "src": "https://matrix.fandom.com/wiki/Burly_Brawl",
+   "k": 100578,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 1,
+   "q": "Matrix Resurrections'ta Neo'yu Matrix'ten çıkarmayı başaran kaptan kimdir?",
+   "a": [
+    "Bugs",
+    "Niobe",
+    "Seraph",
+    "Persephone"
+   ],
+   "tf": false,
+   "oops": "Bu soruda Neo'dan bile şaşkın görünüyorsun.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+   "k": 100579,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 2,
+   "q": "Matrix Reloaded'da Merovingian'ın yanında görülen, beyaz giysili ve hayalet gibi ikili nasıl anılır?",
+   "a": [
+    "İkizler",
+    "Ajanlar",
+    "Gardiyanlar",
+    "Kardeşler"
+   ],
+   "tf": false,
+   "oops": "Bu soruda iki kere yanıldın sayalım.",
+   "src": "https://en.wikipedia.org/wiki/Twins_(The_Matrix)",
+   "k": 100580,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 2,
+   "q": "Matrix Reloaded'daki Smith kopyalarıyla kavgada Neo hangi eşyayı silah olarak kullanır?",
+   "a": [
+    "Metal boru",
+    "Kılıç",
+    "Sandalye",
+    "Beyzbol sopası"
+   ],
+   "tf": false,
+   "oops": "Boru değil, cevap hattı koptu.",
+   "src": "https://matrix.fandom.com/wiki/Burly_Brawl",
+   "k": 100581,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 2,
+   "q": "Matrix Reloaded'da Anahtarcı'yı elinde tutan kişi kimdir?",
+   "a": [
+    "Merovingian",
+    "Mimar",
+    "Komutan Lock",
+    "Ajan Brown"
+   ],
+   "tf": false,
+   "oops": "Anahtar sende değil, doğru cevap da.",
+   "src": "https://matrix.fandom.com/wiki/The_Matrix_Reloaded",
+   "k": 100582,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 2,
+   "q": "Matrix Reloaded'da Zion'daki büyük topluluk sahnesinde insanlar ne yapar?",
+   "a": [
+    "Dans eder",
+    "Yarış yapar",
+    "Şarkı yarışması izler",
+    "Sessizce dua eder"
+   ],
+   "tf": false,
+   "oops": "Ayakların tutmadı, cevap da kaçtı.",
+   "src": "https://www.syfy.com/syfy-wire/wtf-moments-the-zion-rave-madness-in-the-matrix-reloaded",
+   "k": 100583,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 3,
+   "q": "Matrix Reloaded ve Revolutions'ta Mimar'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Helmut Bakaitis",
+    "Anthony Zerbe",
+    "Ian Bliss",
+    "Nathaniel Lees"
+   ],
+   "tf": false,
+   "oops": "Mimar bile bu cevabı hesaplayamazdı.",
+   "src": "https://www.themoviedb.org/movie/604-the-matrix-reloaded/cast",
+   "k": 100584,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 3,
+   "q": "Reloaded ve Revolutions'ta Kâhin'in koruyucusu Seraph'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Collin Chou",
+    "Jet Li",
+    "Donnie Yen",
+    "Daniel Wu"
+   ],
+   "tf": false,
+   "oops": "Seraph bu cevaba kanat çırpardı.",
+   "src": "https://www.themoviedb.org/movie/604-the-matrix-reloaded/cast",
+   "k": 100585,
+   "added": "2026-11-26"
+  },
+  {
+   "d": 3,
+   "q": "Nebuchadnezzar'ın operatörü Link'i hangi oyuncu canlandırır?",
+   "a": [
+    "Harold Perrineau",
+    "Marcus Chong",
+    "Cornel West",
+    "Anthony Ray Parker"
+   ],
+   "tf": false,
+   "oops": "Sinyal zayıf, bağlantı koptu.",
+   "src": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions",
+   "k": 100586,
+   "added": "2026-11-26"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-26"
 }
