@@ -450,7 +450,155 @@
    "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
    "k": 100219,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Serinin ikinci filminin alt başlığı nedir?",
+   "a": [
+    "Ölü Adamın Sandığı",
+    "Kraken'in Laneti",
+    "Uçan Hollandalı'nın Dönüşü",
+    "Karayip'in Hazinesi"
+   ],
+   "tf": false,
+   "oops": "Bu sandığı bulmak için pusulaya ihtiyacın var gibi!",
+   "src": "https://tr.wikipedia.org/wiki/Karayip_Korsanlar%C4%B1:_%C3%96l%C3%BC_Adam%C4%B1n_Sand%C4%B1%C4%9F%C4%B1",
+   "k": 100587,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 1,
+   "q": "Serinin beşinci filminin alt başlığı nedir?",
+   "a": [
+    "Salazar'ın İntikamı",
+    "Poseidon'un Öfkesi",
+    "Hayalet Gemi",
+    "Kayıp Denizler"
+   ],
+   "tf": false,
+   "oops": "Bu soruda intikam almak yerine tekrar izlemeyi dene!",
+   "src": "https://www.beyazperde.com/filmler/film-189525/",
+   "k": 100588,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 1,
+   "q": "Karayip Korsanları filmleri bir Disney parkı gezintisinden esinlenmiştir.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Fare Mickey bile bunu bilirdi!",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100589,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 2,
+   "q": "Ölü Adamın Sandığı'nda Lord Cutler Beckett'i hangi oyuncu canlandırır?",
+   "a": [
+    "Tom Hollander",
+    "Jonathan Pryce",
+    "Stellan Skarsgård",
+    "Bill Paxton"
+   ],
+   "tf": false,
+   "oops": "Beckett bile bu soruda senden daha iyi puan toplardı.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Pirates_of_the_Caribbean_film_actors",
+   "k": 100590,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 2,
+   "q": "Bootstrap Bill rolünde hangi oyuncu görülür?",
+   "a": [
+    "Stellan Skarsgård",
+    "Tom Hollander",
+    "Ian McShane",
+    "Geoffrey Rush"
+   ],
+   "tf": false,
+   "oops": "Bootstrap Bill de ayağındaki topla seni geri çekti.",
+   "src": "https://en.wikipedia.org/wiki/List_of_Pirates_of_the_Caribbean_film_actors",
+   "k": 100591,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 2,
+   "q": "Vali Swann rolünü hangi oyuncu canlandırır?",
+   "a": [
+    "Jonathan Pryce",
+    "Kevin McNally",
+    "Michael Gambon",
+    "Richard Griffiths"
+   ],
+   "tf": false,
+   "oops": "Vali bu cevabı onaylamadı, tekrar dene!",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100592,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 2,
+   "q": "İlk filmde Jack'e tokat atan Anamaria'yı hangi oyuncu canlandırır?",
+   "a": [
+    "Zoe Saldaña",
+    "Naomie Harris",
+    "Rosario Dawson",
+    "Eva Mendes"
+   ],
+   "tf": false,
+   "oops": "Tokadı sen yedin, Jack değil!",
+   "src": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+   "k": 100593,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 3,
+   "q": "Dünyanın Sonu'nda Sao Feng'in gemisinin adı nedir?",
+   "a": [
+    "Empress",
+    "Jade Dragon",
+    "Typhoon",
+    "Lotus"
+   ],
+   "tf": false,
+   "oops": "Bu gemi Singapur'da kaldı, sen de oyunda kaldın.",
+   "src": "https://en.wikipedia.org/wiki/Sao_Feng",
+   "k": 100594,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 3,
+   "q": "Gizemli Denizlerde'de Barbossa hangi geminin kaptanıdır?",
+   "a": [
+    "Providence",
+    "Dying Gull",
+    "Dauntless",
+    "Santiago"
+   ],
+   "tf": false,
+   "oops": "Barbossa'nın bile tahta bacağı bu soruda sallandı.",
+   "src": "https://pirates.fandom.com/wiki/HMS_Providence",
+   "k": 100595,
+   "added": "2026-11-27"
+  },
+  {
+   "d": 3,
+   "q": "Salazar'ın İntikamı'nda İngiliz Kraliyet Donanması'ndan Kaptan Scarfield'ı hangi oyuncu canlandırır?",
+   "a": [
+    "David Wenham",
+    "Martin Freeman",
+    "Paul Bettany",
+    "Rhys Ifans"
+   ],
+   "tf": false,
+   "oops": "Scarfield bile üzülürdü, ama o da pek şaşırmazdı.",
+   "src": "https://pirates.fandom.com/wiki/John_Scarfield",
+   "k": 100596,
+   "added": "2026-11-27"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-27"
 }

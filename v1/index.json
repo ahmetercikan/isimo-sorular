@@ -1,5 +1,5 @@
 {
- "nextKey": 100587,
+ "nextKey": 100597,
  "counts": {
   "titanik": 30,
   "harrypotter": 40,
@@ -8,7 +8,7 @@
   "yildizsavaslari": 40,
   "yenilmezler": 40,
   "matrix": 40,
-  "karayipkorsanlari": 30,
+  "karayipkorsanlari": 40,
   "hababam": 21,
   "gora": 7,
   "eskiya": 15,
@@ -32,7 +32,7 @@
   "yildizsavaslari": "2026-11-24",
   "yenilmezler": "2026-11-25",
   "matrix": "2026-11-26",
-  "karayipkorsanlari": "2026-11-16",
+  "karayipkorsanlari": "2026-11-27",
   "hababam": "2026-11-16",
   "gora": "2026-11-16",
   "eskiya": "2026-11-16",
@@ -49,6 +49,13 @@
   "ezel": "2026-11-20"
  },
  "history": [
+  {
+   "at": "2026-11-27T01:20:27.953Z",
+   "id": "karayipkorsanlari",
+   "added": 10,
+   "rejected": 0,
+   "ok": true
+  },
   {
    "at": "2026-11-26T01:20:15.874Z",
    "id": "matrix",
@@ -281,13 +288,13 @@
    "ok": true
   }
  ],
- "updated": "2026-11-26T01:22:47.399Z",
+ "updated": "2026-11-27T01:22:35.953Z",
  "last": {
-  "at": "2026-11-26T01:20:15.874Z",
-  "id": "matrix",
+  "at": "2026-11-27T01:20:27.953Z",
+  "id": "karayipkorsanlari",
   "added": 10,
-  "rejected": 1,
+  "rejected": 0,
   "ok": true
  },
- "lastDaily": "2026-11-26"
+ "lastDaily": "2026-11-27"
 }
