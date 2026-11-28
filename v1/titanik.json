@@ -446,7 +446,155 @@
    "src": "https://movies.fandom.com/wiki/Titanic_(1997)/Transcript",
    "k": 100239,
    "added": "2026-11-16"
+  },
+  {
+   "d": 1,
+   "q": "Jack, geminin ucundaki \"uçma\" sahnesinde Rose'a ilk olarak ne sorar?",
+   "a": [
+    "Bana güveniyor musun?",
+    "Korkuyor musun?",
+    "Hazır mısın?",
+    "Beni seviyor musun?"
+   ],
+   "tf": false,
+   "oops": "Güven konusunda sicilin pek temiz değilmiş.",
+   "src": "https://en.wikiquote.org/wiki/Titanic_(1997_film)",
+   "k": 100597,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 1,
+   "q": "Doğru mu? Jack Dawson ve Rose, filmde kurgu karakterlerdir.",
+   "a": [
+    "Doğru",
+    "Yanlış"
+   ],
+   "tf": true,
+   "oops": "Bu aşk gerçek olsaydı kitaplara girerdi!",
+   "src": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+   "k": 100598,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 1,
+   "q": "Jack, Rose'un portresini çizerken Rose nerede uzanmaktadır?",
+   "a": [
+    "Bir divanda",
+    "Yatağında",
+    "Yerdeki halıda",
+    "Pencere önünde"
+   ],
+   "tf": false,
+   "oops": "Portre sahnesini kaçırdın galiba, rahat durmuyorsun!",
+   "src": "https://www.imdb.com/title/tt0120338/trivia/?item=tr0778826",
+   "k": 100599,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 2,
+   "q": "Titanik'in yönetmeni James Cameron hangi ülke doğumludur?",
+   "a": [
+    "Kanada",
+    "Amerika Birleşik Devletleri",
+    "Birleşik Krallık",
+    "Avustralya"
+   ],
+   "tf": false,
+   "oops": "Cameron'ı yanlış kıtaya gönderdin, buzdağına dikkat!",
+   "src": "https://en.wikipedia.org/wiki/James_Cameron",
+   "k": 100600,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 2,
+   "q": "Titanik, 11 Oscar'ını hangi yıl düzenlenen törende kazandı?",
+   "a": [
+    "1998",
+    "1997",
+    "1999",
+    "2000"
+   ],
+   "tf": false,
+   "oops": "Tarih biraz şaştı, ödül töreni seni beklemeyecek!",
+   "src": "https://en.wikipedia.org/wiki/70th_Academy_Awards",
+   "k": 100601,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 2,
+   "q": "Titanik filminin süresi yaklaşık ne kadardır?",
+   "a": [
+    "3 saat 15 dakika",
+    "2 saat 20 dakika",
+    "2 saat 45 dakika",
+    "4 saat"
+   ],
+   "tf": false,
+   "oops": "Koltukta senden çok daha uzun oturmak gerekiyormuş!",
+   "src": "https://www.boxofficemojo.com/title/tt0120338/",
+   "k": 100602,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 2,
+   "q": "Filmin müziklerinde İrlanda'yı çağrıştıran hangi çalgı öne çıkar?",
+   "a": [
+    "İrlanda düdüğü",
+    "Akordeon",
+    "Bağlama",
+    "Arp"
+   ],
+   "tf": false,
+   "oops": "Bu cevap kulağına hiç çalınmamış!",
+   "src": "https://en.wikipedia.org/wiki/Eric_Rigler",
+   "k": 100603,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 3,
+   "q": "Titanik'ten önce 11 Oscar kazanarak rekoru elinde tutan film hangisidir?",
+   "a": [
+    "Ben-Hur",
+    "Rüzgâr Gibi Geçti",
+    "West Side Story",
+    "Gigi"
+   ],
+   "tf": false,
+   "oops": "Rekor önce başkasındaymış, Titanik sadece eşitledi!",
+   "src": "https://www.washingtonpost.com/wp-srv/style/movies/oscars/titanicrecord.htm",
+   "k": 100604,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 3,
+   "q": "Subay Harold Lowe'u hangi oyuncu canlandırır?",
+   "a": [
+    "Ioan Gruffudd",
+    "Jonny Lee Miller",
+    "Rhys Ifans",
+    "Hugh Dancy"
+   ],
+   "tf": false,
+   "oops": "Filikadaki subayı da kaçırdın, kürekleri bırakma!",
+   "src": "https://en.wikipedia.org/wiki/Ioan_Gruffudd",
+   "k": 100605,
+   "added": "2026-11-28"
+  },
+  {
+   "d": 3,
+   "q": "Jack'in İrlandalı arkadaşı Tommy Ryan'ı hangi oyuncu canlandırır?",
+   "a": [
+    "Jason Barry",
+    "Colin Farrell",
+    "Cillian Murphy",
+    "Liam Neeson"
+   ],
+   "tf": false,
+   "oops": "İrlanda'dan geldin ama yine de tutturamadın!",
+   "src": "https://en.wikipedia.org/wiki/Jason_Barry",
+   "k": 100606,
+   "added": "2026-11-28"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-28"
 }
